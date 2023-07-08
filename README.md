@@ -2,7 +2,7 @@
 
 ## General Security
 
-Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awesome)
+Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awesome)
 
 - [GitHub - Veeral Patel - How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
 - [GitHub - gerryguy311 - CyberSecurity Professional Development Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
@@ -178,7 +178,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 
 ### Cloud and Containers
 
-***AWS*** ->
+***AWS***
 
 - [GitHub - alestic - AWS-CLI-Multi-Account-Sessions](https://github.com/alestic/aws-cli-multi-account-sessions)
 - [GitHub - Welldone-Cloud - AWS List Resources](https://github.com/welldone-cloud/aws-list-resources)
@@ -195,16 +195,16 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - NoqDev - IAMbic](https://github.com/noqdev/iambic)
 - [GitHub - TurnerLabs - Antiope](https://github.com/turnerlabs/antiope)
 
-***GCP*** ->
+***GCP***
 
 - [GitHub - Google Cloud Platform - Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics)
 
-***Azure*** ->
+***Azure***
 
 - [GitHub - HackmichNet - AzTokenFinder](https://github.com/HackmichNet/AzTokenFinder)
 - [GitHub - cisagov - ScubaGear](https://github.com/cisagov/ScubaGear)
 
-***Kubernetes & Containers*** ->
+***Kubernetes & Containers***
 
 - [GitHub - cr0hn - Dockerscan](https://github.com/cr0hn/dockerscan)
 - [GitHub - stealthcopter - DEEPCE](https://github.com/stealthcopter/deepce)
@@ -215,7 +215,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - DataDog - MKAT](https://github.com/DataDog/managed-kubernetes-auditing-toolkit/)
 - [Falco - Kubernetes Threat Detection Engine](https://falco.org/)
 
-***General*** ->
+***General***
 
 - [GitHub - BishopFox - CloudFox](https://github.com/BishopFox/cloudfox)
 - [GitHub - prowler-cloud - Prowler](https://github.com/prowler-cloud/prowler)
@@ -363,7 +363,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - righettod - GraphQL Lab](https://github.com/righettod/poc-graphql)
 - [GitHub - iknowjason - CloudSec Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs)
 
-Goat environments -> 
+***Goat environments***
 
 - [GitHub - OWASP - Web Goat](https://github.com/WebGoat/WebGoat)
 - [GitHub - madhuakula - Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
