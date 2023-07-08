@@ -1,6 +1,6 @@
 # Cybersecurity Links Collection
 
-### General Security
+## General Security
 
 Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awesome)
 
@@ -14,9 +14,9 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 
 ---
 
-### Cloud & Container Security
+## Cloud & Container Security
 
-##### General
+### General
 
 - [TLDRSec - Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
 - [Packet Mischief - Implement PoLP with CFN Stacksets](https://www.packetmischief.ca/2021/03/23/how-to-implement-the-principle-of-least-privilege-with-cloudformation-stacksets/)
@@ -29,7 +29,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [Lacework Policy & Benchmark Catalog](https://github.com/docs.lacework.com/catalog)
 - [Cloud Native Security Talks](https://talks.container-security.site)
 
-##### Kubernetes, Containers & IaC Security
+### Kubernetes, Containers & IaC Security
 
 - [Kubernetes - KubeCTL Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [GitHub - BishopFox - Kubernetes Bad Pods](https://github.com/BishopFox/badPods)
@@ -42,7 +42,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - Pulumi - Examples](https://github.com/pulumi/examples)
 - [GitHub - GCP - Microservices Demo](https://github.com/pulumi/examples)
 
-##### AWS Security
+### AWS Security
 
 - [Rhino Security Labs - AWS IAM Privilege Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation)
 - [Notsosecure - Hacking AWS Cognito Misconfigurations](https://notsosecure.com/hacking-aws-cognito-misconfigurations)
@@ -56,13 +56,13 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - AWS - SCP Examples](https://github.com/aws-samples/service-control-policy-examples)
 - [GitHub - Houey - Awesome SCPs](https://github.com/houey/awesome-service-control-policies)
 
-##### GCP Security
+### GCP Security
 
 - [Google Cloud Cheatsheet](https://googlecloudcheatsheet.withgoogle.com)
 - [Google Cloud Blog - All Topics](https://cloud.google.com/blog/topics/inside-google-cloud/complete-list-google-cloud-blog-links-2021)
 - [Google Cloud Networking 101 GCP Reference Sheet](https://cloud.google.com/blog/topics/developers-practitioners/networking-101-gcp-reference-sheet)
 
-##### Azure Security
+### Azure Security
 
 - [Medium - Gaining Control over Azure Function Apps](https://medium.com/xm-cyber/10-ways-of-gaining-control-over-azure-function-apps-7e7b84367ce6)
 - [Medium - Privesc on Azure Part 1](https://medium.com/xm-cyber/privilege-escalation-and-lateral-movement-on-azure-part-1-47e128cfdc06)
@@ -72,9 +72,9 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 
 ---
 
-### Web & Mobile Application Security
+## Web & Mobile Application Security
 
-##### Web Applications
+### Web Applications
 
 - [GitHub - Ignitetechnologies - Web Application Cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet)
 - [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/Glossary.html)
@@ -91,7 +91,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [ZenRows - How to Bypass Cloudflare](https://www.zenrows.com/blog/bypass-cloudflare#what-is-cloudflare-bot-management)
 - [YouTube - Rana Khalil - Portswigger Labs Solutions](https://www.youtube.com/@RanaKhalil101/playlists)
 
-##### Mobile Applications
+### Mobile Applications
 
 - [OWASP Mobile Application Security Testing Guide](https://mas.owasp.org/MASTG/)
 - [OWASP MASVS](https://cheatsheetseries.owasp.org/IndexMASVS.html)
@@ -100,9 +100,9 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 
 ---
 
-### Penetration Testing & OSCP
+## Penetration Testing & OSCP
 
-##### Pentesting
+### Pentesting
 
 - [GitHub - cure53 - Pentesting Contracts](https://github.com/cure53/Contracts)
 - [Linux Syscalls 64-bit](https://syscalls64.paolostivanin.com)
@@ -116,35 +116,35 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - Orange Cyberdefense - AD Pentesting Cheatsheet](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg)
 - [0xffSec Handbook](https://0xffsec.com/handbook/)
 
-##### OSCP
+### OSCP
 
 - [Infosecnayam - OSCP Resources](https://oscp.infosecsanyam.in)
 - [Adithyanak - OSCP Preparation Guide](https://blog.adithyanak.com/oscp-preparation-guide)
 
 ---
 
-### CTF & Bug Bounty
+## CTF & Bug Bounty
 
-##### Platforms
+### Platforms
 
 - [Microcorruption - Embedded CTF](https://microcorruption.com)
 - [0x0539 - CTF](https://0x0539.net)
 
-##### Resources
+### Resources
 
 - [GitHub - 0xrick - Steganography Resources](https://0xrick.github.io/lists/stego/)
 - [GitHub - Ignitetechnologies - Vulnhub CTF Writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
 
-##### Bug Bounty Writeups
+### Bug Bounty Writeups
 
 - [GitHub - devanshbatham - Awesome Bug Bounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 - [GitHub - ngalongc - Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
 
 ---
 
-### Tools & Websites
+## Tools & Websites
 
-##### SAST and Search
+### SAST and Search
 
 - [GitHub - BishopFox - GitGot](https://github.com/BishopFox/GitGot)
 - [GitHub - ShiftLeftSecurity - SAST-Scan](https://github.com/ShiftLeftSecurity/sast-scan)
@@ -156,7 +156,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [Analysis Tools Dev - Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis)
 - [GitHub - set1421 - SecretBench](https://github.com/setu1421/SecretBench)
 
-##### Web App Pentesting
+### Web App Pentesting
 
 - [GitHub - lc - SubJS](https://github.com/lc/subjs)
 - [GitHub - hannob - SnallyGaster](https://github.com/hannob/snallygaster)
@@ -176,7 +176,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [HoppScotch - Web Pentesting](https://hoppscotch.io)
 - [GitHub - DataDog - HASH](https://github.com/DataDog/hash)
 
-##### Cloud and Containers
+### Cloud and Containers
 
 ***AWS*** ->
 
@@ -227,7 +227,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - IKnowJason - Edge](https://github.com/iknowjason/edge)
 - [GitHub - CloudQuery - CloudQuery](https://github.com/cloudquery/cloudquery)
 
-##### Network Security
+### Network Security
 
 - [GitHub - Nitefood - ASN Lookup](https://github.com/nitefood/asn)
 - [GitHub - seladb - PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)
@@ -238,7 +238,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - Aploium - Shootback Reverse TCP Tunnel](https://github.com/aploium/shootback)
 - [GitHub - Ge0rg3 - Requests AWS IP Rotator Using API Gateway](https://github.com/Ge0rg3/requests-ip-rotator)
 
-##### Mobile App Pentesting
+### Mobile App Pentesting
 
 - [GitHub - MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 - [GitHub - Frida](https://github.com/frida/frida)
@@ -247,7 +247,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - Skylot - JADX](https://github.com/skylot/jadx)
 - [GitHub - Sensepost - Objection](https://github.com/sensepost/objection)
 
-##### Pentesting and OSCP
+### Pentesting and OSCP
 
 - [WADComs - Windows & AD Commands](https://wadcoms.github.io/)
 - [LOLBAS - Living Off The Land Binaries, Scripts and Libraries](https://lolbas-project.github.io)
@@ -262,12 +262,12 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [GitHub - guardicore - Infection Monkey](https://github.com/guardicore/monkey)
 - [GitHub - KGretzky - Evilgnix2](https://github.com/kgretzky/evilginx2)
 
-##### Payloads
+### Payloads
 
 - [GitHub - frohoff - YSoSerial](https://github.com/frohoff/ysoserial)
 - [GitHub - swisskyrepo - PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
-##### Other Technical
+### Other Technical
 
 - [GitHub - AbdulRhmanAlfaifi - Fennec](https://github.com/AbdulRhmanAlfaifi/Fennec)
 - [GitHub - Google - Tsunami Scanner](https://github.com/google/tsunami-security-scanner)
@@ -283,7 +283,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 
 ---
 
-### Productivity, QoL & Security
+## Productivity, QoL & Security
 
 - [CyMath - Solve Math Problems](https://www.cymath.com)
 - [Fake Name Generator](https://www.fakenamegenerator.com)
@@ -303,7 +303,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [Killed by Tech](https://killedby.tech)
 - [GitHub - FormSpree](https://github.com/formspree/formspree)
 
-##### AI Tools
+### AI Tools
 
 - [OpenAI - ChatGTP](https://chat.openai.com/chat)
 - [Google Bard](https://bard.google.com)
@@ -330,7 +330,7 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 - [Flyfin - AI Tax Engine](https://flyfin.tax)
 - [ThisPersonDoesNotExist - Random Face Generator](https://thispersondoesnotexist.com)
 
-##### Home Lab
+### Home Lab
 
 - [GitHub - NetData](https://github.com/netdata/netdata)
 - [DockerHub - plexinc - Plex Media Server](https://hub.docker.com/r/plexinc/pms-docker/)
@@ -352,9 +352,9 @@ Collection of Awesome XXX Links -> [Awesome](https://github.com/sindresorhus/awe
 
 ---
 
-### Courses & Study
+## Courses & Study
 
-##### Labs & Workshops
+### Labs & Workshops
 
 - [Underthewire - Powershell Labs](https://underthewire.tech)
 - [GitHub - BishopFox - JSON Interop Vuln Labs](https://github.com/BishopFox/json-interop-vuln-labs)
@@ -377,7 +377,7 @@ Goat environments ->
 - [GitHub - OWASP - iGoat](https://github.com/OWASP/igoat)
 - [GitHub - digininja - Damn Vulnerable Web App](https://github.com/digininja/DVWA)
 
-##### YouTube
+### YouTube
 
 - [SecureSet - Network Security 101](https://www.youtube.com/watch?v=E03gh1huvW4)
 - [TheLinuxFoundation - Introduction to Reverse Engineering](https://www.youtube.com/watch?v=7v7UaMsgg_c)
@@ -389,7 +389,7 @@ Goat environments ->
 - [TobalJackson - Introduction to Reverse Engineering with Radare2](https://www.youtube.com/watch?v=LAkYW5ixvhg)
 - [Google - Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
-##### Other
+### Other
 
 - [GitHub - RPIsec - Modern Binary Exploitation](https://github.com/rpisec/mbe)
 - [GitHub - GuyInATuxedo - Nightmare Binary Exploitation](https://guyinatuxedo.github.io/index.html)
@@ -406,17 +406,17 @@ Goat environments ->
 - [GitHub - Rung - Training DevEnv Security](https://github.com/rung/training-devenv-security)
 - [RealWorld Technology Implementations](https://www.realworld.how/docs/intro/)
 
-##### Interview Help
+### Interview Help
 
 - [GitHub - trekhleb - Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org)
 - [IshaqMohammed - Application Security Engineer Security Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/)
 
-##### Job Help
+### Job Help
 
 - [CloudSecurity Jobs](https://cloudsecurity.jobs/)
 
-##### Vulnerabilities
+### Vulnerabilities
 
 - [Aquasec - CVE-2022-0847 - Dirty Pipe](https://blog.aquasec.com/cve-2022-0847-dirty-pipe-linux-vulnerability)
 - [Lunasec - CVE-2021-44228 - Log4Shell](https://www.lunasec.io/docs/blog/log4j-zero-day/)
