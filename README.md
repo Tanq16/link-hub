@@ -59,6 +59,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - GlassEchidna - TrackIAM](https://github.com/glassechidna/trackiam)
 - [GitHub - AWS - SCP Examples](https://github.com/aws-samples/service-control-policy-examples)
 - [GitHub - Houey - Awesome SCPs](https://github.com/houey/awesome-service-control-policies)
+- [GitHub - PrimeHarbor - Sensitive IAM Actions](https://github.com/primeharbor/sensitive_iam_actions)
 
 ### GCP Security
 
@@ -121,8 +122,9 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 ### Active Directory
 
-- 
 - [GitHub - Orange Cyberdefense - AD Pentesting Cheatsheet](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg)
+- [GitHub - AD-Attacks - AD Pentesting](https://github.com/AD-Attacks/Active-Directory-Penetration-Testing)
+- [HackTheBox - AD Pentesting CheatSheet](https://www.hackthebox.com/blog/active-directory-penetration-testing-cheatsheet-and-guide)
 
 ### OSCP
 
@@ -154,9 +156,12 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 ### SAST and Search
 
+- [GitHub - Praetorian - NoseyParker](https://github.com/praetorian-inc/noseyparker)
 - [GitHub - BishopFox - GitGot](https://github.com/BishopFox/GitGot)
 - [GitHub - ShiftLeftSecurity - SAST-Scan](https://github.com/ShiftLeftSecurity/sast-scan)
+- [GitHub - Insider Sec - insider](https://github.com/insidersec/insider)
 - [SNR DAST Web App Scanner](https://ecsypno.com/scnr-documentation/)
+- [GitHub - AquaSec - Trivy](https://github.com/aquasecurity/trivy)
 - [GitHub - Alibaba - Arthas](https://github.com/alibaba/arthas)
 - [GitHub - Streaak - Keyhacks](https://github.com/streaak/keyhacks)
 - [CodeGrepper - Search for Code Answers](https://www.codegrepper.com)
@@ -166,16 +171,28 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 ### Web App Pentesting
 
+- [GitHub - ProjectDiscovery - HTTPX](https://github.com/projectdiscovery/httpx)
+- [GitHub - ProjectDiscovery - Katana](https://github.com/projectdiscovery/katana)
+- [GitHub - tomnomnom - HTTProbe](https://github.com/tomnomnom/httprobe)
 - [GitHub - lc - SubJS](https://github.com/lc/subjs)
 - [GitHub - hannob - SnallyGaster](https://github.com/hannob/snallygaster)
 - [GitHub - lc - GetAllURLS (gau)](https://github.com/lc/gau)
+- [GitHub - MSchwager - RouteDetect](https://github.com/mschwager/route-detect)
 - [GitHub - 1N3 - BlackWidow](https://github.com/1N3/BlackWidow)
+- [GitHub - sensepost - GoWitness](https://github.com/sensepost/gowitness)
+- [GitHub - breenmachine - HTTPScreenshot](https://github.com/breenmachine/httpscreenshot)
+- [GitHub - RedSiege - EyeWitness](https://github.com/RedSiege/EyeWitness)
+- [GitHub - ffuf - FuzzFasterUFool](https://github.com/ffuf/ffuf)
+- [GitHub - OJ - GoBuster](https://github.com/OJ/gobuster)
+- [GitHub - hahwil - DalFox](https://github.com/hahwul/dalfox)
+- [GitHub - SQLMapProject - SQLMap](https://github.com/sqlmapproject/sqlmap)
 - [GitHub - CloudFlare - Flan](https://github.com/cloudflare/flan)
 - [GitHub - RetireJS - Retire.js](https://github.com/retirejs/retire.js/)
 - [GitHub - Jaeles Project - Jaeles](https://github.com/jaeles-project/jaeles)
 - [GitHub - s0md3v - URO](https://github.com/s0md3v/uro)
 - [GitHub - BishopFox - h2csmuggler](https://github.com/BishopFox/h2csmuggler)
 - [GitHub - hackluke - hacktldextract](https://github.com/hakluke/haktldextract)
+- [GitHub - hackluke - hakrawler](https://github.com/hakluke/hakrawler)
 - [GitHub - PortSwigger - ElasticBurp](https://github.com/portswigger/elastic-burp)
 - [GitHub - nikitastupin - GraphQL Clairvoyance](https://github.com/nikitastupin/clairvoyance)
 - [GitHub - swisskyrepo - GraphQLMap](https://github.com/swisskyrepo/GraphQLmap)
@@ -210,7 +227,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 ***Azure***
 
 - [GitHub - HackmichNet - AzTokenFinder](https://github.com/HackmichNet/AzTokenFinder)
-- [GitHub - cisagov - ScubaGear](https://github.com/cisagov/ScubaGear)
+- [GitHub - HauSec - PowerZure](https://github.com/hausec/PowerZure)
 
 ***Kubernetes & Containers***
 
@@ -219,14 +236,20 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - RhinoSecurityLabs - Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat)
 - [GitHub - BridgeCrewIO - Checkov](https://github.com/bridgecrewio/checkov)
 - [GitHub - vchinnipilli - KubeStriker](https://github.com/vchinnipilli/kubestriker)
+- [GitHub - avolens - KubeFuzz](https://github.com/avolens/kubefuzz)
 - [StackRox - Kubernetes and Cloud Security Solution](https://www.stackrox.io/)
 - [GitHub - DataDog - MKAT](https://github.com/DataDog/managed-kubernetes-auditing-toolkit/)
+- [GitHub - Shopify - KubeAudit](https://github.com/Shopify/kubeaudit)
 - [Falco - Kubernetes Threat Detection Engine](https://falco.org/)
 
 ***General***
 
 - [GitHub - BishopFox - CloudFox](https://github.com/BishopFox/cloudfox)
 - [GitHub - prowler-cloud - Prowler](https://github.com/prowler-cloud/prowler)
+- [GitHub - AquaSec - CloudSploit](https://github.com/aquasecurity/cloudsploit)
+- [GitHub - NCCGroup - ScoutSuite](https://github.com/nccgroup/ScoutSuite)
+- [GitHub - ProjectDiscovery - CloudList](https://github.com/projectdiscovery/cloudlist)
+- [GitHub - initstring - CloudEnum](https://github.com/initstring/cloud_enum)
 - [GitHub - Lyft - Cartography](https://github.com/lyft/cartography)
 - [GitHub - Salesforce - Cloudsplaining](https://github.com/salesforce/cloudsplaining)
 - [GitHub - TruffleSecurity - Driftwood](https://github.com/trufflesecurity/driftwood)
@@ -237,14 +260,43 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 ### Network Security
 
+- [GitHub - Praetorian - FingerprintX](https://github.com/praetorian-inc/fingerprintx)
+- [GitHub - ProjectDiscovery - Nuclei](https://github.com/projectdiscovery/nuclei)
+- [GitHub - ProjectDiscovery - Naabu](https://github.com/projectdiscovery/naabu)
+- [GitHub - ProjectDiscovery - Proxify](https://github.com/projectdiscovery/proxify)
+- [GitHub - ProjectDiscovery - DNSX](https://github.com/projectdiscovery/dnsx)
+- [GitHub - ProjectDiscovery - Uncover](https://github.com/projectdiscovery/uncover)
+- [GitHub - ProjectDiscovery - InteractSH](https://github.com/projectdiscovery/interactsh)
+- [GitHub - ProjectDiscovery - Subfinder](https://github.com/projectdiscovery/subfinder)
+- [GitHub - OWASP-Amass - amass](https://github.com/owasp-amass/amass)
+- [GitHub - tomnomnom - AssetFinder](https://github.com/tomnomnom/assetfinder)
+- [GitHub - haccer - SubJack](https://github.com/haccer/subjack)
+- [GitHub - Ice3Man543 - SubOver](https://github.com/Ice3man543/SubOver)
 - [GitHub - Nitefood - ASN Lookup](https://github.com/nitefood/asn)
+- [GitHub - hackluke - hakrevdns](https://github.com/hakluke/hakrevdns)
 - [GitHub - seladb - PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)
 - [GitHub - opencoff - Go-Tunnel](https://github.com/opencoff/go-tunnel)
 - [Github - ginuerzh - GoST](https://github.com/ginuerzh/gost)
 - [GitHub - KasperskyLab - TinyCheck](https://github.com/KasperskyLab/TinyCheck)
 - [GitHub - MITMProxy](https://github.com/mitmproxy/mitmproxy)
 - [GitHub - Aploium - Shootback Reverse TCP Tunnel](https://github.com/aploium/shootback)
+- [GitHub - DrWetter - TestSSL.sh](https://github.com/drwetter/testssl.sh)
+- [GitHub - erebe - WSTunnel](https://github.com/erebe/wstunnel)
 - [GitHub - Ge0rg3 - Requests AWS IP Rotator Using API Gateway](https://github.com/Ge0rg3/requests-ip-rotator)
+- [Github - s0md3v - SMAP](https://github.com/s0md3v/Smap)
+- [GitHub - jpillora - Chisel](https://github.com/jpillora/chisel)
+- [Python - UploadServer](https://pypi.org/project/uploadserver)
+
+### Active Directory & Microsoft365
+
+- [GitHub - BlacklanternSecurity - ManSpider](https://github.com/blacklanternsecurity/MANSPIDER)
+- [GitHub - zyn3rgy - LDAPRelayScan](https://github.com/zyn3rgy/LdapRelayScan)
+- [GitHub - dirkjanm - BloodHound Python Collector](https://github.com/dirkjanm/BloodHound.py)
+- [GitHub - mpgn - CrackMapExec](https://github.com/mpgn/CrackMapExec)
+- [GitHub - ly4k - Certipy](https://github.com/ly4k/Certipy)
+- [GitHub - SnaffCon - Snaffler](https://github.com/SnaffCon/Snaffler)
+- [GitHub - ropnop - KerBrute](https://github.com/ropnop/kerbrute)
+- [GitHub - cisagov - ScubaGear](https://github.com/cisagov/ScubaGear)
 
 ### Mobile App Pentesting
 
@@ -277,6 +329,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 ### Other Technical
 
+- [GitHub - ProjectDiscovery - AIX](https://github.com/projectdiscovery/aix)
 - [GitHub - AbdulRhmanAlfaifi - Fennec](https://github.com/AbdulRhmanAlfaifi/Fennec)
 - [GitHub - Google - Tsunami Scanner](https://github.com/google/tsunami-security-scanner)
 - [Sploitus - Exploit Search](https://sploitus.com)
@@ -379,6 +432,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - BridgeCrew - Terragoat](https://github.com/bridgecrewio/terragoat)
 - [GitHub - JoshuaJebaraj - GCP Goat](https://github.com/JOSHUAJEBARAJ/GCP-GOAT)
 - [GitHub - Cider Security - CICD Goat](https://github.com/cider-security-research/cicd-goat)
+- [GitHub - INE-Labs - AWSGoat](https://github.com/ine-labs/AWSGoat)
 - [GitHub - Bishop Fox - IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable)
 - [GitHub - Dolevf - Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [GitHub - Payatu - DIVA Android](https://github.com/payatu/diva-android)
