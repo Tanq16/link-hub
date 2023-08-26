@@ -1,16 +1,20 @@
 # Cybersecurity Links Collection
 
+Easier navigation via TOC on the left (hamburger bullet list icon).
+
 ## General Security
 
 Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awesome)
 
-- [GitHub - Veeral Patel - How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
-- [GitHub - gerryguy311 - CyberSecurity Professional Development Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
-- [GitHub - yeahhub - Hacking Security Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks)
+- [Hacktricks](https://book.hacktricks.xyz/)
+- [The Hacker Recipes](https://www.thehacker.recipes)
 - [BishopFox - Fuzzing](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)
-- [GitHub - cypher387 - Dorks Collections](https://github.com/cipher387/Dorks-collections-list)
-- [Roadmap for Zero Trust Architecture](https://zerotrustroadmap.org)
+- [GitHub - gerryguy311 - CyberSecurity Professional Development Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
 - [GitHub - IgniteTechnologies - Mindmaps](https://github.com/Ignitetechnologies/Mindmap)
+- [GitHub - cypher387 - Dorks Collections](https://github.com/cipher387/Dorks-collections-list)
+- [GitHub - yeahhub - Hacking Security Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks)
+- [Roadmap for Zero Trust Architecture](https://zerotrustroadmap.org)
+- [GitHub - Veeral Patel - How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
 
 ---
 
@@ -18,7 +22,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 ### General
 
-- [TLDRSec - Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
+- [Cloud Hacktricks](https://cloud.hacktricks.xyz/)
 - [Packet Mischief - Implement PoLP with CFN Stacksets](https://www.packetmischief.ca/2021/03/23/how-to-implement-the-principle-of-least-privilege-with-cloudformation-stacksets/)
 - [Hacking the Cloud](https://hackingthe.cloud)
 - [CloudSecList](https://cloudseclist.com)
@@ -102,7 +106,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 ## Penetration Testing & OSCP
 
-### Pentesting
+### General
 
 - [GitHub - cure53 - Pentesting Contracts](https://github.com/cure53/Contracts)
 - [Linux Syscalls 64-bit](https://syscalls64.paolostivanin.com)
@@ -113,8 +117,12 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - wtsxDev - Penetration Testing Resources](https://github.com/wtsxDev/Penetration-Testing)
 - [GitHub - enaqx - Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 - [GitHub - blaCCkHatHacEEkr - Pentesting-Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md)
-- [GitHub - Orange Cyberdefense - AD Pentesting Cheatsheet](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg)
 - [0xffSec Handbook](https://0xffsec.com/handbook/)
+
+### Active Directory
+
+- 
+- [GitHub - Orange Cyberdefense - AD Pentesting Cheatsheet](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg)
 
 ### OSCP
 
