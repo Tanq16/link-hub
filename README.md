@@ -1,6 +1,6 @@
 # Cybersecurity Links Collection
 
-Easier navigation via TOC on the left (hamburger bullet list icon).
+Easier navigation via TOC on the left (hamburger bullet list icon next to where it says "README.md").
 
 ## General Security
 
@@ -23,12 +23,12 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 ### General
 
 - [Cloud Hacktricks](https://cloud.hacktricks.xyz/)
-- [Packet Mischief - Implement PoLP with CFN Stacksets](https://www.packetmischief.ca/2021/03/23/how-to-implement-the-principle-of-least-privilege-with-cloudformation-stacksets/)
 - [Hacking the Cloud](https://hackingthe.cloud)
 - [CloudSecList](https://cloudseclist.com)
 - [CloudSecDocs](https://cloudsecdocs.com)
 - [Sec Wiki - Cloud](https://www.secwiki.cloud)
 - [Cloud Security Wiki](https://cloudsecwiki.com)
+- [Packet Mischief - Implement PoLP with CFN Stacksets](https://www.packetmischief.ca/2021/03/23/how-to-implement-the-principle-of-least-privilege-with-cloudformation-stacksets/)
 - [GitHub - Wiz Sec - Cloud Middleware Dataset](https://github.com/wiz-sec/cloud-middleware-dataset)
 - [Lacework Policy & Benchmark Catalog](https://github.com/docs.lacework.com/catalog)
 - [Cloud Native Security Talks](https://talks.container-security.site)
