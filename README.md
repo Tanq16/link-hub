@@ -268,6 +268,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - ProjectDiscovery - Uncover](https://github.com/projectdiscovery/uncover)
 - [GitHub - ProjectDiscovery - InteractSH](https://github.com/projectdiscovery/interactsh)
 - [GitHub - ProjectDiscovery - Subfinder](https://github.com/projectdiscovery/subfinder)
+- [GitHub - ProjectDiscovery - SimpleHTTPServer](https://github.com/projectdiscovery/simplehttpserver)
 - [GitHub - OWASP-Amass - amass](https://github.com/owasp-amass/amass)
 - [GitHub - tomnomnom - AssetFinder](https://github.com/tomnomnom/assetfinder)
 - [GitHub - haccer - SubJack](https://github.com/haccer/subjack)
