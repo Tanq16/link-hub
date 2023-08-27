@@ -50,6 +50,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 - [Rhino Security Labs - AWS IAM Privilege Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation)
 - [AWS - Policy Evaluation Logic](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
+- [AWS - Policies and Permissions](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
 - [GitHub - AWS - SCP Examples](https://github.com/aws-samples/service-control-policy-examples)
 - [AWS - Managing Temporary Elevated Access](https://aws.amazon.com/blogs/security/managing-temporary-elevated-access-to-your-aws-environment/)
 - [TLDRSec - Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
