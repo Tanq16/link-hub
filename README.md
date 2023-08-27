@@ -49,7 +49,8 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 ### AWS Security
 
 - [Rhino Security Labs - AWS IAM Privilege Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation)
-- [Notsosecure - Hacking AWS Cognito Misconfigurations](https://notsosecure.com/hacking-aws-cognito-misconfigurations)
+- [AWS - Policy Evaluation Logic](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
+- [GitHub - AWS - SCP Examples](https://github.com/aws-samples/service-control-policy-examples)
 - [AWS - Managing Temporary Elevated Access](https://aws.amazon.com/blogs/security/managing-temporary-elevated-access-to-your-aws-environment/)
 - [TLDRSec - Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
 - [GitHub - trustoncloud - Threat Model AWS S3](https://github.com/trustoncloud/threatmodel-for-aws-s3)
@@ -57,8 +58,8 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - aidansteele - Centralized Logs](https://github.com/aidansteele/centralized-logs)
 - [GitHub - zop-io - AWS Security Survival Kit](https://github.com/zoph-io/aws-security-survival-kit)
 - [GitHub - GlassEchidna - TrackIAM](https://github.com/glassechidna/trackiam)
-- [GitHub - AWS - SCP Examples](https://github.com/aws-samples/service-control-policy-examples)
 - [GitHub - Houey - Awesome SCPs](https://github.com/houey/awesome-service-control-policies)
+- [Notsosecure - Hacking AWS Cognito Misconfigurations](https://notsosecure.com/hacking-aws-cognito-misconfigurations)
 - [GitHub - PrimeHarbor - Sensitive IAM Actions](https://github.com/primeharbor/sensitive_iam_actions)
 
 ### GCP Security
