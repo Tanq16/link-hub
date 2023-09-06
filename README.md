@@ -317,6 +317,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GTFOBins - Unix Binaries for Security Bypass](https://gtfobins.github.io)
 - [GitHub - Sensity AI - Deepfake Offensive Toolkit](https://github.com/sensity-ai/dot)
 - [GitHub - J3ssie - Osmedeus](https://github.com/j3ssie/osmedeus)
+- [GitHub - J3ssie - Metabigor](https://github.com/j3ssie/metabigor)
 - [GitHub - 1N3 - Sn1per](https://github.com/1N3/Sn1per)
 - [GitHub - m8sec - CrossLinked](https://github.com/m8sec/CrossLinked)
 - [GitHub - MattKeeley - Spoofy for SPF & DMARC](https://github.com/MattKeeley/Spoofy)
