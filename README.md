@@ -9,6 +9,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [Hacktricks](https://book.hacktricks.xyz/)
 - [The Hacker Recipes](https://www.thehacker.recipes)
 - [BishopFox - Fuzzing](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)
+- [GitHub - Antonio-Morales - Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 - [GitHub - gerryguy311 - CyberSecurity Professional Development Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
 - [GitHub - IgniteTechnologies - Mindmaps](https://github.com/Ignitetechnologies/Mindmap)
 - [GitHub - cypher387 - Dorks Collections](https://github.com/cipher387/Dorks-collections-list)
@@ -45,6 +46,8 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - KelseyHightower - Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [GitHub - Pulumi - Examples](https://github.com/pulumi/examples)
 - [GitHub - GCP - Microservices Demo](https://github.com/pulumi/examples)
+- [GitHub - krol3 - Container Security Checklist](https://github.com/krol3/container-security-checklist)
+- [GitHub - BlackBerry - Falco Bypasses](https://github.com/blackberry/Falco-bypasses)
 
 ### AWS Security
 
@@ -62,6 +65,8 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - Houey - Awesome SCPs](https://github.com/houey/awesome-service-control-policies)
 - [Notsosecure - Hacking AWS Cognito Misconfigurations](https://notsosecure.com/hacking-aws-cognito-misconfigurations)
 - [GitHub - PrimeHarbor - Sensitive IAM Actions](https://github.com/primeharbor/sensitive_iam_actions)
+- [GitHub - AWS Cookbook - Security](https://github.com/AWSCookbook/Security)
+- [GitHub - Invictus IR - AWS Cheatsheet](https://github.com/invictus-ir/aws-cheatsheet)
 
 ### GCP Security
 
@@ -217,10 +222,14 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - AWS - CloudFormation-Guard](https://github.com/aws-cloudformation/cloudformation-guard)
 - [GitHub - AWSLabs - Amazon-GuardDuty-Tester](https://github.com/awslabs/amazon-guardduty-tester)
 - [AWS - Jam](https://jam.awsevents.com)
-- [GitHub - Aqua - SCPKit](https://github.com/aquia-inc/scpkit)
+- [GitHub - Aquia - SCPKit](https://github.com/aquia-inc/scpkit)
+- [GitHub - Aquia - AWS GuardDuty Runbook Generator](https://github.com/aquia-inc/aws-guardduty-runbook-generator)
 - [GitHub - onemorepereira - AWS SSO Reporter](https://github.com/onemorepereira/aws-sso-reporter)
 - [GitHub - NoqDev - IAMbic](https://github.com/noqdev/iambic)
+- [GitHub - NetSPI - AWS Consoler](https://github.com/NetSPI/aws_consoler)
+- [GitHub - iann0036 - IAM Live](https://github.com/iann0036/iamlive)
 - [GitHub - TurnerLabs - Antiope](https://github.com/turnerlabs/antiope)
+- [GitHub - Invictus IR - Invictus AWS](https://github.com/invictus-ir/Invictus-AWS)
 
 ***GCP***
 
@@ -243,6 +252,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - DataDog - MKAT](https://github.com/DataDog/managed-kubernetes-auditing-toolkit/)
 - [GitHub - Shopify - KubeAudit](https://github.com/Shopify/kubeaudit)
 - [Falco - Kubernetes Threat Detection Engine](https://falco.org/)
+- [GitHub - AWS Labs - k8s Network Policy Migrator](https://github.com/awslabs/k8s-network-policy-migrator)
 
 ***General***
 
@@ -345,6 +355,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - s0md3v - Dump](https://github.com/s0md3v/dump)
 - [Detection Lab - AD Environment](https://detectionlab.network/)
 - [GitHub - Coding Horror - Basic Computer Games](https://github.com/coding-horror/basic-computer-games)
+- [JLess IO](https://jless.io)
 
 ---
 
@@ -397,23 +408,28 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 ### Home Lab
 
-- [GitHub - NetData](https://github.com/netdata/netdata)
+- [Jellyfin](https://jellyfin.org/docs/)
 - [DockerHub - plexinc - Plex Media Server](https://hub.docker.com/r/plexinc/pms-docker/)
 - [GitHub - tanq16 - Local Content Share](https://github.com/Tanq16/local-content-share)
-- [Jellyfin](https://jellyfin.org/docs/)
+- [Portainer](https://www.portainer.io/)
 - [GitHub - Nginx-Proxy-Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+- [GitHub - NetData](https://github.com/netdata/netdata)
+- [TubeArchivist](https://www.tubearchivist.com/)
+- [GitHub - DeepJyoti30 - YTMdl](https://github.com/deepjyoti30/ytmdl)
 - [GitHub - hay-kot - HomeBox](https://github.com/hay-kot/homebox)
 - [GitHub - SelfHostedPro - Yacht](https://github.com/SelfhostedPro/Yacht)
-- [Portainer](https://www.portainer.io/)
 - [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
 - [GitHub - benphelps - Homepage](https://github.com/benphelps/homepage)
 - [GitHub - Traggo](https://github.com/traggo/)
+- [GitHub - UseMemos - Memos](https://github.com/usememos/memos)
 - [GitHub - FileBrowser](https://github.com/filebrowser/filebrowser)
 - [GitHub - NocoDB](https://github.com/nocodb/nocodb)
+- [Home Assisstant](https://www.home-assistant.io/)
 - [GitHub - Codex Team - Codex.Docs](https://github.com/codex-team/codex.docs)
-- [CasaOS](https://casaos.io)
 - [GitHub - Omnivore](https://github.com/omnivore-app/omnivore/tree/main)
 - [GitHub - deiucanta - ChatPad](https://github.com/deiucanta/chatpad)
+- [CasaOS](https://casaos.io)
+- [DockerHub - LSIO - QBitTorrent](https://hub.docker.com/r/linuxserver/qbittorrent)
 
 ---
 
@@ -442,6 +458,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - Payatu - DIVA Android](https://github.com/payatu/diva-android)
 - [GitHub - OWASP - iGoat](https://github.com/OWASP/igoat)
 - [GitHub - digininja - Damn Vulnerable Web App](https://github.com/digininja/DVWA)
+- [GitHub - XM-Cyber - XMGoat Azure](https://github.com/XMCyber/XMGoat)
 
 ### YouTube
 
