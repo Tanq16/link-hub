@@ -405,6 +405,10 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [MyHeritage - Animate Family Photos](https://www.myheritage.com)
 - [Flyfin - AI Tax Engine](https://flyfin.tax)
 - [ThisPersonDoesNotExist - Random Face Generator](https://thispersondoesnotexist.com)
+- [SeaArt](https://www.seaart.ai/home)
+- [Tensorplay](https://tensorplay.ai/)
+- [Starry AI](https://starryai.com/)
+- [CivitAI](https://civitai.com/)
 
 ### Home Lab
 
@@ -412,11 +416,13 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [DockerHub - plexinc - Plex Media Server](https://hub.docker.com/r/plexinc/pms-docker/)
 - [GitHub - tanq16 - Local Content Share](https://github.com/Tanq16/local-content-share)
 - [Portainer](https://www.portainer.io/)
+- [GitHub - CorentinTh - IT-Tools](https://github.com/CorentinTh/it-tools)
 - [GitHub - Nginx-Proxy-Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
-- [GitHub - NetData](https://github.com/netdata/netdata)
 - [TubeArchivist](https://www.tubearchivist.com/)
+- [GitHub - AlexTa69 - MeTube](https://github.com/alexta69/metube)
 - [GitHub - DeepJyoti30 - YTMdl](https://github.com/deepjyoti30/ytmdl)
 - [GitHub - hay-kot - HomeBox](https://github.com/hay-kot/homebox)
+- [GitHub - NetData](https://github.com/netdata/netdata)
 - [GitHub - SelfHostedPro - Yacht](https://github.com/SelfhostedPro/Yacht)
 - [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
 - [GitHub - benphelps - Homepage](https://github.com/benphelps/homepage)
