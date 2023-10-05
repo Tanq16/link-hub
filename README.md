@@ -333,7 +333,6 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - 1N3 - Sn1per](https://github.com/1N3/Sn1per)
 - [GitHub - m8sec - CrossLinked](https://github.com/m8sec/CrossLinked)
 - [GitHub - MattKeeley - Spoofy for SPF & DMARC](https://github.com/MattKeeley/Spoofy)
-- [GitHub - SnaffCon - Snaffler](https://github.com/SnaffCon/Snaffler)
 - [GitHub - zeronetworks - BlueHound](https://github.com/zeronetworks/BlueHound)
 - [GitHub - guardicore - Infection Monkey](https://github.com/guardicore/monkey)
 - [GitHub - KGretzky - Evilgnix2](https://github.com/kgretzky/evilginx2)
