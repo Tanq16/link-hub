@@ -65,8 +65,9 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - Houey - Awesome SCPs](https://github.com/houey/awesome-service-control-policies)
 - [Notsosecure - Hacking AWS Cognito Misconfigurations](https://notsosecure.com/hacking-aws-cognito-misconfigurations)
 - [GitHub - PrimeHarbor - Sensitive IAM Actions](https://github.com/primeharbor/sensitive_iam_actions)
-- [GitHub - AWS Cookbook - Security](https://github.com/AWSCookbook/Security)
 - [GitHub - Invictus IR - AWS Cheatsheet](https://github.com/invictus-ir/aws-cheatsheet)
+- [GitHub - AWS Cookbook - Security](https://github.com/AWSCookbook/Security)
+- [GitHub - AWS Samples - AWS Customer Playbook Framework](https://github.com/aws-samples/aws-customer-playbook-framework)
 
 ### GCP Security
 
@@ -253,6 +254,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - Shopify - KubeAudit](https://github.com/Shopify/kubeaudit)
 - [Falco - Kubernetes Threat Detection Engine](https://falco.org/)
 - [GitHub - AWS Labs - k8s Network Policy Migrator](https://github.com/awslabs/k8s-network-policy-migrator)
+- [GitHub - GoodWithTech - Dockle](https://github.com/goodwithtech/dockle)
 
 ***General***
 
@@ -481,6 +483,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 ### Other
 
 - [GitHub - RPIsec - Modern Binary Exploitation](https://github.com/rpisec/mbe)
+- [GitHub - WalidShaari - CKS (Certified Kubernetes Security Specialist)](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [GitHub - GuyInATuxedo - Nightmare Binary Exploitation](https://guyinatuxedo.github.io/index.html)
 - [Study Roadmaps](https://roadmap.sh/roadmaps)
 - [Linux From Scratch](https://www.linuxfromscratch.org)
