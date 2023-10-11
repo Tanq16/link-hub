@@ -312,6 +312,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - SnaffCon - Snaffler](https://github.com/SnaffCon/Snaffler)
 - [GitHub - ropnop - KerBrute](https://github.com/ropnop/kerbrute)
 - [GitHub - cisagov - ScubaGear](https://github.com/cisagov/ScubaGear)
+- [GitHub - G3han - PowerShell for Active Directory](https://github.com/g3han/PowerShell-For-Active-Directory)
 
 ### Mobile App Pentesting
 
@@ -336,6 +337,8 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - zeronetworks - BlueHound](https://github.com/zeronetworks/BlueHound)
 - [GitHub - guardicore - Infection Monkey](https://github.com/guardicore/monkey)
 - [GitHub - KGretzky - Evilgnix2](https://github.com/kgretzky/evilginx2)
+- [GitHub - PowerShellMafia - PowerSploit](https://github.com/powershellmafia/powersploit)
+- [GitHub - S3cur3Th1sSh1t - PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack)
 
 ### Payloads
 
