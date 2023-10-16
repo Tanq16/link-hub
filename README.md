@@ -426,6 +426,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [GitHub - AlexTa69 - MeTube](https://github.com/alexta69/metube)
 - [GitHub - DeepJyoti30 - YTMdl](https://github.com/deepjyoti30/ytmdl)
 - [GitHub - hay-kot - HomeBox](https://github.com/hay-kot/homebox)
+- [GitHub - Froodle - Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 - [GitHub - NetData](https://github.com/netdata/netdata)
 - [GitHub - SelfHostedPro - Yacht](https://github.com/SelfhostedPro/Yacht)
 - [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
