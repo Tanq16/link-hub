@@ -176,6 +176,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 - [Grep.App - Search Code on Git Repos](https://grep.app)
 - [Analysis Tools Dev - Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis)
 - [GitHub - set1421 - SecretBench](https://github.com/setu1421/SecretBench)
+- [GitHub - SynAckTIV - NordStream](https://github.com/synacktiv/nord-stream)
 
 ### Web App Pentesting
 
