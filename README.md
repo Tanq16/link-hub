@@ -241,6 +241,7 @@ Collection of Awesome XXX Links - [Awesome](https://github.com/sindresorhus/awes
 
 - [GitHub - HackmichNet - AzTokenFinder](https://github.com/HackmichNet/AzTokenFinder)
 - [GitHub - HauSec - PowerZure](https://github.com/hausec/PowerZure)
+- [GitHub - SilverHack - Monkey365](https://github.com/silverhack/monkey365)
 
 ***Kubernetes & Containers***
 
