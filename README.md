@@ -1,6 +1,6 @@
 # My Cybersecurity Links Collection
 
-Easier navigation via TOC on the left (hamburger bullet list icon next to where it says "README.md").
+Easier navigation via TOC on the right (hamburger bullet list icon next to where it says "README.md").
 
 ## Cybersecurity
 
