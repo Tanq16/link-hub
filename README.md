@@ -1,7 +1,30 @@
-> [!TIP]
-> Easier navigation via TOC on the right (hamburger bullet list icon next to where it says "README.md").
+# Cybersecurity Links Dump
 
-# Labs & Workshops
+Table of Contents &rarr;
+
+- [Labs & Workshops](#labs--workshops)
+- [Tools](#tools)
+    - [AI Tools](#ai-tools)
+    - [Web, Mobile & Source](#web-mobile--source)
+    - [AD, M365, OSCP & Pentesting](#ad-m365-oscp--pentesting)
+    - [Cloud & Containers](#cloud--containers)
+    - [Network Security](#network-security)
+    - [Other Technical](#other-technical)
+- [General Cybersec](#general-cybersec)
+    - [Pentesting & OSCP](#pentesting--oscp)
+    - [CTF & Bug Bounty](#ctf--bug-bounty)
+    - [Cybersecurity](#cybersecurity)
+- [Others](#others)
+    - [Miscellaneous](#miscellaneous)
+    - [Productivity & Quality of Life](#productivity--quality-of-life)
+    - [Home Lab & OSS](#home-lab--oss)
+- [Cloud Security](#cloud-security)
+- [Application Security](#application-security)
+- [Study](#study)
+
+---
+
+## Labs & Workshops
 
 - [Cider Security - CICD Goat](https://github.com/cider-security-research/cicd-goat)
 - [Joshua J - GCP Goat](https://github.com/JOSHUAJEBARAJ/GCP-GOAT)
@@ -36,9 +59,9 @@
 - [XMCyber - Azure Goat](https://github.com/XMCyber/XMGoat)
 - [Thunder CTF Cloud](https://thunder-ctf.cloud/)
 
-# Tools
+## Tools
 
-## AI Tools
+### AI Tools
 
 - [Chat GPT](https://chat.openai.com/chat)
 - [Jasper AI](https://www.jasper.ai/)
@@ -58,7 +81,7 @@
 - [Steve AI](https://www.steve.ai/)
 - [Fly Fin Tax AI](https://flyfin.tax/)
 
-## Web, Mobile & Source
+### Web, Mobile & Source
 
 - [Frida](https://frida.re)
 - [Jaeles](https://github.com/jaeles-project/jaeles)
@@ -112,7 +135,7 @@
 - [Tomnomnom - HTTProbe](https://github.com/tomnomnom/httprobe)
 - [1N3 - BlackWidow](https://github.com/1N3/BlackWidow)
 
-## AD, M365, OSCP & Pentesting
+### AD, M365, OSCP & Pentesting
 
 - [SwissKyrepo - PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [DirkJanm - BloodHound Python](https://github.com/dirkjanm/BloodHound.py)
@@ -145,7 +168,7 @@
 - [Beelzebub Honeypot](https://github.com/mariocandela/beelzebub)
 - [Project Discovery - CVEMap](https://github.com/projectdiscovery/cvemap)
 
-## Cloud & Containers
+### Cloud & Containers
 
 - [AquaSecurity - CloudSploit](https://github.com/aquasecurity/cloudsploit)
 - [Project Discovery - Cloudlist](https://github.com/projectdiscovery/cloudlist)
@@ -217,7 +240,7 @@
 - [TruffleSec - Driftwood](https://github.com/trufflesecurity/driftwood)
 - [Twilio Labs - SOCless](https://github.com/twilio-labs/socless)
 
-## Network Security
+### Network Security
 
 - [Haccer - SubJack](https://github.com/haccer/subjack)
 - [Ge0rg3 - AWS API Gateway IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator)
@@ -246,7 +269,7 @@
 - [SelaDB - PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)
 - [Ice3Man543 - SubOver](https://github.com/Ice3man543/SubOver)
 
-## Other Technical
+### Other Technical
 
 - [Quick Reference](https://quickref.me/)
 - [Sploitus - Exploit Search](https://sploitus.com/)
@@ -263,9 +286,9 @@
 - [Detection Lab - AD Environment](https://detectionlab.network/)
 - [Abbbi - SSEnv](https://github.com/abbbi/ssenv)
 
-# General Cybersec
+## General Cybersec
 
-## Pentesting & OSCP
+### Pentesting & OSCP
 
 - [Linux Syscalls 32 bit](https://syscalls32.paolostivanin.com/)
 - [Ignite Technologies - Privesc CheatSheet](https://github.com/Ignitetechnologies/Privilege-Escalation)
@@ -282,7 +305,7 @@
 - [0xffsec - HandBook](https://0xffsec.com/handbook/)
 - [Cure53 - Pentesting Contracts](https://github.com/cure53/Contracts)
 
-## CTF & Bug Bounty
+### CTF & Bug Bounty
 
 - [0x0539 - CTF](https://0x0539.net/)
 - [Steganography Resources](https://0xrick.github.io/lists/stego/)
@@ -291,7 +314,7 @@
 - [NGalongC - Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
 - [Devansh B - Bug Bounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 
-## Cybersecurity
+### Cybersecurity
 
 - [Bishop Fox - Fuzzing](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)
 - [Antonio Morales - Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
@@ -305,9 +328,9 @@
 - [Cipher387 - Dorks Collection](https://github.com/cipher387/Dorks-collections-list)
 - [Ignite Technologies - Security Mindmaps](https://github.com/Ignitetechnologies/Mindmap)
 
-# Others
+## Others
 
-## Miscellaneous
+### Miscellaneous
 
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Roadmaps for Study](https://roadmap.sh/roadmaps)
@@ -318,7 +341,7 @@
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [Awesome - Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
 
-## Productivity & Quality of Life
+### Productivity & Quality of Life
 
 - [Slidesgo Templates](https://slidesgo.com)
 - [Cloudwards - Security Tools Reviewed](https://www.cloudwards.net/)
@@ -338,7 +361,7 @@
 - [DoNotPay](https://donotpay.com)
 - [ToS;DR](https://tosdr.org)
 
-## Home Lab & OSS
+### Home Lab & OSS
 
 - [Dockge](https://github.com/louislam/dockge)
 - [Standard Notes - File Send](https://filesend.standardnotes.com/)
@@ -420,7 +443,7 @@
 - [Home Assistant](https://www.home-assistant.io/)
 - [Deiucanta - ChatPad](https://github.com/deiucanta/chatpad)
 
-# Cloud Security
+## Cloud Security
 
 - [Cloud Security Wiki](https://cloudsecwiki.com/)
 - [Gaining Control over Azure Function Apps](https://medium.com/xm-cyber/10-ways-of-gaining-control-over-azure-function-apps-7e7b84367ce6)
@@ -476,7 +499,7 @@
 - [HackTricks - Kubernetes Pentesting](https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-pentesting)
 - [HackTricks - Pentesting Docker](https://book.hacktricks.xyz/network-services-pentesting/2375-pentesting-docker)
 
-# Application Security
+## Application Security
 
 - [OffSecML](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook)
 - [Bypassing Cloudflare](https://www.zenrows.com/blog/bypass-cloudflare#cloudflare-solvers)
@@ -490,7 +513,7 @@
 - [OWASP - MASTG](https://mas.owasp.org/MASTG/)
 - [OWASP CheatSheets](https://cheatsheetseries.owasp.org/Glossary.html)
 
-# Study
+## Study
 
 - [Nightmare Binary Exploitation Course](https://guyinatuxedo.github.io/index.html)
 - [WalidShaari - Certified Kubernetes Security Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
