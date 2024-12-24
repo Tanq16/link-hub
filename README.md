@@ -1,4 +1,6 @@
-# Cybersecurity Links Dump
+<p align="center">
+<img src=".github/assets/logo.png" alt="LinkHub Logo" width="250" height="250" />
+<h1 align="center">Cybersecurity Links Dump</h1><br>
 
 Table of Contents &rarr;
 
