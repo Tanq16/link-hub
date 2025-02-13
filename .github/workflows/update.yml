@@ -1,0 +1,37 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'linksnapper.json'
+      - 'linksnapper-to-md.py'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run conversion script
+        run: python linksnapper-to-md.py
+
+      - name: Move output to README
+        run: mv output.md README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README" && git push)
