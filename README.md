@@ -1,534 +1,554 @@
+
 <p align="center">
 <img src=".github/assets/logo.png" alt="LinkHub Logo" width="250" height="250" />
 <h1 align="center">Cybersecurity Links Dump</h1><br>
 
+
 Table of Contents &rarr;
 
+- [AI Security](#ai-security)
+    - [Labs](#labs)
+- [Cloud](#cloud)
+    - [AWS Security](#aws-security)
+        - [Labs](#labs)
+        - [Tools](#tools)
+    - [Azure Security](#azure-security)
+        - [Labs](#labs)
+        - [Tools](#tools)
+    - [CICD Security](#cicd-security)
+        - [Labs](#labs)
+        - [Tools](#tools)
+    - [GCP Security](#gcp-security)
+        - [Labs](#labs)
+        - [Tools](#tools)
+    - [IaC](#iac)
+        - [Tools](#tools)
+    - [Kubernetes Security](#kubernetes-security)
+        - [Labs](#labs)
+        - [Tools](#tools)
+    - [Labs](#labs)
+    - [Tools](#tools)
+- [Courses](#courses)
+- [Cybersecurity](#cybersecurity)
+    - [Labs](#labs)
+    - [Resources](#resources)
+- [Infrastructure Security](#infrastructure-security)
+    - [Active Directory](#active-directory)
+    - [Labs](#labs)
+    - [Linux](#linux)
+    - [Pentesting](#pentesting)
+    - [Tools](#tools)
+- [Mobile Security](#mobile-security)
+    - [Labs](#labs)
+    - [Tools](#tools)
+- [Productivity & QoL](#productivity--qol)
+- [Web Security](#web-security)
+    - [Fuzzing](#fuzzing)
+    - [GraphQL](#graphql)
+    - [Labs](#labs)
+    - [Tools](#tools)
 
-- [Labs & Workshops](#labs--workshops)
-- [Tools](#tools)
-    - [AI Tools](#ai-tools)
-    - [Web, Mobile & Source](#web-mobile--source)
-    - [AD, M365, OSCP & Pentesting](#ad-m365-oscp--pentesting)
-    - [Cloud & Containers](#cloud--containers)
-    - [Network Security](#network-security)
-    - [Other Technical](#other-technical)
-- [General Cybersec](#general-cybersec)
-    - [Pentesting & OSCP](#pentesting--oscp)
-    - [CTF & Bug Bounty](#ctf--bug-bounty)
-    - [Cybersecurity](#cybersecurity)
-- [Others](#others)
-    - [Miscellaneous](#miscellaneous)
-    - [Productivity & Quality of Life](#productivity--quality-of-life)
-    - [Home Lab & OSS](#home-lab--oss)
-- [Cloud Security](#cloud-security)
-- [Application Security](#application-security)
-- [Study](#study)
+# AI Security
 
----
+| Name | Description |
+|------|-------------|
+| [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | GitHub - promptslab/Awesome-Prompt-Engineering: This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc |
+| [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model |
+| [OffSecML](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook) | Welcome to the Offensive ML Playbook - OffSecML Playbook |
+| [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | GitHub - tensorchord/Awesome-LLMOps: An awesome &amp; curated list of best LLMOps tools for developers |
+| [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) | GitHub - tldrsec/prompt-injection-defenses: Every practical and proposed defense against prompt injection. |
 
-## Labs & Workshops
+## Labs
 
-- [Cider Security - CICD Goat](https://github.com/cider-security-research/cicd-goat)
-- [Joshua J - GCP Goat](https://github.com/JOSHUAJEBARAJ/GCP-GOAT)
-- [OWASP - iGoat](https://github.com/OWASP/igoat)
-- [DigiNinja - Damn Vulnerable Web App](https://github.com/digininja/DVWA)
-- [BishopFox - IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable)
-- [Payatu - DIVA Android](https://github.com/payatu/diva-android)
-- [RhinoSec - Cloud Goat](https://github.com/RhinoSecurityLabs/cloudgoat)
-- [Madhukala - Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
-- [Under The Wire Powershell Labs](https://underthewire.tech/)
-- [IKnowJason - Awesome Cloud Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs)
-- [AWS Control Tower Workshop](https://controltower.aws-management.tools/)
-- [NCC Group - Sad Cloud](https://github.com/nccgroup/sadcloud)
-- [BridgeCrew - Terragoat](https://github.com/bridgecrewio/terragoat)
-- [FrankWXU - Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab)
-- [INE Labs - AWS Goat](https://github.com/ine-labs/AWSGoat)
-- [Righettod - GraphQL Labs](https://github.com/righettod/poc-graphql)
-- [OWASP - Web Goat](https://github.com/WebGoat/WebGoat)
-- [DolevF - Damn Vulnerable GraphQL App](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
-- [flAWS Cloud](http://flaws.cloud)
-- [flAWS 2 Cloud](http://flaws2.cloud/)
-- [flAWS Cloud](https://flaws.cloud)
-- [Dhammon - AI Goat](https://github.com/dhammon/ai-goat)
-- [IKnowJason - PurpleCloud Azure Terraform](https://github.com/iknowjason/PurpleCloud)
-- [Step Security - GitHub Actions Goat](https://github.com/step-security/github-actions-goat)
-- [Ermetic - CNAPPgoat](https://github.com/ermetic-research/cnappgoat)
-- [Wiz Labs - K8s Lan Party](https://k8slanparty.com/)
-- [Orca Security - AI Goat](https://github.com/orcasecurity-research/AIGoat)
-- [DERE-ad2001 - Frida Labs](https://github.com/DERE-ad2001/Frida-Labs)
-- [Bishop Fox - JSON Interop Vuln Lab](https://github.com/BishopFox/json-interop-vuln-labs)
-- [WIZ - EKS Cluster Games](https://eksclustergames.com/)
-- [XMCyber - Azure Goat](https://github.com/XMCyber/XMGoat)
-- [Thunder CTF Cloud](https://thunder-ctf.cloud/)
+| Name | Description |
+|------|-------------|
+| [AI Goat](https://github.com/dhammon/ai-goat) | vulnerable LLM CTF challenges setup locally |
+| [AI Goat](https://github.com/orcasecurity-research/AIGoat) | GitHub - orcasecurity-research/AIGoat: AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges. |
+
+# Cloud
+
+| Name | Description |
+|------|-------------|
+| [Awesome Cloud Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) | GitHub - iknowjason/Awesome-CloudSec-Labs: Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. |
+| [Cloud Middleware Dataset](https://github.com/wiz-sec/cloud-middleware-dataset) | GitHub - wiz-sec-public/cloud-middleware-dataset; project contains cloud middleware (i.e. agents installed by Cloud providers) used across the major cloud service providers (Azure, AWS and GCP). |
+| [HackTricks Cloud](https://cloud.hacktricks.xyz/) | HackTricks Cloud - HackTricks Cloud |
+| [Security Wiki - Cloud](https://www.secwiki.cloud/) | Cloud Wiki \| CloudWiki |
+| [Cloud Wiki](https://cloudsecwiki.com/) | Cloud Wiki \| Cloud Wiki |
+| [Hacking The Cloud](https://hackingthe.cloud/) | Hacking The Cloud |
+| [Offensive Cloud TTPs](https://github.com/lutzenfried/OffensiveCloud/tree/main) | GitHub - lutzenfried/OffensiveCloud: Offensive security and Penetration Testing TTP for Cloud based environment (AWS / Azure / GCP) |
+| [CloudSecDocs](https://cloudsecdocs.com/) | Welcome to CloudSecDocs - CloudSecDocs |
+| [Awesome Cloud Sec](https://github.com/RyanJarv/awesome-cloud-sec) | GitHub - RyanJarv/awesome-cloud-sec: Awesome list for cloud security related projects |
+
+## AWS Security
+
+| Name | Description |
+|------|-------------|
+| [FWD CloudSec - Known AWS Accounts](https://github.com/fwdcloudsec/known_aws_accounts) | GitHub - fwdcloudsec/known_aws_accounts: List of known AWS accounts |
+| [AWS Break Glass Role](https://github.com/awslabs/aws-break-glass-role) | GitHub - awslabs/aws-break-glass-role: Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activities in the role to secure its use in production environments. |
+| [Sensitive IAM Actions List](https://github.com/primeharbor/sensitive_iam_actions) | GitHub - primeharbor/sensitive_iam_actions: Crowdsourced list of sensitive IAM Actions |
+| [Security Reference Architecture Examples](https://github.com/aws-samples/aws-security-reference-architecture-examples) | GitHub - aws-samples/aws-security-reference-architecture-examples: Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terraform. |
+| [AWS Public Account IDs](https://github.com/rupertbg/aws-public-account-ids) | GitHub - rupertbg/aws-public-account-ids: Publicly-listed AWS account IDs for easy lookup. Great for cleaning up false positives from unknown Account IDs in Cloudtrail |
+| [AWS SCP Examples](https://github.com/aws-samples/service-control-policy-examples) | GitHub - aws-samples/service-control-policy-examples: Example AWS Service control policies to get started or mature your usage of AWS SCPs. |
+| [AWS Security Survival Kit](https://github.com/zoph-io/aws-security-survival-kit) | GitHub - zoph-io/aws-security-survival-kit: Bare minimum AWS Security Alerting and Configuration |
+| [AWS Permissions Reference](https://aws.permissions.cloud/) | Permissions Reference for AWS IAM \| aws.permissions.cloud |
+| [Awesome SCPs](https://github.com/houey/awesome-service-control-policies) | GitHub - houey/awesome-service-control-policies: Listing of resources for example AWS Service Control Policies (SCPs) |
+| [AWS Centralized Logs](https://github.com/aidansteele/centralized-logs) | GitHub - aidansteele/centralized-logs: Centralizing AWS CloudWatch log forwarding via EventBridge and Step Functions |
+| [AWS Cheat Sheet](https://github.com/invictus-ir/aws-cheatsheet) | GitHub - invictus-ir/aws-cheatsheet: A cheatsheet containing AWS CloudTrail events that can be used for Incident Response purposes or Detection Engineering. |
+| [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) | GitHub - toniblyx/my-arsenal-of-aws-security-tools: List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. |
+| [AWS Security Resource Dump](https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md) | AWS security resources |
+
+### Labs
+
+| Name | Description |
+|------|-------------|
+| [flAWS 2 Cloud](http://flaws2.cloud/) | AWS lab exercise for attacker and defender paths to exploit misconfigurations |
+| [flAWS Cloud](http://flaws.cloud) | AWS basic security misconfigurations lab exercises |
+| [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) | GitHub - BishopFox/iam-vulnerable: Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. |
+| [Sad Cloud](https://github.com/nccgroup/sadcloud) | GitHub - nccgroup/sadcloud: A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure |
+| [Cloud Goat](https://github.com/RhinoSecurityLabs/cloudgoat) | GitHub - RhinoSecurityLabs/cloudgoat: CloudGoat is Rhino Security Labs&#39; &quot;Vulnerable by Design&quot; AWS deployment tool |
+| [AWS Goat](https://github.com/ine-labs/AWSGoat) | GitHub - ine-labs/AWSGoat: AWSGoat : A Damn Vulnerable AWS Infrastructure |
+| [CloudCommotion](https://github.com/SecurityRunners/cloudcommotion) | Causes commotion in the cloud using Terraform and AWS to simulate attacks and misconfigurations. |
+
+### Tools
+
+| Name | Description |
+|------|-------------|
+| [TrackIAM](https://github.com/glassechidna/trackiam) | GitHub - glassechidna/trackiam: A project to collate IAM actions, AWS APIs and managed policies from various public sources. |
+| [CloudSploit](https://github.com/aquasecurity/cloudsploit) | GitHub - aquasecurity/cloudsploit: Cloud Security Posture Management (CSPM) |
+| [SCP Kit](https://github.com/aquia-inc/scpkit) | GitHub - aquia-inc/scpkit: SCP management tool |
+| [IAM Access Key Report](https://github.com/aws-samples/iam-access-key-report) | GitHub - aws-samples/iam-access-key-report |
+| [AWS List Resources](https://github.com/welldone-cloud/aws-list-resources) | GitHub - welldone-cloud/aws-list-resources |
+| [AWS IAM CTL](https://github.com/aws-samples/aws-iamctl) | GitHub - aws-samples/aws-iamctl |
+| [AWS Consoler](https://github.com/NetSPI/aws_consoler) | GitHub - NetSPI/aws_consoler: A utility to convert your AWS CLI credentials into AWS console access. |
+| [EC2 Metadata Mock](https://github.com/aws/amazon-ec2-metadata-mock) | GitHub - aws/amazon-ec2-metadata-mock: A tool to simulate Amazon EC2 instance metadata |
+| [Cloudformation Guard](https://github.com/aws-cloudformation/cloudformation-guard) | GitHub - aws-cloudformation/cloudformation-guard: Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules. Take this survey to provide feedback about cfn-guard: https://amazonmr.au1.qualtrics.com/jfe/form/SV_bpyzpfoYGGuuUl0 |
+| [GuardDuty Tester](https://github.com/awslabs/amazon-guardduty-tester) | GitHub - awslabs/amazon-guardduty-tester: This script is used to generate some basic detections of the GuardDuty service |
+| [AirIAM](https://github.com/bridgecrewio/AirIAM) | GitHub - bridgecrewio/AirIAM: Least privilege AWS IAM Terraformer |
+| [Invictus AWS](https://github.com/invictus-ir/Invictus-AWS) | GitHub - invictus-ir/Invictus-AWS |
+| [Antiope](https://github.com/turnerlabs/antiope) | GitHub - turnerlabs/antiope: AWS Inventory and Compliance Framework |
+| [PACU](https://github.com/RhinoSecurityLabs/pacu) | GitHub - RhinoSecurityLabs/pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. |
+| [IAMbic](https://github.com/noqdev/iambic) | GitHub - noqdev/iambic: IAMbic is Version-Control for IAM. It centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in Git. |
+| [IAM Live](https://github.com/iann0036/iamlive) | GitHub - iann0036/iamlive: Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy |
+| [IAMSpy](https://github.com/WithSecureLabs/IAMSpy) | This is the repository containing IAMSpy, a library that utilises the Z3 prover to attempt to answer questions about AWS IAM. It can load a variety of IAM policies and convert them to generate Z3 constraints and a model, from which queries can be made on identifying whether actions are allowed or not. |
+| [Undocumented AWS API Hunter](https://github.com/DataDog/undocumented-aws-api-hunter) | A tool to uncover undocumented APIs from the AWS Console. |
+| [CloudSplaining](https://github.com/salesforce/cloudsplaining) | GitHub - salesforce/cloudsplaining: Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. |
+| [AWS Policy Evaluator (APE)](https://github.com/orcasecurity/orca-toolbox/tree/main/iam-ape) | APE takes all of your AWS IAM policies attached to a User, Group, or Role object, and presents you with a single policy, summarizing all of their actual permissions. Taking into account permissions, denials, inherited permissions and permission boundaries! |
+| [CloudFox](https://github.com/BishopFox/cloudfox) | GitHub - BishopFox/cloudfox: Automating situational awareness for cloud penetration tests. |
+| [RepoKid](https://github.com/Netflix/repokid) | GitHub - Netflix/repokid: AWS Least Privilege for Distributed, High-Velocity Deployment |
+| [Bucket Loot](https://github.com/redhuntlabs/BucketLoot) | GitHub - redhuntlabs/BucketLoot: BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text. |
+| [Policy Universe](https://github.com/Netflix-Skunkworks/policyuniverse) | GitHub - Netflix-Skunkworks/policyuniverse: Parse and Process AWS IAM Policies, Statements, ARNs, and wildcards. |
+| [AWS CLI Multi Account Sessions](https://github.com/alestic/aws-cli-multi-account-sessions) | GitHub - alestic/aws-cli-multi-account-sessions: bash functions to help run aws-cli commands across roles in multiple accounts with MFA |
+| [AWS SSO Reported](https://github.com/onemorepereira/aws-sso-reporter) | GitHub - onemorepereira/aws-sso-reporter: AWS SSO Reporter. It reports what users have access to what accounts as long as they are setup in AWS SSO. |
+
+## Azure Security
+
+| Name | Description |
+|------|-------------|
+| [Microsoft Portals Reference](https://cmd.ms) | 🖥 Home \| [cmd.ms] \| List of Microsoft Portals, their links, and use cases. |
+| [Azure Security Survival Kit](https://github.com/03-Cyber/azure-security-survival-kit) | GitHub - O3-Cyber/azure-security-survival-kit |
+| [Awesome Azure Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) | GitHub - Kyuu-Ji/Awesome-Azure-Pentest: A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure. |
+
+### Labs
+
+| Name | Description |
+|------|-------------|
+| [PurpleCloud Azure](https://github.com/iknowjason/PurpleCloud) | GitHub - iknowjason/PurpleCloud: A little tool to play with Azure Identity - Azure Active Directory lab creation tool |
+| [Azure Goat](https://github.com/XMCyber/XMGoat) | a vulnerable environment, with some significant misconfigurations |
+
+### Tools
+
+| Name | Description |
+|------|-------------|
+| [ScubaGear](https://github.com/cisagov/ScubaGear) | GitHub - cisagov/ScubaGear: Automation to assess the state of your M365 tenant against CISA&#39;s baselines |
+| [GraphRunner](https://github.com/dafthack/GraphRunner) | GitHub - dafthack/GraphRunner: A Post-exploitation Toolset for Interacting with the Microsoft Graph API |
+| [Azure Storage Reverse Shell](https://github.com/offensive-actions/azure-storage-reverse-shell) | GitHub - offensive-actions/azure-storage-reverse-shell: This GitHub Action sends a reverse shell from a runner via Azure Storage Account blobs |
+| [Az Recon](https://github.com/iknowjason/azrecon) | GitHub - iknowjason/azrecon: Az Enum &amp; Recon Cheat Sheet |
+| [RoleCrawl](https://github.com/sleeptok3n/RoleCrawl) | GitHub - sleeptok3n/RoleCrawl |
+| [PowerZure](https://github.com/hausec/PowerZure) | GitHub - hausec/PowerZure: PowerShell framework to assess Azure security |
+| [Monkey 365](https://github.com/silverhack/monkey365) | GitHub - silverhack/monkey365: Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Microsoft Entra ID security configuration reviews. |
+| [AzureHound](https://github.com/BloodHoundAD/AzureHound) | GitHub - BloodHoundAD/AzureHound: Azure Data Exporter for BloodHound |
+
+## CICD Security
+
+### Labs
+
+| Name | Description |
+|------|-------------|
+| [CICD Goat](https://github.com/cider-security-research/cicd-goat) | GitHub - cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges. |
+| [GHA Goat](https://github.com/step-security/github-actions-goat) | GitHub - step-security/github-actions-goat: GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment |
+| [GHA-Hazmat](https://github.com/woodruffw/gha-hazmat) | A menagerie of insecure and exploitable GitHub Actions workflows and action definitions |
+
+### Tools
+
+| Name | Description |
+|------|-------------|
+| [GitGot](https://github.com/BishopFox/GitGot) | GitHub - BishopFox/GitGot: Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets. |
+| [NORD Stream](https://github.com/synacktiv/nord-stream) | GitHub - synacktiv/nord-stream: Nord Stream is a tool that allows you to extract secrets stored inside CI/CD environments by deploying malicious pipelines. It currently supports Azure DevOps, GitHub and GitLab. |
+| [GitGat](https://github.com/scribe-public/gitgat) | GitHub - scribe-public/gitgat: Evaluate source control (GitHub) security posture |
+| [GATO](https://github.com/praetorian-inc/gato) | GitHub - praetorian-inc/gato: GitHub Actions Pipeline Enumeration and Attack Tool |
+| [Driftwood](https://github.com/trufflesecurity/driftwood) | GitHub - trufflesecurity/driftwood: Private key usage verification. Driftwood is a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user. |
+
+## GCP Security
+
+| Name | Description |
+|------|-------------|
+| [GCP Permissions Reference](https://gcp.permissions.cloud/) | Permissions Reference for Google Cloud IAM \| gcp.permissions.cloud |
+| [Awesome GCP Security](https://github.com/Littlehack3r/awesome-gcp-pentesting) | GitHub - Littlehack3r/awesome-gcp-pentesting: Tools and blogs I use to perform GCP red teams |
+
+### Labs
+
+| Name | Description |
+|------|-------------|
+| [GCP CTF Workshop](https://github.com/n0jam/gcp-ctf-workshop) | GCP goat environment for BSides NY 2024 workshop |
+| [GCP Goat](https://github.com/JOSHUAJEBARAJ/GCP-GOAT) | GitHub - JOSHUAJEBARAJ/GCP-GOAT: GCP GOAT is the vulnerable application for learn the GCP Security |
+| [Thunder CTF Cloud](https://thunder-ctf.cloud/) | Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP). |
+
+### Tools
+
+| Name | Description |
+|------|-------------|
+| [GCP IAM Privilege Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) | GitHub - RhinoSecurityLabs/GCP-IAM-Privilege-Escalation: A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team. |
+| [GCP Enum Script](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/pocs/gcp_enum) | GitLab.com / GitLab Security Department / Security Operations Department / Red Team / Red Team Public / Scripts and PoCs / gcp_enum · GitLab |
+| [GCP Scanner](https://github.com/google/gcp_scanner) | GitHub - google/gcp_scanner: A comprehensive scanner for Google Cloud |
+| [GCPwn](https://github.com/NetSPI/gcpwn) | Enumeration/exploit/analysis/download/etc pentesting framework for GCP; modeled like Pacu for AWS; a product of numerous hours via @WebbinRoot |
+| [GCP Open Resource Enum](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/pocs/gcp_misc/-/tree/master?ref_type=heads) | Files · master · GitLab.com / GitLab Security Department / Security Operations Department / Red Team / Red Team Public / Scripts and PoCs / gcp_misc · GitLab |
+| [GCP IAM Privescs](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) | GitHub - RhinoSecurityLabs/GCP-IAM-Privilege-Escalation: A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team. |
+
+## IaC
+
+| Name | Description |
+|------|-------------|
+| [Pulumi Examples](https://github.com/pulumi/examples) | GitHub - pulumi/examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi |
+| [Federator](https://github.com/clutchsecurity/federator) | Terraform templates for CI/CD to Cloud federation and Cloud2Cloud IAM federations |
+| [Entra ID Terraform](https://github.com/siigil/entra-id-terraform) | Examples of various Entra ID scenarios in Terraform |
+| [Terraform Examples](https://github.com/futurice/terraform-examples) | GitHub - futurice/terraform-examples: Terraform samples for all the major clouds you can copy and paste. The future, co-created. |
+| [OpenTofu](https://github.com/opentofu/opentofu) | Open source fork of Terraform |
+
+### Tools
+
+| Name | Description |
+|------|-------------|
+| [Checkov](https://github.com/bridgecrewio/checkov) | GitHub - bridgecrewio/checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. |
+
+## Kubernetes Security
+
+| Name | Description |
+|------|-------------|
+| [KubeCTL Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) | kubectl Quick Reference \| Kubernetes |
+| [Container Security Checklist](https://github.com/krol3/container-security-checklist) | GitHub - krol3/container-security-checklist: Checklist for container security - devsecops practices |
+| [EKS Best Practices](https://aws.github.io/aws-eks-best-practices/) | Introduction - EKS Best Practices Guides |
+| [Kubernetes Bad Pods](https://github.com/BishopFox/badPods) | GitHub - BishopFox/badPods: A collection of manifests that will create pods with elevated privileges. |
+| [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | GitHub - kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. |
+| [Cloud Native Security Talks](https://talks.container-security.site/) | Cloud Native Security Talks |
+| [Falco Bypasses](https://github.com/blackberry/Falco-bypasses) | GitHub - blackberry/Falco-bypasses: Research on various techniques to bypass default falco ruleset (based on falco v0.28.1). |
+| [Kubernetes Pentesting](https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-pentesting) | Kubernetes Pentesting - HackTricks Cloud |
+| [Pentesting Docker](https://book.hacktricks.xyz/network-services-pentesting/2375-pentesting-docker) | 2375, 2376 Pentesting Docker - HackTricks |
+
+### Labs
+
+| Name | Description |
+|------|-------------|
+| [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) | GitHub - madhuakula/kubernetes-goat: Kubernetes Goat is a &quot;Vulnerable by Design&quot; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 |
+| [K8s Lan Party](https://k8slanparty.com/) | A CTF designed to challenge your Kubernetes hacking skills through a series of critical network vulnerabilities and misconfigurations. |
+| [EKS Cluster Games](https://eksclustergames.com/) | challenges are based on real EKS misconfigurations and security issues |
+| [Simulator](https://github.com/controlplaneio/simulator) | GitHub - controlplaneio/simulator: Kubernetes Security Training Platform - focusing on security mitigation |
+
+### Tools
+
+| Name | Description |
+|------|-------------|
+| [Skopeo](https://github.com/containers/skopeo) | GitHub - containers/skopeo: Work with remote images registries - retrieving information, images, signing content |
+| [KubeAudit](https://github.com/Shopify/kubeaudit) | GitHub - Shopify/kubeaudit: kubeaudit helps you audit your Kubernetes clusters against common security controls |
+| [Peirates](https://github.com/inguardians/peirates) | GitHub - inguardians/peirates: Peirates - Kubernetes Penetration Testing tool |
+| [KubiScan](https://github.com/cyberark/KubiScan) | GitHub - cyberark/KubiScan: A tool to scan Kubernetes cluster for risky permissions |
+| [KubeHound](https://github.com/DataDog/KubeHound) | GitHub - DataDog/KubeHound: Kubernetes Attack Graph |
+| [DEEPCE](https://github.com/stealthcopter/deepce) | GitHub - stealthcopter/deepce: Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE) |
+| [Dockle](https://github.com/goodwithtech/dockle) | GitHub - goodwithtech/dockle: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start |
+| [Managed Kubernetes Audit Toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit/) | GitHub - DataDog/managed-kubernetes-auditing-toolkit: All-in-one auditing toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS. |
+| [KubeStriker](https://github.com/vchinnipilli/kubestriker) | GitHub - vchinnipilli/kubestriker: A Blazing fast Security Auditing tool for Kubernetes |
+| [Kubernetes Explorer](https://github.com/iximiuz/kexp) | GitHub - iximiuz/kexp: k&#39;exp - Kubernetes Explorer |
+| [DockerScan](https://github.com/cr0hn/dockerscan) | GitHub - cr0hn/dockerscan: Docker security analysis &amp; hacking tools |
+| [Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat) | GitHub - RhinoSecurityLabs/ccat: Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments. |
+| [Kubefuzz](https://github.com/avolens/kubefuzz) | GitHub - avolens/kubefuzz: Generative and mutative fuzzer for Kubernetes admission controller chains by automatically parsing the cluster api specification. |
+
+## Labs
+
+| Name | Description |
+|------|-------------|
+| [Terragoat](https://github.com/bridgecrewio/terragoat) | GitHub - bridgecrewio/terragoat: TerraGoat is Bridgecrew&#39;s &quot;Vulnerable by Design&quot; Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments. |
+| [CNAPP-Goat](https://github.com/ermetic-research/cnappgoat) | GitHub - ermetic-research/cnappgoat: CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments. |
 
 ## Tools
 
-### AI Tools
+| Name | Description |
+|------|-------------|
+| [Trivy](https://github.com/aquasecurity/trivy) | GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [CloudQuery](https://github.com/cloudquery/cloudquery) | GitHub - cloudquery/cloudquery: The open source high performance data integration platform built for developers. |
+| [CNQuery](https://github.com/mondoohq/cnquery) | GitHub - mondoohq/cnquery: open source, cloud-native, graph-based asset inventory |
+| [Edge](https://github.com/iknowjason/edge) | GitHub - iknowjason/edge: Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean. |
+| [Prowler](https://github.com/prowler-cloud/prowler) | GitHub - prowler-cloud/prowler: Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more. |
+| [Cloudlist](https://github.com/projectdiscovery/cloudlist) | GitHub - projectdiscovery/cloudlist: Cloudlist is a tool for listing Assets from multiple Cloud Providers. |
+| [Halbred](https://github.com/vectra-ai-research/Halberd) | GitHub - vectra-ai-research/Halberd: Security testing tool to proactively assess cloud security by executing a comprehensive array of attack techniques across multiple surfaces via a simple web interface. |
+| [Cloud Enum](https://github.com/initstring/cloud_enum) | GitHub - initstring/cloud_enum: Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. |
+| [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool |
 
-- [Chat GPT](https://chat.openai.com/chat)
-- [Jasper AI](https://www.jasper.ai/)
-- [Copy AI Tools](https://www.copy.ai/tools)
-- [Brandmark](https://brandmark.io/)
-- [Podcastle](https://podcastle.ai/)
-- [Sea Art](https://www.seaart.ai/home)
-- [Futurepedia](https://futurepedia.io)
-- [Big Speak AI](https://bigspeak.ai/)
-- [IMG Larger](https://imglarger.com/)
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/)
-- [AIVA](https://www.aiva.ai/)
-- [Synthesia](https://www.synthesia.io/)
-- [My Heritage](https://www.myheritage.com/)
-- [Civit AI](https://civitai.com/)
-- [Fooocus](https://github.com/lllyasviel/Fooocus)
-- [Steve AI](https://www.steve.ai/)
-- [Fly Fin Tax AI](https://flyfin.tax/)
+# Courses
 
-### Web, Mobile & Source
+| Name | Description |
+|------|-------------|
+| [CKSS Resources](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) | GitHub - walidshaari/Certified-Kubernetes-Security-Specialist: Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 &quot;Kubernetes Certified Security Specialist&quot; Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you. |
+| [BurpSuite Certified Practitioner](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study) | GitHub - botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study: Burp Suite Certified Practitioner Exam Study |
+| [Modern BinExp](https://github.com/rpisec/mbe) | GitHub - RPISEC/MBE: Course materials for Modern Binary Exploitation by RPISEC |
+| [Nightmare BinExp](https://guyinatuxedo.github.io/index.html) | Nightmare - Nightmare - binary exploitation course |
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) | GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
+| [Hands-on ML](https://github.com/ageron/handson-ml3) | GitHub - ageron/handson-ml3: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
+| [Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path) | GitHub - techiescamp/kubernetes-learning-path: A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
 
-- [Frida](https://frida.re)
-- [Jaeles](https://github.com/jaeles-project/jaeles)
-- [S0md3v - URO](https://github.com/s0md3v/uro)
-- [NikitaStupin - GraphQL Clairvoyance](https://github.com/nikitastupin/clairvoyance)
-- [SkyLot - JADX](https://github.com/skylot/jadx)
-- [Praetorian - NoseyParker](https://github.com/praetorian-inc/noseyparker)
-- [SensePost - Objection](https://github.com/sensepost/objection)
-- [BishopFox - GitGot](https://github.com/BishopFox/GitGot)
-- [SNR DAST Web App Scanner](https://ecsypno.com/scnr-documentation/)
-- [ShiftLeftSecurity - SAST-Scan](https://github.com/ShiftLeftSecurity/sast-scan)
-- [Grep App](https://grep.app/)
-- [CodeGrepper](https://www.codegrepper.com/)
-- [AquaSec - Trivy](https://github.com/aquasecurity/trivy)
-- [Synacktiv - NORD Stream](https://github.com/synacktiv/nord-stream)
-- [Alibaba - Arthas](https://github.com/alibaba/arthas)
-- [set1421 - SecretBench](https://github.com/setu1421/SecretBench)
-- [Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-- [Streaak - KeyHacks](https://github.com/streaak/keyhacks)
-- [Insider Sec - Insider](https://github.com/insidersec/insider)
-- [Analysis Tools Dev - Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis)
-- [FuzzFaster u Fool](https://github.com/ffuf/ffuf)
-- [BreenMachine - HTTP Screenshot](https://github.com/breenmachine/httpscreenshot)
-- [ProjectDiscovery - Katana](https://github.com/projectdiscovery/katana)
-- [ProjectDiscovery - HTTPX](https://github.com/projectdiscovery/httpx)
-- [Mschwager - Route Detect](https://github.com/mschwager/route-detect)
-- [RedSiege - EyeWitness](https://github.com/RedSiege/EyeWitness)
-- [BishopFox - H2C Smuggler](https://github.com/BishopFox/h2csmuggler)
-- [DoyenSec - InQL](https://github.com/doyensec/inql)
-- [LC - GetAllUrls](https://github.com/lc/gau)
-- [Hakluke - Hakrawler](https://github.com/hakluke/hakrawler)
-- [ChiChou - GrapeFruit](https://github.com/chichou/grapefruit)
-- [Hakluke - HakTLDExtract](https://github.com/hakluke/haktldextract)
-- [PortSwigger - Elastic Burp](https://github.com/portswigger/elastic-burp)
-- [Protect AI - VulnHuntr](https://github.com/protectai/vulnhuntr?utm_source=tldrsec.com&utm_medium=referral&utm_campaign=tl-dr-sec-253-state-of-cloud-security-applying-ai-to-cybersecurity-living-off-the-land-esxi)
-- [SwissKeyRepo - GraphQL Map](https://github.com/swisskyrepo/GraphQLmap)
-- [OJ - GoBuster](https://github.com/OJ/gobuster)
-- [HoppScotch](https://hoppscotch.io/)
-- [IvanGoncharov - GraphQL Voyager](https://github.com/IvanGoncharov/graphql-voyager)
-- [DataDog - DASH](https://github.com/DataDog/hash)
-- [HahWul - DalFox](https://github.com/hahwul/dalfox)
-- [Cloudflare - Flan](https://github.com/cloudflare/flan)
-- [Retire JS](https://github.com/retirejs/retire.js/)
-- [LC - SubJS](https://github.com/lc/subjs)
-- [Hannob - SnallyGaster](https://github.com/hannob/snallygaster)
-- [SQL Map](https://github.com/sqlmapproject/sqlmap)
-- [AloneMonkey - Frida iOS Dump](https://github.com/AloneMonkey/frida-ios-dump)
-- [Y2Z - Monolith](https://github.com/Y2Z/monolith)
-- [SensePost - GoWitness](https://github.com/sensepost/gowitness)
-- [Hakluke - HakOriginFinder](https://github.com/hakluke/hakoriginfinder)
-- [Tomnomnom - HTTProbe](https://github.com/tomnomnom/httprobe)
-- [1N3 - BlackWidow](https://github.com/1N3/BlackWidow)
+# Cybersecurity
 
-### AD, M365, OSCP & Pentesting
+## Labs
 
-- [SwissKyrepo - PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-- [DirkJanm - BloodHound Python](https://github.com/dirkjanm/BloodHound.py)
-- [CISAGov - ScubaGear](https://github.com/cisagov/ScubaGear)
-- [SnaffCon - Snaffler](https://github.com/SnaffCon/Snaffler)
-- [RopNOP - KerBrute](https://github.com/ropnop/kerbrute)
-- [G3han - PowerShell for AD](https://github.com/g3han/PowerShell-For-Active-Directory)
-- [J3ssie - Osmedeus](https://github.com/j3ssie/osmedeus)
-- [1N3 - Sn1per](https://github.com/1N3/Sn1per)
-- [Frohoff - YSoSerial](https://github.com/frohoff/ysoserial)
-- [J3ssie - MetaBigOr](https://github.com/j3ssie/metabigor)
-- [M8Sec - CrossLinked](https://github.com/m8sec/CrossLinked)
-- [GTFOBins](https://gtfobins.github.io/)
-- [LOLBAS](https://lolbas-project.github.io/)
-- [AAD Internals](https://aadinternals.com/aadinternals/)
-- [Sensity AI - Deepfake Offensive Toolkit](https://github.com/sensity-ai/dot)
-- [ZeroNetworks - BlueHound](https://github.com/zeronetworks/BlueHound)
-- [MattKeely - Spoofy](https://github.com/MattKeeley/Spoofy)
-- [PowerShellMafia - PowerSploit](https://github.com/powershellmafia/powersploit)
-- [Guardicore - Infection Monkey](https://github.com/guardicore/monkey)
-- [S3cur3Th1sSh1t - PowerSharp](https://github.com/S3cur3Th1sSh1t/PowerSharpPack)
-- [Mandiant - GoCrack](https://github.com/mandiant/gocrack)
-- [BlackLanternSecurity - ManSpider](https://github.com/blacklanternsecurity/MANSPIDER)
-- [Zyn3rgy - LDAPRelayScan](https://github.com/zyn3rgy/LdapRelayScan)
-- [Ly4k - Certipy](https://github.com/ly4k/Certipy)
-- [MPGN - CrackMapExec](https://github.com/mpgn/CrackMapExec)
-- [WADComs](https://wadcoms.github.io/)
-- [KGretzky - EvilGinx2](https://github.com/kgretzky/evilginx2)
-- [GoPhish](https://github.com/gophish/gophish)
-- [Beelzebub Honeypot](https://github.com/mariocandela/beelzebub)
-- [Project Discovery - CVEMap](https://github.com/projectdiscovery/cvemap)
+| Name | Description |
+|------|-------------|
+| [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) | GitHub - frankwxu/digital-forensics-lab: Free hands-on digital forensics labs for students and faculty |
 
-### Cloud & Containers
+## Resources
 
-- [AquaSecurity - CloudSploit](https://github.com/aquasecurity/cloudsploit)
-- [Project Discovery - Cloudlist](https://github.com/projectdiscovery/cloudlist)
-- [Google - GCP Scanner](https://github.com/google/gcp_scanner)
-- [Salesforce - CloudSplaining](https://github.com/salesforce/cloudsplaining)
-- [DataDog - KubeHound](https://github.com/DataDog/KubeHound)
-- [GitLab - GCP Enum Script](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/pocs/gcp_enum)
-- [GitLab - GCP Open Resource Enum](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/pocs/gcp_misc/-/tree/master?ref_type=heads)
-- [Vectra AI - Halbred](https://github.com/vectra-ai-research/Halberd)
-- [Aquia - SCP Kit](https://github.com/aquia-inc/scpkit)
-- [AWS - IAM Access Key Report](https://github.com/aws-samples/iam-access-key-report)
-- [WellDoneCloud - AWS List Resources](https://github.com/welldone-cloud/aws-list-resources)
-- [AWS - IAM CTL](https://github.com/aws-samples/aws-iamctl)
-- [AWS - EC2 Metadata Mock](https://github.com/aws/amazon-ec2-metadata-mock)
-- [AWS - Cloudformation Guard](https://github.com/aws-cloudformation/cloudformation-guard)
-- [AWS Labs - GuardDuty Tester](https://github.com/awslabs/amazon-guardduty-tester)
-- [Scribe Public - GitGat](https://github.com/scribe-public/gitgat)
-- [CridgeCrew - AirIAM](https://github.com/bridgecrewio/AirIAM)
-- [CloudQuery](https://github.com/cloudquery/cloudquery)
-- [Mondoo - CNQuery](https://github.com/mondoohq/cnquery)
-- [Invictus IR - Invictus AWS](https://github.com/invictus-ir/Invictus-AWS)
-- [Turner Labs - Antiope](https://github.com/turnerlabs/antiope)
-- [IKnowJason - Edge](https://github.com/iknowjason/edge)
-- [NetSPI - AWS Consoler](https://github.com/NetSPI/aws_consoler)
-- [RhinoSecurityLabs - PACU](https://github.com/RhinoSecurityLabs/pacu)
-- [NoqDev - IAMbic](https://github.com/noqdev/iambic)
-- [Iann0036 - IAM Live](https://github.com/iann0036/iamlive)
-- [IKnowJason - Az Recon](https://github.com/iknowjason/azrecon)
-- [AWS Labs - K8s Network Policy Migrator](https://github.com/awslabs/k8s-network-policy-migrator)
-- [StealthCopter - DEEPCE](https://github.com/stealthcopter/deepce)
-- [GoodWithTech - Dockle](https://github.com/goodwithtech/dockle)
-- [DataDog - Managed Kubernetes Audit Toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit/)
-- [Stackrox](https://www.stackrox.io/)
-- [Shopify - KubeAudit](https://github.com/Shopify/kubeaudit)
-- [Orca Security - IAM AWS Policy Evaluator (APE)](https://github.com/orcasecurity/orca-toolbox/tree/main/iam-ape)
-- [HauSec - PowerZure](https://github.com/hausec/PowerZure)
-- [BridgeCrew - Checkov](https://github.com/bridgecrewio/checkov)
-- [Prowler](https://github.com/prowler-cloud/prowler)
-- [Praetorian - GATO](https://github.com/praetorian-inc/gato)
-- [Init String - Cloud Enum](https://github.com/initstring/cloud_enum)
-- [Lyft - Cartography](https://github.com/lyft/cartography)
-- [VChinniPilli - KubeStriker](https://github.com/vchinnipilli/kubestriker)
-- [BishopFox - CloudFox](https://github.com/BishopFox/cloudfox)
-- [OpenTofu](https://github.com/opentofu/opentofu)
-- [GitLab - Red Team Public Group](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public)
-- [WithSecureLabs - IAMSpy](https://github.com/WithSecureLabs/IAMSpy)
-- [NetSPI - GCPwn](https://github.com/NetSPI/gcpwn)
-- [DataDog - Undocumented AWS API Hunter](https://github.com/DataDog/undocumented-aws-api-hunter)
-- [Netflix - RepoKid](https://github.com/Netflix/repokid)
-- [RedSkyCyber - AWS Security Resource Dump](https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md)
-- [RedHuntLabs - Bucket Loot](https://github.com/redhuntlabs/BucketLoot)
-- [Netflix Skunkworks - Policy Universe](https://github.com/Netflix-Skunkworks/policyuniverse)
-- [sleeptok3n - RoleCrawl](https://github.com/sleeptok3n/RoleCrawl/tree/main)
-- [Iximiuz - Kubernetes Explorer](https://github.com/iximiuz/kexp)
-- [Alestic - AWS CLI Multi Account Sessions](https://github.com/alestic/aws-cli-multi-account-sessions)
-- [SilverHack - Monkey 365](https://github.com/silverhack/monkey365)
-- [cr0hn - DockerScan](https://github.com/cr0hn/dockerscan)
-- [OSSF - Scorecard](https://github.com/ossf/scorecard)
-- [ControlPlaneIO - Simulator](https://github.com/controlplaneio/simulator)
-- [OneMorePerEira - AWS SSO Reported](https://github.com/onemorepereira/aws-sso-reporter)
-- [Aquia - AWS GuardDuty Runbook Generator](https://github.com/aquia-inc/aws-guardduty-runbook-generator)
-- [RhinoSecurityLabs - Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat)
-- [HackmichNet - Az Token Finder](https://github.com/HackmichNet/AzTokenFinder)
-- [RhinoSecurityLabs - GCP IAM Privescs](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation/tree/master)
-- [BloodHoundAD - AzureHound](https://github.com/BloodHoundAD/AzureHound)
-- [Avolens - Kubefuzz](https://github.com/avolens/kubefuzz)
-- [Falco](https://falco.org/)
-- [NCC Group - ScoutSuite](https://github.com/nccgroup/ScoutSuite)
-- [TruffleSec - Driftwood](https://github.com/trufflesecurity/driftwood)
-- [Twilio Labs - SOCless](https://github.com/twilio-labs/socless)
+| Name | Description |
+|------|-------------|
+| [Hacking EBooks](https://github.com/yeahhub/Hacking-Security-Ebooks) | GitHub - yeahhub/Hacking-Security-Ebooks: Top 100 Hacking &amp; Security E-Books (Free Download) |
+| [Hacker Roadmap](https://github.com/msrkp/hacker-roadmap) | GitHub - msrkp/hacker-roadmap: Roadmap to get started in Infosec for absolute begineer |
+| [Roadmaps for Study](https://roadmap.sh/roadmaps) | Roadmaps for a variety of different studies and fields |
+| [AppSec Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/) | 
+  Application Security Engineer Interview Questions · AppSec Enthusiast
+ |
+| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Technical Interview Guide for Busy Engineers \| Tech Interview Handbook |
 
-### Network Security
+# Infrastructure Security
 
-- [Haccer - SubJack](https://github.com/haccer/subjack)
-- [Ge0rg3 - AWS API Gateway IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator)
-- [DrWetter - TestSSL.sh](https://github.com/drwetter/testssl.sh)
-- [Aploium - Shootback](https://github.com/aploium/shootback)
-- [OWASP - Amass](https://github.com/owasp-amass/amass)
-- [S0md3v - SMAP](https://github.com/s0md3v/Smap)
-- [Hakluke - Hakrevdns](https://github.com/hakluke/hakrevdns)
-- [MiTMProxy](https://github.com/mitmproxy/mitmproxy)
-- [Tomnomnom - AssetFinder](https://github.com/tomnomnom/assetfinder)
-- [ProjectDiscovery - Naabu](https://github.com/projectdiscovery/naabu)
-- [Kaspersky Lab - Tiny Check](https://github.com/KasperskyLab/TinyCheck)
-- [ProjectDiscovery - Nuclei](https://github.com/projectdiscovery/nuclei)
-- [Praetorian - FingerprintX](https://github.com/praetorian-inc/fingerprintx)
-- [ProjectDiscovery - SimpleHTTPServer](https://github.com/projectdiscovery/simplehttpserver)
-- [ProjectDiscovery - InteractSH](https://github.com/projectdiscovery/interactsh)
-- [Erebe - WSTunnel](https://github.com/erebe/wstunnel)
-- [ProjectDiscovery - SubFinder](https://github.com/projectdiscovery/subfinder)
-- [ProjectDiscovery - DNSX](https://github.com/projectdiscovery/dnsx)
-- [ProjectDiscovery - Proxify](https://github.com/projectdiscovery/Proxify)
-- [OpenCoff - GoTunnel](https://github.com/opencoff/go-tunnel)
-- [ProjectDiscovery - Uncover](https://github.com/projectdiscovery/uncover)
-- [Ginuerzh - GoST](https://github.com/ginuerzh/gost)
-- [NiteFood - ASN](https://github.com/nitefood/asn)
-- [JPillora - Chisel](https://github.com/jpillora/chisel)
-- [SelaDB - PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)
-- [Ice3Man543 - SubOver](https://github.com/Ice3man543/SubOver)
+| Name | Description |
+|------|-------------|
+| [Dorks Collection](https://github.com/cipher387/Dorks-collections-list) | GitHub - cipher387/Dorks-collections-list: List of Github repositories and articles with list of dorks for different search engines |
+| [Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis) | GitHub - analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. |
 
-### Other Technical
+## Active Directory
 
-- [Quick Reference](https://quickref.me/)
-- [Sploitus - Exploit Search](https://sploitus.com/)
-- [AutoRegex](https://www.autoregex.xyz/)
-- [GodBolt - Compiler Explorer](https://godbolt.org/)
-- [Ciphey](https://github.com/Ciphey/Ciphey)
-- [Google - Tsunami Scanner](https://github.com/google/tsunami-security-scanner)
-- [ProjectDiscovery - AIX](https://github.com/projectdiscovery/aix)
-- [AbdulRhmanAlfaifi - Fennec](https://github.com/AbdulRhmanAlfaifi/Fennec)
-- [JLess](https://jless.io/)
-- [Neilotoole - SQ](https://github.com/neilotoole/sq)
-- [GitHub Project Readme Creator](https://readme.so/editor)
-- [S0md3v - Dump](https://github.com/s0md3v/dump)
-- [Detection Lab - AD Environment](https://detectionlab.network/)
-- [Abbbi - SSEnv](https://github.com/abbbi/ssenv)
+| Name | Description |
+|------|-------------|
+| [AD Pentesting Cheatsheet](https://www.hackthebox.com/blog/active-directory-penetration-testing-cheatsheet-and-guide) | Active directory pentesting: cheatsheet and beginner guide |
+| [AD Pentesting Guide](https://github.com/AD-Attacks/Active-Directory-Penetration-Testing) | GitHub - AD-Attacks/Active-Directory-Penetration-Testing |
+| [WADComs](https://wadcoms.github.io/) | WADComs |
+| [AAD Internals](https://aadinternals.com/aadinternals/) | Documentation |
+| [LOLBAS](https://lolbas-project.github.io/) | LOLBAS |
 
-## General Cybersec
+## Labs
 
-### Pentesting & OSCP
+| Name | Description |
+|------|-------------|
+| [Under the Wire](https://underthewire.tech/) | UTW &#8211; Under the Wire&#8230; PowerShell Training for the People |
 
-- [Linux Syscalls 32 bit](https://syscalls32.paolostivanin.com/)
-- [Ignite Technologies - Privesc CheatSheet](https://github.com/Ignitetechnologies/Privilege-Escalation)
-- [Infosecnayam - OSCP Resources](https://oscp.infosecsanyam.in/)
-- [AdithyaNayak - OSCP Guide](https://blog.adithyanak.com/oscp-preparation-guide)
-- [Orange CyberDefense - AD Pentesting Cheatsheet](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg)
-- [AD Attacks - AD Pentesting Guide](https://github.com/AD-Attacks/Active-Directory-Penetration-Testing)
-- [HTB - AD Pentesting Cheatsheet](https://www.hackthebox.com/blog/active-directory-penetration-testing-cheatsheet-and-guide)
-- [TurgenSec - Shodan Guide](https://community.turgensec.com/shodan-pentesting-guide/)
-- [Pentesting BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md)
-- [WtsxDev - Pentesting Resources](https://github.com/wtsxDev/Penetration-Testing)
-- [Linux Syscalls 64 bit](https://syscalls64.paolostivanin.com/)
-- [EnaqX - Awesome Pentest](https://github.com/enaqx/awesome-pentest)
-- [0xffsec - HandBook](https://0xffsec.com/handbook/)
-- [Cure53 - Pentesting Contracts](https://github.com/cure53/Contracts)
+## Linux
 
-### CTF & Bug Bounty
+| Name | Description |
+|------|-------------|
+| [Linux Syscalls 64-bit](https://syscalls64.paolostivanin.com/) | Linux Syscall Reference |
+| [Linux Syscalls 32-bit](https://syscalls32.paolostivanin.com/) | Linux Syscall Reference |
+| [GTFOBins](https://gtfobins.github.io/) | GTFOBins |
 
-- [0x0539 - CTF](https://0x0539.net/)
-- [Steganography Resources](https://0xrick.github.io/lists/stego/)
-- [Ignite Tech - VulnHub Writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
-- [Microcorruption - Embedded CTF](https://microcorruption.com/)
-- [NGalongC - Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
-- [Devansh B - Bug Bounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
+## Pentesting
 
-### Cybersecurity
+| Name | Description |
+|------|-------------|
+| [Pentesting BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md) | Pentesting Bible by blacckhathaceekr |
+| [Pentesting Resources](https://github.com/wtsxDev/Penetration-Testing) | GitHub - wtsxDev/Penetration-Testing: List of awesome penetration testing resources, tools and other shiny things |
+| [Awesome Pentest](https://github.com/enaqx/awesome-pentest) | GitHub - enaqx/awesome-pentest: A collection of awesome penetration testing resources, tools and other shiny things |
+| [Privesc Cheatsheet](https://github.com/Ignitetechnologies/Privilege-Escalation) | GitHub - Ignitetechnologies/Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. |
+| [OSCP Resources](https://oscp.infosecsanyam.in/) | OSCP resources |
+| [Offsec Handbook](https://0xffsec.com/handbook/) | 0xffsec Handbook: The Pentester's Guide \| 0xffsec Handbook |
+| [Pentesting Contracts](https://github.com/cure53/Contracts) | GitHub - cure53/Contracts: A small collection of potentially useful contract templates |
+| [VulnHub Writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups) | GitHub - Ignitetechnologies/Vulnhub-CTF-Writeups: This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles. |
+| [The Hacker Recipes](https://www.thehacker.recipes) | Resources for pentesting and environment security assessments |
+| [HackTricks](https://book.hacktricks.xyz/) | HackTricks - HackTricks |
+| [Practical Ethical Hacking Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) | GitHub - TCM-Course-Resources/Practical-Ethical-Hacking-Resources: Compilation of Resources from TCM&#39;s Practical Ethical Hacking Udemy Course |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-- [Bishop Fox - Fuzzing](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing)
-- [Antonio Morales - Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
-- [Zero Trust Architecture Roadmap](https://zerotrustroadmap.org)
-- [MSKRP - Hacker Roadmap](https://github.com/msrkp/hacker-roadmap)
-- [YeahHub Hacking Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks)
-- [The Hacker Recipes](https://www.thehacker.recipes)
-- [Veeral Patel - How to secure anything](https://github.com/veeral-patel/how-to-secure-anything)
-- [Cybersecurity Professional Development](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
-- [HackTricks](https://book.hacktricks.xyz/)
-- [Cipher387 - Dorks Collection](https://github.com/cipher387/Dorks-collections-list)
-- [Ignite Technologies - Security Mindmaps](https://github.com/Ignitetechnologies/Mindmap)
+## Tools
 
-## Others
+| Name | Description |
+|------|-------------|
+| [Shodan Guide](https://community.turgensec.com/shodan-pentesting-guide/) | Shodan Pentesting Guide &#8211; TurgenSec Community |
+| [Guardicore - Infection Monkey](https://github.com/guardicore/monkey) | GitHub - guardicore/monkey: Infection Monkey - An open-source adversary emulation platform |
+| [HTTP Screenshot](https://github.com/breenmachine/httpscreenshot) | GitHub - breenmachine/httpscreenshot |
+| [NoseyParker](https://github.com/praetorian-inc/noseyparker) | GitHub - praetorian-inc/noseyparker: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history. |
+| [GoBuster](https://github.com/OJ/gobuster) | GitHub - OJ/gobuster: Directory/File, DNS and VHost busting tool written in Go |
+| [VulnHuntr](https://github.com/protectai/vulnhuntr) | A tool to identify remotely exploitable vulnerabilities using LLMs and static code analysis. |
+| [Insider](https://github.com/insidersec/insider) | GitHub - insidersec/insider: Static Application Security Testing (SAST) engine focused on covering the OWASP Top 10, to make source code analysis to find vulnerabilities right in the source code, focused on a agile and easy to implement software inside your DevOps pipeline. Support the following technologies: Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C#, and Javascript (Node.js). |
+| [Flan](https://github.com/cloudflare/flan) | GitHub - cloudflare/flan: A pretty sweet vulnerability scanner |
+| [ShiftLeft SAST](https://github.com/ShiftLeftSecurity/sast-scan) | GitHub - ShiftLeftSecurity/sast-scan: Scan is a free &amp; Open Source DevSecOps tool for performing static analysis based security testing of your applications and its dependencies. CI and Git friendly. |
+| [SecretBench](https://github.com/setu1421/SecretBench) | GitHub - setu1421/SecretBench: SecretBench is a dataset consisting of different secret types collected from public open-source repositories. |
+| [HTTPX](https://github.com/projectdiscovery/httpx) | GitHub - projectdiscovery/httpx: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. |
+| [EyeWitness](https://github.com/RedSiege/EyeWitness) | GitHub - RedSiege/EyeWitness: EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible. |
+| [LC - GetAllUrls](https://github.com/lc/gau) | GitHub - lc/gau: Fetch known URLs from AlienVault&#39;s Open Threat Exchange, the Wayback Machine, and Common Crawl. |
+| [HakTLDExtract](https://github.com/hakluke/haktldextract) | GitHub - hakluke/haktldextract: Extract domains/subdomains from URLs en masse |
+| [DASH](https://github.com/DataDog/hash) | GitHub - DataDog/HASH: HASH (HTTP Agnostic Software Honeypot) |
+| [GoWitness](https://github.com/sensepost/gowitness) | GitHub - sensepost/gowitness: 🔍 gowitness - a golang, web screenshot utility using Chrome Headless |
+| [BlackWidow](https://github.com/1N3/BlackWidow) | GitHub - 1N3/BlackWidow: A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. |
+| [HTTProbe](https://github.com/tomnomnom/httprobe) | GitHub - tomnomnom/httprobe: Take a list of domains and probe for working HTTP and HTTPS servers |
+| [Hakrevdns](https://github.com/hakluke/hakrevdns) | GitHub - hakluke/hakrevdns: Small, fast tool for performing reverse DNS lookups en masse. |
+| [AssetFinder](https://github.com/tomnomnom/assetfinder) | GitHub - tomnomnom/assetfinder: Find domains and subdomains related to a given domain |
+| [PWN-cat](https://github.com/cytopia/pwncat) | GitHub - cytopia/pwncat: pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE) |
+| [TestSSL.sh](https://github.com/drwetter/testssl.sh) | GitHub - drwetter/testssl.sh: Testing TLS/SSL encryption anywhere on any port |
+| [Shootback](https://github.com/aploium/shootback) | GitHub - aploium/shootback: a reverse TCP tunnel let you access target behind NAT or firewall |
+| [Naabu](https://github.com/projectdiscovery/naabu) | GitHub - projectdiscovery/naabu: A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests |
+| [FingerprintX](https://github.com/praetorian-inc/fingerprintx) | GitHub - praetorian-inc/fingerprintx: Standalone utility for service discovery on open ports! |
+| [SimpleHTTPServer](https://github.com/projectdiscovery/simplehttpserver) | GitHub - projectdiscovery/simplehttpserver: Go alternative of python SimpleHTTPServer |
+| [InteractSH](https://github.com/projectdiscovery/interactsh) | GitHub - projectdiscovery/interactsh: An OOB interaction gathering server and client library |
+| [GoTunnel](https://github.com/opencoff/go-tunnel) | GitHub - opencoff/go-tunnel: TLS/SSL Tunnel - A modern STunnel replacement written in golang |
+| [Uncover](https://github.com/projectdiscovery/uncover) | GitHub - projectdiscovery/uncover: Quickly discover exposed hosts on the internet using multiple search engines. |
+| [GoST](https://github.com/ginuerzh/gost) | GitHub - ginuerzh/gost: GO Simple Tunnel - a simple tunnel written in golang |
+| [SMAP](https://github.com/s0md3v/Smap) | GitHub - s0md3v/Smap: a drop-in replacement for Nmap powered by shodan.io |
+| [Nuclei](https://github.com/projectdiscovery/nuclei) | GitHub - projectdiscovery/nuclei: Fast and customizable vulnerability scanner based on simple YAML based DSL. |
+| [Tiny Check](https://github.com/KasperskyLab/TinyCheck) | GitHub - KasperskyLab/TinyCheck: TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere. |
+| [WSTunnel](https://github.com/erebe/wstunnel) | GitHub - erebe/wstunnel: Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available |
+| [SubFinder](https://github.com/projectdiscovery/subfinder) | GitHub - projectdiscovery/subfinder: Fast passive subdomain enumeration tool. |
+| [DNSX](https://github.com/projectdiscovery/dnsx) | GitHub - projectdiscovery/dnsx: dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers. |
+| [Amass](https://github.com/owasp-amass/amass) | GitHub - owasp-amass/amass: In-depth attack surface mapping and asset discovery |
+| [MiTMProxy](https://github.com/mitmproxy/mitmproxy) | GitHub - mitmproxy/mitmproxy: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. |
+| [ASN](https://github.com/nitefood/asn) | GitHub - nitefood/asn: ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server |
+| [Chisel](https://github.com/jpillora/chisel) | GitHub - jpillora/chisel: A fast TCP/UDP tunnel over HTTP |
+| [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) | GitHub - seladb/PcapPlusPlus: PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK and PF_RING. |
+| [CrossLinked](https://github.com/m8sec/CrossLinked) | GitHub - m8sec/CrossLinked: LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping |
+| [PowerShell for AD](https://github.com/g3han/PowerShell-For-Active-Directory) | GitHub - g3han/PowerShell-For-Active-Directory: PowerShell Script for AD Security Assessment |
+| [BlueHound](https://github.com/zeronetworks/BlueHound) | GitHub - zeronetworks/BlueHound: BlueHound - pinpoint the security issues that actually matter |
+| [Spoofy](https://github.com/MattKeeley/Spoofy) | GitHub - MattKeeley/Spoofy: Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records. |
+| [PowerSploit](https://github.com/powershellmafia/powersploit) | GitHub - PowerShellMafia/PowerSploit: PowerSploit - A PowerShell Post-Exploitation Framework |
+| [BloodHound Python](https://github.com/dirkjanm/BloodHound.py) | GitHub - dirkjanm/BloodHound.py: A Python based ingestor for BloodHound |
+| [Snaffler](https://github.com/SnaffCon/Snaffler) | GitHub - SnaffCon/Snaffler: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax ) |
+| [ManSpider](https://github.com/blacklanternsecurity/MANSPIDER) | GitHub - blacklanternsecurity/MANSPIDER: Spider entire networks for juicy files sitting on SMB shares.  Search filenames or file content - regex supported! |
+| [KerBrute](https://github.com/ropnop/kerbrute) | GitHub - ropnop/kerbrute: A tool to perform Kerberos pre-auth bruteforcing |
+| [LDAPRelayScan](https://github.com/zyn3rgy/LdapRelayScan) | GitHub - zyn3rgy/LdapRelayScan: Check for LDAP protections regarding the relay of NTLM authentication |
+| [Certipy](https://github.com/ly4k/Certipy) | GitHub - ly4k/Certipy: Tool for Active Directory Certificate Services enumeration and abuse |
+| [CrackMapExec](https://github.com/mpgn/CrackMapExec) | Page not found · GitHub · GitHub |
+| [GoPhish](https://github.com/gophish/gophish) | GitHub - gophish/gophish: Open-Source Phishing Toolkit |
+| [Osmedeus](https://github.com/j3ssie/osmedeus) | GitHub - j3ssie/osmedeus: A Workflow Engine for Offensive Security |
+| [Sn1per](https://github.com/1N3/Sn1per) | GitHub - 1N3/Sn1per: Attack Surface Management Platform |
+| [MetaBigOr](https://github.com/j3ssie/metabigor) | GitHub - j3ssie/metabigor: OSINT tools and more but without API key |
+| [Beelzebub](https://github.com/mariocandela/beelzebub) | GitHub - mariocandela/beelzebub: A secure low code honeypot framework, leveraging AI for System Virtualization. |
+| [Deepfake Offensive Toolkit](https://github.com/sensity-ai/dot) | GitHub - sensity-ai/dot: The Deepfake Offensive Toolkit |
+| [CVEMap](https://github.com/projectdiscovery/cvemap) | GitHub - projectdiscovery/cvemap: Navigate the CVE jungle with ease. |
+| [EvilGinx2](https://github.com/kgretzky/evilginx2) | GitHub - kgretzky/evilginx2: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication |
+| [Red Team Public Group](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public) | Red Team Public · GitLab |
+| [Tsunami Scanner](https://github.com/google/tsunami-security-scanner) | GitHub - google/tsunami-security-scanner: Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. |
+| [Ciphey](https://github.com/Ciphey/Ciphey) | GitHub - Ciphey/Ciphey: ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡ |
+| [Fennec](https://github.com/AbdulRhmanAlfaifi/Fennec) | GitHub - AbdulRhmanAlfaifi/Fennec: Artifact collection tool for *nix systems |
 
-### Miscellaneous
+# Mobile Security
 
-- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
-- [Roadmaps for Study](https://roadmap.sh/roadmaps)
-- [Cloudsecurity Jobs](https://cloudsecurity.jobs/)
-- [AppSec Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/)
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-- [Coding Horror - Basic Computer Games](https://github.com/coding-horror/basic-computer-games)
-- [Awesome Privacy](https://github.com/pluja/awesome-privacy)
-- [Awesome - Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
+| Name | Description |
+|------|-------------|
+| [Frida Codeshare](https://codeshare.frida.re/) | Frida CodeShare |
+| [MASTG](https://mas.owasp.org/MASTG/) | OWASP MASTG - OWASP Mobile Application Security |
 
-### Productivity & Quality of Life
+## Labs
 
-- [Slidesgo Templates](https://slidesgo.com)
-- [Cloudwards - Security Tools Reviewed](https://www.cloudwards.net/)
-- [Google's .new Registry](https://whats.new/shortcuts/)
-- [Security List - Personal Security and Privacy](https://security-list.js.org/)
-- [Fake Name Generator](https://www.fakenamegenerator.com/)
-- [Killed By Google](https://killedbygoogle.com/)
-- [Privacy Tools IO](https://www.privacytools.io/)
-- [Oh Shit Git](https://ohshitgit.com/)
-- [BenBusby - Whoogle](https://github.com/benbusby/whoogle-search)
-- [Cymath - Math Problem Solver](https://www.cymath.com/)
-- [Killed By Tech](https://killedby.tech/)
-- [NamesoGen - Credit Card Generator](https://namso-gen.com/?tab=basic&network=random)
-- [DanOctavian - Awesome Anti-Censorship](https://github.com/danoctavian/awesome-anti-censorship)
-- [TinyWow](https://tinywow.com/)
-- [Untools](https://untools.co/)
-- [DoNotPay](https://donotpay.com)
-- [ToS;DR](https://tosdr.org)
+| Name | Description |
+|------|-------------|
+| [OWASP iGoat](https://github.com/OWASP/igoat) | GitHub - OWASP/igoat: OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar |
+| [Damn Vulnerable Web App](https://github.com/digininja/DVWA) | GitHub - digininja/DVWA: Damn Vulnerable Web Application (DVWA) |
+| [DIVA Android](https://github.com/payatu/diva-android) | GitHub - payatu/diva-android: DIVA Android - Damn Insecure and vulnerable App for Android |
+| [Frida Labs](https://github.com/DERE-ad2001/Frida-Labs) | GitHub - DERE-ad2001/Frida-Labs: The repo contains a series of challenges for learning Frida for Android Exploitation. |
 
-### Home Lab & OSS
+## Tools
 
-- [Dockge](https://github.com/louislam/dockge)
-- [Standard Notes - File Send](https://filesend.standardnotes.com/)
-- [Local Send](https://github.com/localsend/localsend)
-- [LinkAce](https://www.linkace.org/)
-- [Formspree GitHub](https://github.com/formspree/formspree)
-- [PBoGre - JetLog](https://github.com/pbogre/jetlog?ref=noted.lol)
-- [Plex](https://hub.docker.com/r/plexinc/pms-docker/)
-- [LardBit - Nefarious](https://github.com/lardbit/nefarious)
-- [Proxmox](https://www.proxmox.com/en/)
-- [NetData](https://github.com/netdata/netdata)
-- [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
-- [Portainer](https://www.portainer.io/)
-- [HayKot - Home Box](https://github.com/hay-kot/homebox)
-- [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
-- [CorentinTh - IT Tools](https://github.com/CorentinTh/it-tools)
-- [Alexta69 - Me Tube](https://github.com/alexta69/metube)
-- [Yacht](https://github.com/SelfhostedPro/Yacht)
-- [BenPhelps - Homepage](https://github.com/benphelps/homepage)
-- [Noco DB](https://github.com/nocodb/nocodb)
-- [Frooodle - Stirling PDF](https://github.com/Frooodle/Stirling-PDF)
-- [Omnivore](https://github.com/omnivore-app/omnivore/tree/main)
-- [Memos](https://github.com/usememos/memos)
-- [QBitTorrent (LSIO)](https://hub.docker.com/r/linuxserver/qbittorrent)
-- [Casa OS](https://casaos.io/)
-- [Codex Docs](https://github.com/codex-team/codex.docs)
-- [Paperless NGX](https://github.com/paperless-ngx/paperless-ngx)
-- [Excalidraw](https://github.com/excalidraw/excalidraw)
-- [Actual Budget](https://github.com/actualbudget/actual-server)
-- [SissBruecker - LinkDing](https://github.com/sissbruecker/linkding)
-- [LinkWarden](https://github.com/linkwarden/linkwarden)
-- [HomeLab OS](https://homelabos.com/)
-- [Hoarder - Bookmark Everything](https://github.com/hoarder-app/hoarder?ref=noted.lol)
-- [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Tandoor Recipes](https://github.com/TandoorRecipes/recipes)
-- [Lago](https://github.com/getlago/lago)
-- [Fasten Health](https://github.com/fastenhealth/fasten-onprem/)
-- [Asciinema](https://github.com/asciinema/asciinema)
-- [KRTirtho - SpoTube](https://github.com/KRTirtho/spotube?tab=readme-ov-file)
-- [ToEverything - Affine](https://github.com/toeverything/AFFiNE?tab=readme-ov-file)
-- [Flameshot Screenshots](https://github.com/flameshot-org/flameshot)
-- [Seal - Video Downloader](https://github.com/JunkFood02/Seal)
-- [Uptime Kuma](https://github.com/louislam/uptime-kuma)
-- [Formbricks](https://github.com/formbricks/formbricks)
-- [StreetWriters - Notesnook](https://github.com/streetwriters/notesnook)
-- [InvoiceNinja](https://github.com/invoiceninja/invoiceninja)
-- [Kimai](https://github.com/kimai/kimai)
-- [BigCapital](https://github.com/bigcapitalhq/bigcapital/tree/develop)
-- [Learnhouse](https://github.com/learnhouse/learnhouse)
-- [Koel](https://github.com/koel/koel)
-- [DocuSeal](https://github.com/docusealco/docuseal)
-- [Kestra Orchestratiom](https://github.com/kestra-io/kestra)
-- [GCHQ - CyberChef](https://github.com/gchq/CyberChef)
-- [Private GPT - Zylon AI](https://github.com/zylon-ai/private-gpt)
-- [Solid Invoice](https://github.com/SolidInvoice/SolidInvoice?tab=readme-ov-file)
-- [Baby Buddy](https://github.com/babybuddy/babybuddy)
-- [Facebook - Docusaurus](https://github.com/facebook/docusaurus?tab=readme-ov-file)
-- [EvanBuss - OpenBooks](https://github.com/evan-buss/openbooks?ref=noted.lol)
-- [SSD Dan Brown - RSS Feed Aggregator ](https://github.com/ssddanbrown/rss)
-- [Monica - Personal Relationship Manager](https://github.com/monicahq/monica/tree/4.x)
-- [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume)
-- [Navidrome](https://github.com/navidrome/navidrome)
-- [Firefly iii](https://github.com/firefly-iii/firefly-iii)
-- [Midarr - Media Server](https://github.com/midarrlabs/midarr-server)
-- [Rallly](https://rallly.co/)
-- [Huginn](https://github.com/huginn/huginn)
-- [M4TT72 - Terminal Website](https://github.com/m4tt72/terminal)
-- [BookStack](https://github.com/BookStackApp/BookStack)
-- [Docmost](https://github.com/docmost/docmost)
-- [Flomp - Wanderer](https://github.com/Flomp/wanderer)
-- [Swing Music](https://github.com/swingmx/swingmusic)
-- [0x2E - Fusion](https://github.com/0x2E/fusion)
-- [Jellyfin](https://jellyfin.org/)
-- [Tanq16 - Local Content Share](https://github.com/Tanq16/local-content-share)
-- [Tube Archivist](https://www.tubearchivist.com/)
-- [DeepJyoti30 - YTM-DL](https://github.com/deepjyoti30/ytmdl)
-- [FileBrowser](https://github.com/filebrowser/filebrowser)
-- [Traggo](https://github.com/traggo/)
-- [Home Assistant](https://www.home-assistant.io/)
-- [Deiucanta - ChatPad](https://github.com/deiucanta/chatpad)
+| Name | Description |
+|------|-------------|
+| [JADX](https://github.com/skylot/jadx) | GitHub - skylot/jadx: Dex to Java decompiler |
+| [Frida iOS Dump](https://github.com/AloneMonkey/frida-ios-dump) | GitHub - AloneMonkey/frida-ios-dump: pull decrypted ipa from jailbreak device |
+| [Objection](https://github.com/sensepost/objection) | GitHub - sensepost/objection: 📱 objection - runtime mobile exploration |
+| [Frida](https://frida.re) | Frida • A world-class dynamic instrumentation toolkit \| Observe and reprogram running programs on Windows, macOS, GNU/Linux, iOS, watchOS, tvOS, Android, FreeBSD, and QNX |
+| [Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | GitHub - MobSF/Mobile-Security-Framework-MobSF: Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
+| [GrapeFruit](https://github.com/chichou/grapefruit) | GitHub - ChiChou/grapefruit: (WIP) Runtime Application Instruments for iOS. Previously Passionfruit |
 
-## Cloud Security
+# Productivity & QoL
 
-- [Cloud Security Wiki](https://cloudsecwiki.com/)
-- [Gaining Control over Azure Function Apps](https://medium.com/xm-cyber/10-ways-of-gaining-control-over-azure-function-apps-7e7b84367ce6)
-- [AWS Samples - Security Reference Architecture Examples](https://github.com/aws-samples/aws-security-reference-architecture-examples)
-- [Rupert BG - AWS Public Account IDs](https://github.com/rupertbg/aws-public-account-ids/tree/master)
-- [AWS EKS Best Practices Guides](https://aws.github.io/aws-eks-best-practices/)
-- [Microsoft Portals Reference Guide](https://cmd.ms)
-- [O3-Cyber - Azure Security Survival Kit](https://github.com/03-Cyber/azure-security-survival-kit)
-- [GoogleCloudPlatform - Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics)
-- [SecurityRunners - CloudCommotion](https://github.com/SecurityRunners/cloudcommotion)
-- [PacketMischief - PoLP with Cloudformation StackSets](https://www.packetmischief.ca/2021/03/23/how-to-implement-the-principle-of-least-privilege-with-cloudformation-stacksets/)
-- [Kubernetes - KubeCTL Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-- [BishopFox - Kubernetes Bad Pods](https://github.com/BishopFox/badPods)
-- [Wiz Security - Cloud Middleware Dataset](https://github.com/wiz-sec/cloud-middleware-dataset)
-- [Pulumi - Examples](https://github.com/pulumi/examples)
-- [AWS Security Cookbook](https://github.com/AWSCookbook/Security)
-- [AWS Security - Managing Temporary Elevated Access](https://aws.amazon.com/blogs/security/managing-temporary-elevated-access-to-your-aws-environment/)
-- [CloudSecList](https://cloudseclist.com/)
-- [Primeharbor - Sensitive IAM Actions List](https://github.com/primeharbor/sensitive_iam_actions)
-- [HackTricks - Cloud](https://cloud.hacktricks.xyz/)
-- [AWS IAM - Policy Evaluation Logic](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
-- [Krol3 - Container Security Checklist](https://github.com/krol3/container-security-checklist)
-- [Glassechidna - TrackIAM](https://github.com/glassechidna/trackiam)
-- [AWS Samples - AWS Customer Playbook Framework](https://github.com/aws-samples/aws-customer-playbook-framework)
-- [AWS IAM - Policies and Permissions in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
-- [Security Wiki - Cloud](https://www.secwiki.cloud/)
-- [NotSoSecure - Hacking AWS Cognito Misconfigurations](https://notsosecure.com/hacking-aws-cognito-misconfigurations)
-- [AWS Samples - SCP Examples](https://github.com/aws-samples/service-control-policy-examples)
-- [Zoph IO - AWS Security Survival Kit](https://github.com/zoph-io/aws-security-survival-kit)
-- [AWS Labs - AWS Break Glass Role](https://github.com/awslabs/aws-break-glass-role)
-- [ClutchSecurity - Federator](https://github.com/clutchsecurity/federator)
-- [GCP Developer Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/)
-- [KelseyHightower - Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-- [GCP Permissions Reference](https://gcp.permissions.cloud/)
-- [AWS Permissions Reference](https://aws.permissions.cloud/)
-- [Kyuu-Ji - Awesome Azure Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)
-- [Siigil - Entra ID Terraform](https://github.com/siigil/entra-id-terraform)
-- [GCP Networking 101 Cheat Sheet](https://cloud.google.com/blog/topics/developers-practitioners/networking-101-gcp-reference-sheet)
-- [Wiz Security - Public IOC Database](https://github.com/wiz-sec-public/wiz-research-iocs)
-- [Hacking The Cloud](https://hackingthe.cloud/)
-- [LutzenFried - Offensive Cloud TTPs](https://github.com/lutzenfried/OffensiveCloud/tree/main)
-- [LittleHack3r - Awesome GCP Security](https://github.com/Littlehack3r/awesome-gcp-pentesting)
-- [CloudSecDocs](https://cloudsecdocs.com/)
-- [Houey - Awesome SCPs](https://github.com/houey/awesome-service-control-policies)
-- [List of GCP Blogs - 2021](https://cloud.google.com/blog/topics/inside-google-cloud/complete-list-google-cloud-blog-links-2021)
-- [AidenSteele - AWS Centralized Logs](https://github.com/aidansteele/centralized-logs)
-- [Invictus IR - AWS Cheat Sheet](https://github.com/invictus-ir/aws-cheatsheet)
-- [TrustOnCloud - S3 Threat Model](https://github.com/trustoncloud/threatmodel-for-aws-s3)
-- [RhinoSecurityLabs - GCP IAM Privilege Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation)
-- [Blackberry - Falco Bypasses](https://github.com/blackberry/Falco-bypasses)
-- [Cloud Native Security Talks](https://talks.container-security.site/)
-- [Futurice - Terraform Examples](https://github.com/futurice/terraform-examples)
-- [HackTricks - Kubernetes Pentesting](https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-pentesting)
-- [HackTricks - Pentesting Docker](https://book.hacktricks.xyz/network-services-pentesting/2375-pentesting-docker)
+| Name | Description |
+|------|-------------|
+| [Security Tools Reviews](https://www.cloudwards.net/) | Cloudwards.net \| Software &amp; Online Security Tools Reviewed |
+| [Personal Security and Privacy](https://security-list.js.org/) | Security List 🔐 |
+| [Personal Security Checklist](https://github.com/lissy93/personal-security-checklist) | Lissy93/personal-security-checklist: 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024 |
+| [Privacy Tools IO](https://www.privacytools.io/) | Best Privacy Tools & Software Guide in in 2024 |
+| [Oh Shit Git](https://ohshitgit.com/) | Oh Shit, Git!?! |
+| [TinyWow](https://tinywow.com/) | Free AI Writing, PDF, Image, and other Online Tools - TinyWow |
+| [ToS;DR](https://tosdr.org) | Frontpage -- Terms of Service; Didn&#039;t Read |
+| [DoNotPay](https://donotpay.com) | DoNotPay - Your AI Consumer Champion |
+| [Untools](https://untools.co/) | Tools for better thinking \| Untools |
+| [Grep App](https://grep.app/) | grep.app \| code search |
+| [CodeGrepper](https://www.codegrepper.com/) | Grepper \| The Query & Answer System for the Coder Community |
 
-## Application Security
+# Web Security
 
-- [OffSecML](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook)
-- [Bypassing Cloudflare](https://www.zenrows.com/blog/bypass-cloudflare#cloudflare-solvers)
-- [Frida Codeshare](https://codeshare.frida.re/)
-- [OWASP MASVS CheatSheet](https://cheatsheetseries.owasp.org/IndexMASVS.html)
-- [HackTricks - Pentesting GraphQL](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/graphql)
-- [BishopFox - JSON Interoperability Vulnerabilities](https://bishopfox.com/blog/json-interoperability-vulnerabilities)
-- [ChentSulin - Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)
-- [TLDR Sec - Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses?s=35)
-- [Ignite Technologies - Web App Pentesting CheatSheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet)
-- [OWASP - MASTG](https://mas.owasp.org/MASTG/)
-- [OWASP CheatSheets](https://cheatsheetseries.owasp.org/Glossary.html)
+| Name | Description |
+|------|-------------|
+| [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) | GitHub - ngalongc/bug-bounty-reference: Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature |
+| [Bug Bounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) | GitHub - devanshbatham/Awesome-Bugbounty-Writeups: A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference |
+| [OWASP CheatSheets](https://cheatsheetseries.owasp.org/Glossary.html) | Index Alphabetical - OWASP Cheat Sheet Series |
 
-## Study
+## Fuzzing
 
-- [Nightmare Binary Exploitation Course](https://guyinatuxedo.github.io/index.html)
-- [WalidShaari - Certified Kubernetes Security Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
-- [Donne Martin - System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [BurpSuite Certified Practitioner Study](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
-- [AgeRon - Hands-on ML](https://github.com/ageron/handson-ml3)
-- [YouTube - Kubernetes Hacking Masterclass](https://youtube.com/watch?v=YXc9RnyNUi4)
-- [TCMSec - Practical Ethical Hacking Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
-- [Google Cloud Skills Boost](https://cloudskillsboost.google/paths)
-- [Linux foundation - Building the Simplest Possible Linux System](https://www.youtube.com/watch?v=Sk9TatW9ino)
-- [FreeCodeCamp - Network Pentesting for Beginners](https://www.youtube.com/watch?v=3Kq1MIfTWCE&t=8s)
-- [TrekhLeb - JS Data Structures & Algorithms](https://github.com/trekhleb/javascript-algorithms)
-- [RPISec - Modern Binary Exploitation](https://github.com/rpisec/mbe)
-- [TechiesCamp - Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path?ssp=1&darkschemeovr=1&setlang=en-US&safesearch=moderate)
-- [CodeCrafters - Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+| Name | Description |
+|------|-------------|
+| [Fuzzing Blog](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing) | Fuzz Testing for blackbox security analysis \| Bishop Fox |
+| [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101) | GitHub - antonio-morales/Fuzzing101: An step by step fuzzing tutorial. A GitHub Security Lab initiative |
+
+## GraphQL
+
+| Name | Description |
+|------|-------------|
+| [HackTricks - GraphQL](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/graphql) | Pentesting GraphQL - HackTricks |
+| [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) | GitHub - chentsulin/awesome-graphql: Awesome list of GraphQL |
+| [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) | built for bug bounty hunters, security researchers and hackers to assist with uncovering vulnerabilities across multiple GraphQL implementations. |
+
+## Labs
+
+| Name | Description |
+|------|-------------|
+| [GraphQL Labs](https://github.com/righettod/poc-graphql) | GitHub - righettod/poc-graphql: Research on GraphQL from an AppSec point of view. |
+| [Web Goat](https://github.com/WebGoat/WebGoat) | GitHub - WebGoat/WebGoat: WebGoat is a deliberately insecure application |
+| [Damn Vulnerable GraphQL App](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) | GitHub - dolevf/Damn-Vulnerable-GraphQL-Application: Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook&#39;s GraphQL technology, to learn and practice GraphQL Security. |
+| [JSON Interop Lab](https://github.com/BishopFox/json-interop-vuln-labs) | GitHub - BishopFox/json-interop-vuln-labs: Companion labs to &quot;An Exploration of JSON Interoperability Vulnerabilities&quot; |
+
+## Tools
+
+| Name | Description |
+|------|-------------|
+| [Reaper](https://github.com/ghostsecurity/reaper) | GitHub - ghostsecurity/reaper: 💀 Don&#39;t fear the Reaper 👻 - Web security assessment tool |
+| [GraphQL Clairvoyance](https://github.com/nikitastupin/clairvoyance) | GitHub - nikitastupin/clairvoyance: Obtain GraphQL API schema even if the introspection is disabled |
+| [KeyHacks](https://github.com/streaak/keyhacks) | GitHub - streaak/keyhacks: Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they&#39;re valid. |
+| [Katana](https://github.com/projectdiscovery/katana) | GitHub - projectdiscovery/katana: A next-generation crawling and spidering framework. |
+| [FFuF](https://github.com/ffuf/ffuf) | GitHub - ffuf/ffuf: Fast web fuzzer written in Go |
+| [DalFox](https://github.com/hahwul/dalfox) | GitHub - hahwul/dalfox: 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. |
+| [GraphQL Map](https://github.com/swisskyrepo/GraphQLmap) | GitHub - swisskyrepo/GraphQLmap: GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;) |
+| [SnallyGaster](https://github.com/hannob/snallygaster) | GitHub - hannob/snallygaster: Tool to scan for secret files on HTTP servers |
+| [SubJS](https://github.com/lc/subjs) | GitHub - lc/subjs: Fetches javascript file from a list of URLS or subdomains. |
+| [RetireJS](https://github.com/retirejs/retire.js/) | GitHub - RetireJS/retire.js: scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds. |
+| [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) | This is a tool that lists the different ways of reaching a given type in a GraphQL schema. |
+| [JWT Tool](https://github.com/ticarpi/jwt_tool) | jwt_tool.py is a toolkit for validating, forging, scanning and tampering JWTs (JSON Web Tokens). |
+| [Jaeles](https://github.com/jaeles-project/jaeles) | GitHub - jaeles-project/jaeles: The Swiss Army knife for automated Web Application Testing |
+| [URO](https://github.com/s0md3v/uro) | GitHub - s0md3v/uro: declutters url lists for crawling/pentesting |
+| [Route Detect](https://github.com/mschwager/route-detect) | GitHub - mschwager/route-detect: Find authentication (authn) and authorization (authz) security bugs in web application routes. |
+| [H2C Smuggler](https://github.com/BishopFox/h2csmuggler) | GitHub - BishopFox/h2csmuggler: HTTP Request Smuggling over HTTP/2 Cleartext (h2c) |
+| [InQL](https://github.com/doyensec/inql) | GitHub - doyensec/inql: InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration. |
+| [Hakrawler](https://github.com/hakluke/hakrawler) | GitHub - hakluke/hakrawler: Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application |
+| [Elastic Burp](https://github.com/portswigger/elastic-burp) | GitHub - PortSwigger/elastic-burp: The Web Audit Search Engine - Index and Search HTTP Requests and Responses in Web Application Audits with ElasticSearch |
+| [HoppScotch](https://hoppscotch.io/) | Hoppscotch • Open source API development ecosystem |
+| [GraphQL Voyager](https://github.com/IvanGoncharov/graphql-voyager) | GitHub - graphql-kit/graphql-voyager: 🛰️ Represent any GraphQL API as an interactive graph |
+| [GraphQL Cop](https://github.com/dolevf/graphql-cop) | small Python utility to run common security tests against GraphQL APIs |
+| [SQL Map](https://github.com/sqlmapproject/sqlmap) | GitHub - sqlmapproject/sqlmap: Automatic SQL injection and database takeover tool |
+| [HakOriginFinder](https://github.com/hakluke/hakoriginfinder) | GitHub - hakluke/hakoriginfinder: Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs! |
+| [Proxify](https://github.com/projectdiscovery/Proxify) | GitHub - projectdiscovery/proxify: A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go. |
+| [SubJack](https://github.com/haccer/subjack) | GitHub - haccer/subjack: Subdomain Takeover tool written in Go |
+| [AWS API Gateway IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) | GitHub - Ge0rg3/requests-ip-rotator: A Python library to utilize AWS API Gateway&#39;s large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing. |
+| [SubOver](https://github.com/Ice3man543/SubOver) | GitHub - Ice3man543/SubOver: A Powerful Subdomain Takeover Tool |
+| [YSoSerial](https://github.com/frohoff/ysoserial) | GitHub - frohoff/ysoserial: A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. |
+| [Az Token Finder](https://github.com/HackmichNet/AzTokenFinder) | GitHub - HackmichNet/AzTokenFinder. It simply opens the processes you provide and searches through the memory for JWT like looking data and extracts them. |
+
