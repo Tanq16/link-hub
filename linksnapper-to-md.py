@@ -67,6 +67,14 @@ def generate_markdown(categories: Dict[str, CategoryNode], output_file: str):
             write_category(f, subcategory)
     
     with open(output_file, 'w', encoding='utf-8') as f:
+        # Write opener
+        opener = """
+<p align="center">
+<img src=".github/assets/logo.png" alt="LinkHub Logo" width="250" height="250" />
+<h1 align="center">Cybersecurity Links Dump</h1><br>
+\n
+"""
+        f.write(opener)
         # Write table of contents
         f.write("Table of Contents &rarr;\n\n")
         f.write(generate_toc(categories))
