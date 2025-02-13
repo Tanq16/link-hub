@@ -1,0 +1,5774 @@
+[
+  {
+    "id": "f5115436-c0f1-4ff8-9b5a-c2c8bc004950",
+    "url": "https://github.com/namidaco/namida",
+    "name": "Namida",
+    "description": "android music player with youtube music support",
+    "path": [
+      "FOSS",
+      "Android"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.619560343Z"
+  },
+  {
+    "id": "30431255-c060-4eec-8ff7-76b0915e8f9b",
+    "url": "https://github.com/komikku-app/komikku",
+    "name": "Komikku",
+    "description": "android manga reader app",
+    "path": [
+      "FOSS",
+      "Android"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.200286945Z"
+  },
+  {
+    "id": "d79949f9-8b91-431c-b862-011b7972b789",
+    "url": "https://github.com/breezy-weather/breezy-weather",
+    "name": "Breezy Weather",
+    "description": "android material design weather app",
+    "path": [
+      "FOSS",
+      "Android"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:27.145504788Z"
+  },
+  {
+    "id": "84f6bdb6-f23e-43ca-a6b2-ed108e2e84ac",
+    "url": "https://github.com/jmshrv/finamp",
+    "name": "Finamp",
+    "description": "Music client for Jellyfin",
+    "path": [
+      "FOSS",
+      "Mobile Apps"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.399442458Z"
+  },
+  {
+    "id": "ee84fcbd-bc8f-4ca7-b82c-81badf467648",
+    "url": "https://github.com/projectsend/projectsend",
+    "name": "Project Send",
+    "description": "cross-device data sharing app with rbac and stats",
+    "path": [
+      "FOSS",
+      "Data Sharing"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.473730712Z"
+  },
+  {
+    "id": "a7d5d7f5-3b97-4449-bdfc-298d052684b5",
+    "url": "https://github.com/schollz/croc",
+    "name": "Croc",
+    "description": "go-based CLI file transfer tool with e2e and ipv6-first support",
+    "path": [
+      "FOSS",
+      "Data Sharing"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.412404426Z"
+  },
+  {
+    "id": "ebe3124a-5d4a-4179-b0f0-84d383e6093b",
+    "url": "https://github.com/FelixKratz/SketchyBar",
+    "name": "SketchyBar",
+    "description": "open source and configurable macOS menu bar replacement",
+    "path": [
+      "FOSS",
+      "MacOS"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.550181516Z"
+  },
+  {
+    "id": "fd88524e-3757-4e2f-a3c3-5cdc6c2b1771",
+    "url": "https://github.com/spliit-app/spliit",
+    "name": "Spliit",
+    "description": "open source splitwise alternative",
+    "path": [
+      "FOSS",
+      "Direct Alternatives"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.555844878Z"
+  },
+  {
+    "id": "177ede14-f9c4-438c-9a81-76645725621d",
+    "url": "https://github.com/dzhng/deep-research",
+    "name": "Deep Research",
+    "description": "open source alternative of Open AI's deep research functionality",
+    "path": [
+      "FOSS",
+      "AI & ML"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.554687349Z"
+  },
+  {
+    "id": "3e76b93e-07e2-4c1d-904c-2b104a60bdf5",
+    "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+    "name": "Ollama Deep Researcher",
+    "description": "open source implementation of Open AI's deep research by langchain-ai",
+    "path": [
+      "FOSS",
+      "AI & ML"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.742510817Z"
+  },
+  {
+    "id": "dc7fb1c0-3500-4257-96c4-e717e416b372",
+    "url": "https://github.com/readest/readest",
+    "name": "Readest",
+    "description": "open source ebook reader",
+    "path": [
+      "FOSS",
+      "Media Consumption"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.756731519Z"
+  },
+  {
+    "id": "3d1e7b20-d5b4-43fb-a1b7-ed9a52d5d5b5",
+    "url": "https://github.com/agersant/polaris",
+    "name": "Polaris",
+    "description": "open source music streaming application",
+    "path": [
+      "FOSS",
+      "Media Consumption"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.827786581Z"
+  },
+  {
+    "id": "5a0066b1-ffbc-47f1-9837-36b2f405b41a",
+    "url": "https://github.com/brufdev/many-notes",
+    "name": "Many Notes",
+    "description": "open source markdown note taking app",
+    "path": [
+      "FOSS",
+      "Note Taking"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.970635005Z"
+  },
+  {
+    "id": "6832aee8-6080-4e7c-b39b-d115ff395767",
+    "url": "https://github.com/btw-so/open-source-alternatives",
+    "name": "Open Source Alternatives",
+    "description": "list of open source alternatives to SaaS products",
+    "path": [
+      "FOSS",
+      "Resource Lists"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.940273946Z"
+  },
+  {
+    "id": "d0d6b5e9-71b5-4412-8e8d-21bf37c207ef",
+    "url": "https://github.com/cider-security-research/cicd-goat",
+    "name": "CICD Goat",
+    "description": "GitHub - cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.",
+    "path": [
+      "Cloud",
+      "CICD Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.837969743Z"
+  },
+  {
+    "id": "be652dce-7852-4a43-abeb-849b932a92cf",
+    "url": "https://github.com/n0jam/gcp-ctf-workshop",
+    "name": "GCP CTF Workshop",
+    "description": "GCP goat environment for BSides NY 2024 workshop",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:27.005155842Z"
+  },
+  {
+    "id": "b3f08cd1-43d7-425b-9e20-6866b55632b6",
+    "url": "http://flaws2.cloud/",
+    "name": "flAWS 2 Cloud",
+    "description": "AWS lab exercise for attacker and defender paths to exploit misconfigurations",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:30.86770262Z"
+  },
+  {
+    "id": "c6202e8e-a3bc-4314-acc7-0044902734d5",
+    "url": "http://flaws.cloud",
+    "name": "flAWS Cloud",
+    "description": "AWS basic security misconfigurations lab exercises",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:30.944869699Z"
+  },
+  {
+    "id": "b1f2d315-7ea8-4dbb-9894-551ca75eba40",
+    "url": "https://github.com/dhammon/ai-goat",
+    "name": "AI Goat",
+    "description": "vulnerable LLM CTF challenges setup locally",
+    "path": [
+      "AI Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.389008629Z"
+  },
+  {
+    "id": "9628e51e-b4f3-4b3a-a082-40b3d04195eb",
+    "url": "https://github.com/JOSHUAJEBARAJ/GCP-GOAT",
+    "name": "GCP Goat",
+    "description": "GitHub - JOSHUAJEBARAJ/GCP-GOAT: GCP GOAT is the vulnerable application for learn the GCP Security",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:54.656951264Z"
+  },
+  {
+    "id": "ba84f827-cad3-4ea6-b629-a47a490d4cb0",
+    "url": "https://github.com/OWASP/igoat",
+    "name": "OWASP iGoat",
+    "description": "GitHub - OWASP/igoat: OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar",
+    "path": [
+      "Mobile Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.096943037Z"
+  },
+  {
+    "id": "8f9fbc42-56a0-4bd4-ba7c-36e6a59e3813",
+    "url": "https://github.com/digininja/DVWA",
+    "name": "Damn Vulnerable Web App",
+    "description": "GitHub - digininja/DVWA: Damn Vulnerable Web Application (DVWA)",
+    "path": [
+      "Mobile Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.189479538Z"
+  },
+  {
+    "id": "dd895323-6b5a-4c8e-b9be-9dcc226edf57",
+    "url": "https://github.com/BishopFox/iam-vulnerable",
+    "name": "IAM Vulnerable",
+    "description": "GitHub - BishopFox/iam-vulnerable: Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.062530614Z"
+  },
+  {
+    "id": "d56c9f3c-323c-4f8a-bdbe-26de8fad1985",
+    "url": "https://github.com/payatu/diva-android",
+    "name": "DIVA Android",
+    "description": "GitHub - payatu/diva-android: DIVA Android - Damn Insecure and vulnerable App for Android",
+    "path": [
+      "Mobile Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.137597402Z"
+  },
+  {
+    "id": "8abb3ada-0da6-4d0a-a387-79f34b78c509",
+    "url": "https://github.com/madhuakula/kubernetes-goat",
+    "name": "Kubernetes Goat",
+    "description": "GitHub - madhuakula/kubernetes-goat: Kubernetes Goat is a &quot;Vulnerable by Design&quot; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.073125379Z"
+  },
+  {
+    "id": "69a1c975-4698-45a9-92a3-072df3140838",
+    "url": "https://github.com/nccgroup/sadcloud",
+    "name": "Sad Cloud",
+    "description": "GitHub - nccgroup/sadcloud: A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.192687448Z"
+  },
+  {
+    "id": "54320538-5ce7-430e-9cd0-347bc2a6acc0",
+    "url": "https://github.com/iknowjason/Awesome-CloudSec-Labs",
+    "name": "Awesome Cloud Labs",
+    "description": "GitHub - iknowjason/Awesome-CloudSec-Labs: Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.692742598Z"
+  },
+  {
+    "id": "2e0abbb3-e305-4c42-9cf2-355f05246e80",
+    "url": "https://underthewire.tech/",
+    "name": "Under the Wire",
+    "description": "UTW &#8211; Under the Wire&#8230; PowerShell Training for the People",
+    "path": [
+      "Infrastructure Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:50.259903704Z"
+  },
+  {
+    "id": "51065c69-8789-44ad-b7de-934aee88e358",
+    "url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+    "name": "Cloud Goat",
+    "description": "GitHub - RhinoSecurityLabs/cloudgoat: CloudGoat is Rhino Security Labs&#39; &quot;Vulnerable by Design&quot; AWS deployment tool",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:47.273220829Z"
+  },
+  {
+    "id": "6e9a404f-4925-4ba2-802c-811514f0b9af",
+    "url": "https://github.com/bridgecrewio/terragoat",
+    "name": "Terragoat",
+    "description": "GitHub - bridgecrewio/terragoat: TerraGoat is Bridgecrew&#39;s &quot;Vulnerable by Design&quot; Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
+    "path": [
+      "Cloud",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:47.622719169Z"
+  },
+  {
+    "id": "3945a2d2-0d2c-4206-9692-70c48a481de8",
+    "url": "https://github.com/frankwxu/digital-forensics-lab",
+    "name": "Digital Forensics Lab",
+    "description": "GitHub - frankwxu/digital-forensics-lab: Free hands-on digital forensics labs for students and faculty",
+    "path": [
+      "Cybersecurity",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.584654835Z"
+  },
+  {
+    "id": "aaf026e4-ac29-4862-9a6e-f8c3be07aa35",
+    "url": "https://github.com/ine-labs/AWSGoat",
+    "name": "AWS Goat",
+    "description": "GitHub - ine-labs/AWSGoat: AWSGoat : A Damn Vulnerable AWS Infrastructure",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:54.684840908Z"
+  },
+  {
+    "id": "edc0353e-3107-4ef2-98a9-1e27ca78384b",
+    "url": "https://github.com/righettod/poc-graphql",
+    "name": "GraphQL Labs",
+    "description": "GitHub - righettod/poc-graphql: Research on GraphQL from an AppSec point of view.",
+    "path": [
+      "Web Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:54.592511623Z"
+  },
+  {
+    "id": "602a8fe5-9337-4e02-8d3e-78642f2a08b9",
+    "url": "https://github.com/WebGoat/WebGoat",
+    "name": "Web Goat",
+    "description": "GitHub - WebGoat/WebGoat: WebGoat is a deliberately insecure application",
+    "path": [
+      "Web Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.260395158Z"
+  },
+  {
+    "id": "3c76edea-97c5-441f-ac59-bfaa2df9b633",
+    "url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
+    "name": "Damn Vulnerable GraphQL App",
+    "description": "GitHub - dolevf/Damn-Vulnerable-GraphQL-Application: Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook&#39;s GraphQL technology, to learn and practice GraphQL Security.",
+    "path": [
+      "Web Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.525638541Z"
+  },
+  {
+    "id": "f4ee4219-8428-4371-b2be-b5696e4e17ee",
+    "url": "https://github.com/iknowjason/PurpleCloud",
+    "name": "PurpleCloud Azure",
+    "description": "GitHub - iknowjason/PurpleCloud: A little tool to play with Azure Identity - Azure Active Directory lab creation tool",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.7735195Z"
+  },
+  {
+    "id": "c0a858fe-6f2c-472a-beec-777db4d556d3",
+    "url": "https://github.com/step-security/github-actions-goat",
+    "name": "GHA Goat",
+    "description": "GitHub - step-security/github-actions-goat: GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment",
+    "path": [
+      "Cloud",
+      "CICD Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.710284641Z"
+  },
+  {
+    "id": "1b5ca9f3-d6f8-4677-a67d-67e1b0ac8810",
+    "url": "https://k8slanparty.com/",
+    "name": "K8s Lan Party",
+    "description": "A CTF designed to challenge your Kubernetes hacking skills through a series of critical network vulnerabilities and misconfigurations.",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:48.486155278Z"
+  },
+  {
+    "id": "6ca4e1da-c045-4fcf-8fb7-6b3d50244c34",
+    "url": "https://github.com/ermetic-research/cnappgoat",
+    "name": "CNAPP-Goat",
+    "description": "GitHub - ermetic-research/cnappgoat: CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.",
+    "path": [
+      "Cloud",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.531911028Z"
+  },
+  {
+    "id": "583888e9-3a20-45f4-9f8d-247445efb086",
+    "url": "https://github.com/orcasecurity-research/AIGoat",
+    "name": "AI Goat",
+    "description": "GitHub - orcasecurity-research/AIGoat: AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges.",
+    "path": [
+      "AI Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.441650969Z"
+  },
+  {
+    "id": "fa49a0a7-748c-4b01-b0c7-3dcb2fda79c9",
+    "url": "https://github.com/DERE-ad2001/Frida-Labs",
+    "name": "Frida Labs",
+    "description": "GitHub - DERE-ad2001/Frida-Labs: The repo contains a series of challenges for learning Frida for Android Exploitation.",
+    "path": [
+      "Mobile Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.447674274Z"
+  },
+  {
+    "id": "a1357006-809a-4da7-a959-0d624a556d63",
+    "url": "https://github.com/BishopFox/json-interop-vuln-labs",
+    "name": "JSON Interop Lab",
+    "description": "GitHub - BishopFox/json-interop-vuln-labs: Companion labs to &quot;An Exploration of JSON Interoperability Vulnerabilities&quot;",
+    "path": [
+      "Web Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.536977985Z"
+  },
+  {
+    "id": "c11722b6-2743-4cb3-8173-3627cf353180",
+    "url": "https://eksclustergames.com/",
+    "name": "EKS Cluster Games",
+    "description": "challenges are based on real EKS misconfigurations and security issues",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:49.328803557Z"
+  },
+  {
+    "id": "6ae9244e-7609-48ba-8fa2-b049418a4c99",
+    "url": "https://github.com/XMCyber/XMGoat",
+    "name": "Azure Goat",
+    "description": "a vulnerable environment, with some significant misconfigurations",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.806165373Z"
+  },
+  {
+    "id": "edbbb3b9-9b4a-4af4-b030-7a534455d085",
+    "url": "https://thunder-ctf.cloud/",
+    "name": "Thunder CTF Cloud",
+    "description": "Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP).",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:49.659868393Z"
+  },
+  {
+    "id": "e820ecf2-21e1-4b4e-8d3a-817d3e9bbb08",
+    "url": "https://www.hackthebox.com/blog/active-directory-penetration-testing-cheatsheet-and-guide",
+    "name": "AD Pentesting Cheatsheet",
+    "description": "Active directory pentesting: cheatsheet and beginner guide",
+    "path": [
+      "Infrastructure Security",
+      "Active Directory"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:49.801821498Z"
+  },
+  {
+    "id": "bc25fd7d-ffd1-4b7d-b545-be480ac53c18",
+    "url": "https://github.com/AD-Attacks/Active-Directory-Penetration-Testing",
+    "name": "AD Pentesting Guide",
+    "description": "GitHub - AD-Attacks/Active-Directory-Penetration-Testing",
+    "path": [
+      "Infrastructure Security",
+      "Active Directory"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:45.938659299Z"
+  },
+  {
+    "id": "f8c9c6b0-8a29-47c7-9720-d6f179bade8c",
+    "url": "https://community.turgensec.com/shodan-pentesting-guide/",
+    "name": "Shodan Guide",
+    "description": "Shodan Pentesting Guide &#8211; TurgenSec Community",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "unhealthy",
+      "error": "Head \"https://community.turgensec.com/shodan-pentesting-guide/\": remote error: tls: unrecognized name"
+    },
+    "lastChecked": "2025-02-13T17:53:49.727586151Z"
+  },
+  {
+    "id": "d9b16f3e-242c-4730-86c2-5d7116d3959c",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md",
+    "name": "Pentesting BIBLE",
+    "description": "Pentesting Bible by blacckhathaceekr",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:46.446253267Z"
+  },
+  {
+    "id": "fb5fe861-6a02-4c1f-aeb0-aae97f51d77a",
+    "url": "https://github.com/wtsxDev/Penetration-Testing",
+    "name": "Pentesting Resources",
+    "description": "GitHub - wtsxDev/Penetration-Testing: List of awesome penetration testing resources, tools and other shiny things",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.500081496Z"
+  },
+  {
+    "id": "4fa0d291-320b-4d60-937c-63a7a0ebfbc3",
+    "url": "https://syscalls64.paolostivanin.com/",
+    "name": "Linux Syscalls 64-bit",
+    "description": "Linux Syscall Reference",
+    "path": [
+      "Infrastructure Security",
+      "Linux"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.77525854Z"
+  },
+  {
+    "id": "fd595638-f4e2-4c2b-8e85-fc4180ecfbb4",
+    "url": "https://github.com/enaqx/awesome-pentest",
+    "name": "Awesome Pentest",
+    "description": "GitHub - enaqx/awesome-pentest: A collection of awesome penetration testing resources, tools and other shiny things",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:55.235039854Z"
+  },
+  {
+    "id": "d33242f5-9a34-4098-bbc9-57a64c11ad17",
+    "url": "https://syscalls32.paolostivanin.com/",
+    "name": "Linux Syscalls 32-bit",
+    "description": "Linux Syscall Reference",
+    "path": [
+      "Infrastructure Security",
+      "Linux"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.071051054Z"
+  },
+  {
+    "id": "bca759dd-ec3d-4662-bcf7-d4cbcc48c9c9",
+    "url": "https://github.com/Ignitetechnologies/Privilege-Escalation",
+    "name": "Privesc Cheatsheet",
+    "description": "GitHub - Ignitetechnologies/Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:54.958932563Z"
+  },
+  {
+    "id": "cb74127b-269a-4e6c-bf14-84c8ecff1964",
+    "url": "https://oscp.infosecsanyam.in/",
+    "name": "OSCP Resources",
+    "description": "OSCP resources",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:07.209378599Z"
+  },
+  {
+    "id": "a81347ba-d565-4f27-abf5-dcf8be7b02d1",
+    "url": "https://github.com/guardicore/monkey",
+    "name": "Guardicore - Infection Monkey",
+    "description": "GitHub - guardicore/monkey: Infection Monkey - An open-source adversary emulation platform",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.387480424Z"
+  },
+  {
+    "id": "245213f5-c83c-4d46-959a-53d2476e9e4d",
+    "url": "https://0xffsec.com/handbook/",
+    "name": "Offsec Handbook",
+    "description": "0xffsec Handbook: The Pentester's Guide | 0xffsec Handbook",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.402124106Z"
+  },
+  {
+    "id": "71d83001-0693-4c1c-9423-07ddade1c64c",
+    "url": "https://github.com/cure53/Contracts",
+    "name": "Pentesting Contracts",
+    "description": "GitHub - cure53/Contracts: A small collection of potentially useful contract templates",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.214644561Z"
+  },
+  {
+    "id": "c86ea1e0-0f4f-441f-812c-1cee35c9d577",
+    "url": "https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups",
+    "name": "VulnHub Writeups",
+    "description": "GitHub - Ignitetechnologies/Vulnhub-CTF-Writeups: This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles.",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.661597182Z"
+  },
+  {
+    "id": "4e443e2f-2041-42fb-ad31-1b7ba4cd2d66",
+    "url": "https://github.com/ngalongc/bug-bounty-reference",
+    "name": "Bug Bounty Reference",
+    "description": "GitHub - ngalongc/bug-bounty-reference: Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature",
+    "path": [
+      "Web Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.141530906Z"
+  },
+  {
+    "id": "5bde8d6b-01cc-4b70-8029-58ed26763a7d",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "name": "Bug Bounty Writeups",
+    "description": "GitHub - devanshbatham/Awesome-Bugbounty-Writeups: A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "path": [
+      "Web Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.33234373Z"
+  },
+  {
+    "id": "db526be9-401b-45a4-84ce-00936b24290e",
+    "url": "https://bishopfox.com/blog/fuzzing-aka-fuzz-testing",
+    "name": "Fuzzing Blog",
+    "description": "Fuzz Testing for blackbox security analysis | Bishop Fox",
+    "path": [
+      "Web Security",
+      "Fuzzing"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.152282649Z"
+  },
+  {
+    "id": "59e3663f-fbb4-43ac-ae4e-f24e031593c9",
+    "url": "https://github.com/yeahhub/Hacking-Security-Ebooks",
+    "name": "Hacking EBooks",
+    "description": "GitHub - yeahhub/Hacking-Security-Ebooks: Top 100 Hacking &amp; Security E-Books (Free Download)",
+    "path": [
+      "Cybersecurity",
+      "Resources"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.734563749Z"
+  },
+  {
+    "id": "dd6a5dfe-cc7a-4049-93cf-3b395a5e28ae",
+    "url": "https://github.com/msrkp/hacker-roadmap",
+    "name": "Hacker Roadmap",
+    "description": "GitHub - msrkp/hacker-roadmap: Roadmap to get started in Infosec for absolute begineer",
+    "path": [
+      "Cybersecurity",
+      "Resources"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.515963599Z"
+  },
+  {
+    "id": "9ba7f609-b885-44e7-bab3-a89fee4bdddc",
+    "url": "https://www.thehacker.recipes",
+    "name": "The Hacker Recipes",
+    "description": "Resources for pentesting and environment security assessments",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.479156508Z"
+  },
+  {
+    "id": "47238e90-e7ae-45b7-9693-bdc4ea019738",
+    "url": "https://github.com/antonio-morales/Fuzzing101",
+    "name": "Fuzzing 101",
+    "description": "GitHub - antonio-morales/Fuzzing101: An step by step fuzzing tutorial. A GitHub Security Lab initiative",
+    "path": [
+      "Web Security",
+      "Fuzzing"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.567799123Z"
+  },
+  {
+    "id": "d45fe279-0177-4338-a3fe-a73d85766784",
+    "url": "https://roadmap.sh/roadmaps",
+    "name": "Roadmaps for Study",
+    "description": "Roadmaps for a variety of different studies and fields",
+    "path": [
+      "Cybersecurity",
+      "Resources"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.092190385Z"
+  },
+  {
+    "id": "43a87c7c-c324-4e48-98c0-f95be6032663",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "name": "Basic Computer Games",
+    "description": "GitHub - coding-horror/basic-computer-games: An updated version of the classic &quot;Basic Computer Games&quot; book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/",
+    "path": [
+      "FOSS",
+      "Miscellaneous"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.558985304Z"
+  },
+  {
+    "id": "4d5725a2-116b-4c87-ba7c-62c6b59d753f",
+    "url": "https://github.com/cipher387/Dorks-collections-list",
+    "name": "Dorks Collection",
+    "description": "GitHub - cipher387/Dorks-collections-list: List of Github repositories and articles with list of dorks for different search engines",
+    "path": [
+      "Infrastructure Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.557690087Z"
+  },
+  {
+    "id": "90e2fb9a-3896-4a6a-b66a-8c19f3ecaaed",
+    "url": "https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/",
+    "name": "AppSec Interview Questions",
+    "description": "\n  Application Security Engineer Interview Questions · AppSec Enthusiast\n",
+    "path": [
+      "Cybersecurity",
+      "Resources"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:24.651827123Z"
+  },
+  {
+    "id": "9e555708-2904-4b8e-ab45-e8ba74b50149",
+    "url": "https://book.hacktricks.xyz/",
+    "name": "HackTricks",
+    "description": "HackTricks - HackTricks",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:28.76660387Z"
+  },
+  {
+    "id": "c12e29fc-df7d-4987-82b1-58edc9fc02b4",
+    "url": "https://www.cloudwards.net/",
+    "name": "Security Tools Reviews",
+    "description": "Cloudwards.net | Software &amp; Online Security Tools Reviewed",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:24.729554857Z"
+  },
+  {
+    "id": "e8906f1e-5863-4f66-80be-0843bc043ef5",
+    "url": "https://github.com/pluja/awesome-privacy",
+    "name": "Awesome Privacy",
+    "description": "GitHub - pluja/awesome-privacy: Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
+    "path": [
+      "FOSS",
+      "Resource Lists"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.893046903Z"
+  },
+  {
+    "id": "4f0e376a-b8c2-42f4-b35d-646eba8e8a75",
+    "url": "https://www.techinterviewhandbook.org/",
+    "name": "Tech Interview Handbook",
+    "description": "Technical Interview Guide for Busy Engineers | Tech Interview Handbook",
+    "path": [
+      "Cybersecurity",
+      "Resources"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:24.90340478Z"
+  },
+  {
+    "id": "e383ddfa-4058-44e1-a108-fe6789668920",
+    "url": "https://security-list.js.org/",
+    "name": "Personal Security and Privacy",
+    "description": "Security List 🔐",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:24.64737761Z"
+  },
+  {
+    "id": "180200e9-06bf-41f8-8a9e-4cb95e6bd1e5",
+    "url": "https://github.com/lissy93/personal-security-checklist",
+    "name": "Personal Security Checklist",
+    "description": "Lissy93/personal-security-checklist: 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:21.684834564Z"
+  },
+  {
+    "id": "9c157fe9-df3f-4a29-8cac-af257177a0b6",
+    "url": "https://github.com/benbusby/whoogle-search",
+    "name": "Whoogle",
+    "description": "GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine",
+    "path": [
+      "FOSS",
+      "Direct Alternatives"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:21.001815031Z"
+  },
+  {
+    "id": "8594efc5-75a5-4cd0-be35-7e492b7de4bc",
+    "url": "https://www.privacytools.io/",
+    "name": "Privacy Tools IO",
+    "description": "Best Privacy Tools & Software Guide in in 2024",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:24.92722789Z"
+  },
+  {
+    "id": "22f4850a-a249-4c21-a2ad-6a5931c4400d",
+    "url": "https://ohshitgit.com/",
+    "name": "Oh Shit Git",
+    "description": "Oh Shit, Git!?!",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.056058569Z"
+  },
+  {
+    "id": "6e847114-3c11-4188-a76b-18d90d3878d3",
+    "url": "https://github.com/danoctavian/awesome-anti-censorship",
+    "name": "Awesome Anti-Censorship",
+    "description": "GitHub - danoctavian/awesome-anti-censorship: curated list of open-source anti-censorship tools",
+    "path": [
+      "FOSS",
+      "Resource Lists"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:21.281809512Z"
+  },
+  {
+    "id": "cff3d48f-833d-4de2-aa10-ceb6474bd449",
+    "url": "https://tinywow.com/",
+    "name": "TinyWow",
+    "description": "Free AI Writing, PDF, Image, and other Online Tools - TinyWow",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.253175196Z"
+  },
+  {
+    "id": "0d2ec9b3-43d1-400e-b216-dd425fcacb1f",
+    "url": "https://tosdr.org",
+    "name": "ToS;DR",
+    "description": "Frontpage -- Terms of Service; Didn&#039;t Read",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.808545273Z"
+  },
+  {
+    "id": "0fd8a877-4ffd-4367-808a-69cf96e857c6",
+    "url": "https://donotpay.com",
+    "name": "DoNotPay",
+    "description": "DoNotPay - Your AI Consumer Champion",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.764808703Z"
+  },
+  {
+    "id": "f3d02d0f-adcc-45e1-8909-0d71a460c61b",
+    "url": "https://github.com/ghostsecurity/reaper",
+    "name": "Reaper",
+    "description": "GitHub - ghostsecurity/reaper: 💀 Don&#39;t fear the Reaper 👻 - Web security assessment tool",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:24.986082783Z"
+  },
+  {
+    "id": "e0b9451b-6404-4ca9-b24c-65bec22cdf67",
+    "url": "https://untools.co/",
+    "name": "Untools",
+    "description": "Tools for better thinking | Untools",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:28.758301267Z"
+  },
+  {
+    "id": "1e6abb55-6755-4129-88f5-c0b8ff531379",
+    "url": "https://github.com/nikitastupin/clairvoyance",
+    "name": "GraphQL Clairvoyance",
+    "description": "GitHub - nikitastupin/clairvoyance: Obtain GraphQL API schema even if the introspection is disabled",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.095416806Z"
+  },
+  {
+    "id": "7136cd58-0af1-4145-ad06-d4b51f3b444d",
+    "url": "https://github.com/streaak/keyhacks",
+    "name": "KeyHacks",
+    "description": "GitHub - streaak/keyhacks: Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they&#39;re valid.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.305134854Z"
+  },
+  {
+    "id": "4cfd6cc5-7aae-492a-b542-c5ecec636a1b",
+    "url": "https://github.com/skylot/jadx",
+    "name": "JADX",
+    "description": "GitHub - skylot/jadx: Dex to Java decompiler",
+    "path": [
+      "Mobile Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.359001402Z"
+  },
+  {
+    "id": "3d8fbc2a-fcac-47b7-940f-1df49060a35d",
+    "url": "https://github.com/projectdiscovery/katana",
+    "name": "Katana",
+    "description": "GitHub - projectdiscovery/katana: A next-generation crawling and spidering framework.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.352422975Z"
+  },
+  {
+    "id": "f0fc120d-1bbc-44ec-b072-0012f795eaf0",
+    "url": "https://github.com/breenmachine/httpscreenshot",
+    "name": "HTTP Screenshot",
+    "description": "GitHub - breenmachine/httpscreenshot",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.452991201Z"
+  },
+  {
+    "id": "6d240e25-6630-4526-abd4-86088bf527fd",
+    "url": "https://github.com/ffuf/ffuf",
+    "name": "FFuF",
+    "description": "GitHub - ffuf/ffuf: Fast web fuzzer written in Go",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.401480219Z"
+  },
+  {
+    "id": "513c7807-d041-4ce4-85b4-fcdd1449a809",
+    "url": "https://github.com/praetorian-inc/noseyparker",
+    "name": "NoseyParker",
+    "description": "GitHub - praetorian-inc/noseyparker: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.693473975Z"
+  },
+  {
+    "id": "2717eeb2-7b32-46c6-aef4-a465661302a2",
+    "url": "https://github.com/OJ/gobuster",
+    "name": "GoBuster",
+    "description": "GitHub - OJ/gobuster: Directory/File, DNS and VHost busting tool written in Go",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.651236099Z"
+  },
+  {
+    "id": "0904e956-8558-46b6-96b1-090460d8cabb",
+    "url": "https://github.com/hahwul/dalfox",
+    "name": "DalFox",
+    "description": "GitHub - hahwul/dalfox: 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.742851925Z"
+  },
+  {
+    "id": "69621af3-c717-4211-956d-401e7ac31099",
+    "url": "https://github.com/protectai/vulnhuntr",
+    "name": "VulnHuntr",
+    "description": "A tool to identify remotely exploitable vulnerabilities using LLMs and static code analysis.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.098113266Z"
+  },
+  {
+    "id": "e8c3196d-e994-48b7-a1b1-a6055127e9cb",
+    "url": "https://github.com/swisskyrepo/GraphQLmap",
+    "name": "GraphQL Map",
+    "description": "GitHub - swisskyrepo/GraphQLmap: GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.825744287Z"
+  },
+  {
+    "id": "9d1716e1-0e41-40a8-bcb4-a61f7c1e3983",
+    "url": "https://github.com/hannob/snallygaster",
+    "name": "SnallyGaster",
+    "description": "GitHub - hannob/snallygaster: Tool to scan for secret files on HTTP servers",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.583945431Z"
+  },
+  {
+    "id": "5a964306-f7dd-4d95-adda-af0cca4e59fb",
+    "url": "https://github.com/insidersec/insider",
+    "name": "Insider",
+    "description": "GitHub - insidersec/insider: Static Application Security Testing (SAST) engine focused on covering the OWASP Top 10, to make source code analysis to find vulnerabilities right in the source code, focused on a agile and easy to implement software inside your DevOps pipeline. Support the following technologies: Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C#, and Javascript (Node.js).",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.534986402Z"
+  },
+  {
+    "id": "bab9e428-2acc-4fd8-9836-bf5979fe9d76",
+    "url": "https://github.com/lc/subjs",
+    "name": "SubJS",
+    "description": "GitHub - lc/subjs: Fetches javascript file from a list of URLS or subdomains.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.564501899Z"
+  },
+  {
+    "id": "a3cf2198-517f-44ad-92be-9cc1dab8b25a",
+    "url": "https://github.com/AloneMonkey/frida-ios-dump",
+    "name": "Frida iOS Dump",
+    "description": "GitHub - AloneMonkey/frida-ios-dump: pull decrypted ipa from jailbreak device",
+    "path": [
+      "Mobile Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.072555651Z"
+  },
+  {
+    "id": "398951f6-266c-4d0e-8f9c-2f35050dd198",
+    "url": "https://github.com/cloudflare/flan",
+    "name": "Flan",
+    "description": "GitHub - cloudflare/flan: A pretty sweet vulnerability scanner",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.069763583Z"
+  },
+  {
+    "id": "581c2dcf-669c-4cd5-918b-d42130381236",
+    "url": "https://github.com/retirejs/retire.js/",
+    "name": "RetireJS",
+    "description": "GitHub - RetireJS/retire.js: scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.267980888Z"
+  },
+  {
+    "id": "38ecc2fb-1307-4af0-8a5a-09e02cc72656",
+    "url": "https://github.com/sensepost/objection",
+    "name": "Objection",
+    "description": "GitHub - sensepost/objection: 📱 objection - runtime mobile exploration",
+    "path": [
+      "Mobile Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:26.226642397Z"
+  },
+  {
+    "id": "52450008-1ddb-4d87-a3c3-288276617dc6",
+    "url": "https://grep.app/",
+    "name": "Grep App",
+    "description": "grep.app | code search",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:29.992240558Z"
+  },
+  {
+    "id": "11be4019-f866-47ca-8e5e-3ed3e7f43611",
+    "url": "https://github.com/BishopFox/GitGot",
+    "name": "GitGot",
+    "description": "GitHub - BishopFox/GitGot: Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.",
+    "path": [
+      "Cloud",
+      "CICD Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:25.828348589Z"
+  },
+  {
+    "id": "f36133da-5620-4ee4-8d6a-e48a89e02971",
+    "url": "https://github.com/ShiftLeftSecurity/sast-scan",
+    "name": "ShiftLeft SAST",
+    "description": "GitHub - ShiftLeftSecurity/sast-scan: Scan is a free &amp; Open Source DevSecOps tool for performing static analysis based security testing of your applications and its dependencies. CI and Git friendly.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:27.264733618Z"
+  },
+  {
+    "id": "4a846392-81c0-4541-96a9-0e228f393502",
+    "url": "https://gitlab.com/dee-see/graphql-path-enum",
+    "name": "GraphQL Path Enum",
+    "description": "This is a tool that lists the different ways of reaching a given type in a GraphQL schema.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:31.329560939Z"
+  },
+  {
+    "id": "95f30063-0da2-491e-acb7-458c44bde522",
+    "url": "https://www.codegrepper.com/",
+    "name": "CodeGrepper",
+    "description": "Grepper | The Query & Answer System for the Coder Community",
+    "path": [
+      "Productivity & QoL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:35.056599572Z"
+  },
+  {
+    "id": "a0212509-79e0-4c2e-8661-24e607431ee3",
+    "url": "https://github.com/aquasecurity/trivy",
+    "name": "Trivy",
+    "description": "GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.522484783Z"
+  },
+  {
+    "id": "ad1e6b89-3aec-4710-b7bf-ae3a4cc909d8",
+    "url": "https://github.com/ticarpi/jwt_tool",
+    "name": "JWT Tool",
+    "description": "jwt_tool.py is a toolkit for validating, forging, scanning and tampering JWTs (JSON Web Tokens).",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.168448653Z"
+  },
+  {
+    "id": "13876ae9-056a-42fe-a7a4-52b55e843cdf",
+    "url": "https://github.com/synacktiv/nord-stream",
+    "name": "NORD Stream",
+    "description": "GitHub - synacktiv/nord-stream: Nord Stream is a tool that allows you to extract secrets stored inside CI/CD environments by deploying malicious pipelines. It currently supports Azure DevOps, GitHub and GitLab.",
+    "path": [
+      "Cloud",
+      "CICD Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.598018733Z"
+  },
+  {
+    "id": "ecac7249-7cde-4d4c-919c-17921df233c0",
+    "url": "https://github.com/jaeles-project/jaeles",
+    "name": "Jaeles",
+    "description": "GitHub - jaeles-project/jaeles: The Swiss Army knife for automated Web Application Testing",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.505571442Z"
+  },
+  {
+    "id": "aac9a6df-d70e-408f-86be-cbe663380763",
+    "url": "https://frida.re",
+    "name": "Frida",
+    "description": "Frida • A world-class dynamic instrumentation toolkit | Observe and reprogram running programs on Windows, macOS, GNU/Linux, iOS, watchOS, tvOS, Android, FreeBSD, and QNX",
+    "path": [
+      "Mobile Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.140581368Z"
+  },
+  {
+    "id": "389807dc-c207-4a65-8025-e39db1dd1458",
+    "url": "https://github.com/s0md3v/uro",
+    "name": "URO",
+    "description": "GitHub - s0md3v/uro: declutters url lists for crawling/pentesting",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:11.16670727Z"
+  },
+  {
+    "id": "f9723e35-bda6-47f3-a620-2c144ad1273c",
+    "url": "https://ksoc.com/blog/kubernetes-security-ultimate-checklist",
+    "name": "Kubernetes Security Checklist",
+    "description": "Kubernetes Security Checklist: Cloud Native Security Basics Part VI",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "unhealthy",
+      "statusCode": 403
+    },
+    "lastChecked": "2025-02-13T17:53:51.355600084Z"
+  },
+  {
+    "id": "9a666ed3-8eb2-4b48-8fa7-d1022077f18b",
+    "url": "https://www.hunters.security/en/blog/delefriend-a-newly-discovered-design-flaw-in-domain-wide-delegation-could-leave-google-workspace-vulnerable-for-takeover",
+    "name": "DeleFriend",
+    "description": "DeleFriend: Severe design flaw in Domain Wide Delegation could leave Google Workspace vulnerable for takeover",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "unhealthy",
+      "statusCode": 403
+    },
+    "lastChecked": "2025-02-13T17:53:51.684401565Z"
+  },
+  {
+    "id": "86a03d19-48a6-49d7-85f1-800d4f11bfe5",
+    "url": "https://awsteele.com/blog/2021/10/12/aws-iam-oidc-idps-need-more-controls.html",
+    "name": "AWS IAM OIDC IDPs need more controls",
+    "description": "AWS IAM OIDC IDPs need more controls | Aidan Steele's blog (usually about AWS)",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:48.267235555Z"
+  },
+  {
+    "id": "e5fd6b36-e8a2-4893-a0e6-207687ff1fab",
+    "url": "https://dev.to/danielepolencic/tracing-pod-to-pod-network-traffic-in-kubernetes-434k",
+    "name": "Tracing pod to pod network traffic in Kubernetes",
+    "description": "Tracing pod to pod network traffic in Kubernetes - DEV Community",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:52.287889665Z"
+  },
+  {
+    "id": "3990110c-20d1-4b9d-9eee-4793ef0d02ac",
+    "url": "https://xmcyber.com/blog/okta-rbac-attacks/",
+    "name": "Attack Techniques in Okta",
+    "description": "Attack Techniques in Okta | XM Cyber",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:48.657653209Z"
+  },
+  {
+    "id": "06af0d18-dca1-414b-875a-14de3407f93a",
+    "url": "https://www.ruse.tech/blogs/ecs-attack-methods",
+    "name": "Ru$e",
+    "description": "Ru$e",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:52.788567114Z"
+  },
+  {
+    "id": "b1340160-0893-40a5-bfc7-3601ad8607ed",
+    "url": "https://venafi.com/blog/service-meshes-a-deeper-introduction/",
+    "name": "Kubernetes and Service Meshes",
+    "description": "Kubernetes and Service Meshes: an In-depth Introduction | Venafi",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:51.544306496Z"
+  },
+  {
+    "id": "5590214a-85bc-464a-9467-d46e490dc1cd",
+    "url": "https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0",
+    "name": "Kubernetes NodePort vs LoadBalancer vs Ingress",
+    "description": "Just a moment...",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:54.169708462Z"
+  },
+  {
+    "id": "b254fb7d-0caa-4de3-9399-c033d9db6984",
+    "url": "https://fourtheorem.com/the-illustrated-guide-to-s3-pre-signed-urls/",
+    "name": "The illustrated guide to S3 pre-signed URLs",
+    "description": "The illustrated guide to S3 pre-signed URLs - fourTheorem",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:54.263669774Z"
+  },
+  {
+    "id": "068af292-5fbb-4f57-a710-471ceb62a323",
+    "url": "https://www.tenable.com/blog/a-new-incentive-for-using-aws-vpc-endpoints",
+    "name": "A New Incentive for Using AWS VPC Endpoints",
+    "description": "A New Incentive for Using AWS VPC Endpoints - Blog | Tenable®",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:53.765012989Z"
+  },
+  {
+    "id": "21932ef3-98d0-4335-b27f-3504bbae7156",
+    "url": "https://www.wiz.io/blog/how-to-get-rid-of-aws-access-keys-part-3",
+    "name": "How to get rid of AWS access keys",
+    "description": "How to get rid of AWS access keys – Part 3: Replacing the authentication  | Wiz Blog",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.772943534Z"
+  },
+  {
+    "id": "3dba9f5e-c597-4beb-a93f-fa6fef23ccc5",
+    "url": "https://www.infracloud.io/blogs/istio-authentication-authorization-policies/",
+    "name": "Guide to Istio's Authentication and Authorization Policies",
+    "description": "Guide to Istio's Authentication and Authorization Policies",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.805722813Z"
+  },
+  {
+    "id": "32ae3144-a33a-48bb-a838-b9ff80d2e3dc",
+    "url": "https://tldrsec.com/p/blog-cloud-security-orienteering",
+    "name": "Cloud Security Orienteering",
+    "description": "Cloud Security Orienteering",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:14.738083226Z"
+  },
+  {
+    "id": "78d37382-a791-4cd6-9777-8e723f821b4e",
+    "url": "https://xmcyber.com/blog/okta-attack-techniques-part-3-from-okta-environments-to-aws/",
+    "name": "Attack Techniques in Okta – Part 3",
+    "description": "Attack Techniques in Okta – Part 3 – From Okta to AWS Environments | XM Cyber",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:20.599270418Z"
+  },
+  {
+    "id": "45603a60-13fe-4ca7-a8de-cc853b0d1fdc",
+    "url": "https://securitycafe.ro/2023/02/27/a-complete-kubernetes-config-review-methodology/",
+    "name": "A Complete Kubernetes Config Review Methodology",
+    "description": "A Complete Kubernetes Config Review Methodology &#8211; Security Café",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:31.319447223Z"
+  },
+  {
+    "id": "fa99ccc4-68c8-44e0-910b-42ac55733979",
+    "url": "https://xmcyber.com/blog/attack-techniques-in-okta/",
+    "name": "Attack Techniques in Okta - Part 1",
+    "description": "Attack Techniques in Okta - Part 1 – A (Really) Deep Dive into Okta Key Terms | XM Cyber",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:27.430667754Z"
+  },
+  {
+    "id": "3b1fff3c-b254-499d-8bd9-cf487070295e",
+    "url": "https://ramimac.me/ssm-iam",
+    "name": "Risk in AWS SSM Port Forwarding",
+    "description": "\n      Risk in AWS SSM Port Forwarding – High Signal Security – YAIB (Yet Another Infosec blog).\n    ",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:31.501974619Z"
+  },
+  {
+    "id": "5515e2a6-7fc8-4031-9da2-6bd976a9047f",
+    "url": "https://kubernetes.io/blog/2023/03/10/forensic-container-analysis/",
+    "name": "Forensic container analysis",
+    "description": "Forensic container analysis | Kubernetes",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:31.486328425Z"
+  },
+  {
+    "id": "3fda07d0-7969-4b41-af91-78f5a4511c78",
+    "url": "https://workos.com/blog/fun-with-saml-sso-vulnerabilities-and-footguns",
+    "name": "Fun with SAML SSO Vulnerabilities and Footguns",
+    "description": "Fun with SAML SSO Vulnerabilities and Footguns — WorkOS",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:32.935908811Z"
+  },
+  {
+    "id": "9b173210-cfdc-49c6-bcbf-de7797fa47ef",
+    "url": "https://mystic0x1.github.io/posts/methods-to-backdoor-an-aws-account/",
+    "name": "Methods to Backdoor an AWS Account",
+    "description": "Methods to Backdoor an AWS Account | Mystic0x1",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:32.827843024Z"
+  },
+  {
+    "id": "37f0812e-5caf-498a-994f-d397849fcf0e",
+    "url": "https://subhajitsaha.com/blog/ai-hacking-friendly-guide-for-pentesters/",
+    "name": "AI Hacking – Friendly Guide for Pentesters",
+    "description": "AI Hacking – Friendly Guide for Pentesters - Subhajit Saha",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "unhealthy",
+      "statusCode": 403
+    },
+    "lastChecked": "2025-02-13T17:53:35.279537277Z"
+  },
+  {
+    "id": "163856cc-5145-4863-907a-39d1fdf03209",
+    "url": "https://blog.ropnop.com/docker-for-pentesters/",
+    "name": "Docker for Pentesters",
+    "description": "Docker for Pentesters - ropnop blog",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:34.996591549Z"
+  },
+  {
+    "id": "3733f289-078b-476e-80d3-924e924f232f",
+    "url": "https://www.directdefense.com/csrf-in-the-age-of-json/",
+    "name": "Application Security Assessment for CSRF",
+    "description": "Application Security Assessment for CSRF | DirectDefense",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:35.132834954Z"
+  },
+  {
+    "id": "74a07c03-baee-4735-98b8-0e2c2e304029",
+    "url": "https://ramimac.me/poisoning-ssm-command-docs",
+    "name": "Poisoning the SSM Command Document Well",
+    "description": "Poisoning the SSM Command Document Well – High Signal Security – YAIB (Yet Another Infosec blog).",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:31.513452427Z"
+  },
+  {
+    "id": "dd275dbd-755a-4810-a227-88a0918aec0c",
+    "url": "https://www.panoptica.app/research/7-ways-to-escape-a-container",
+    "name": "7 Ways to Escape a Container",
+    "description": "7 Ways to Escape a Container - Panoptica",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:35.916632735Z"
+  },
+  {
+    "id": "3eb5f615-1db5-4e1e-94d3-442021799db3",
+    "url": "https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/",
+    "name": "Hacking Github AWS integrations again",
+    "description": "Hacking Github AWS integrations again - Meanderings by Daniel Grzelak",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:35.618967652Z"
+  },
+  {
+    "id": "3e18ea5e-ea01-4abe-95b2-e09003e929fa",
+    "url": "https://blog.appsecco.com/a-pentesters-approach-to-kubernetes-security-part-1-2b328252954a",
+    "name": "A Pentesters Approach to Kubernetes Security Part 1",
+    "description": "Just a moment...",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:35.926492966Z"
+  },
+  {
+    "id": "cc4ad186-7681-462a-a019-d821b34f456b",
+    "url": "https://www.wiz.io/blog/using-service-control-policies-to-protect-security-baselines",
+    "name": "Using Service Control Policies to protect security baselines",
+    "description": "Using Service Control Policies to protect security baselines  | Wiz Blog",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:35.733138872Z"
+  },
+  {
+    "id": "04a705a7-0905-4e6b-951b-a357803c7b17",
+    "url": "https://blog.appsecco.com/a-pentesters-approach-to-kubernetes-security-part-2-8efac412fbc5",
+    "name": "A Pentesters Approach to Kubernetes Security Part 2",
+    "description": "Just a moment...",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:35.998906196Z"
+  },
+  {
+    "id": "85ff0cef-5f56-4299-a3b2-154ea6845d02",
+    "url": "https://awsteele.com/blog/2023/02/20/a-role-for-all-your-ec2-instances.html",
+    "name": "A role for all your EC2 instances",
+    "description": "A role for all your EC2 instances | Aidan Steele's blog (usually about AWS)",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:37.056451586Z"
+  },
+  {
+    "id": "8752613b-260e-4383-bc62-3cefe0fc78f1",
+    "url": "https://awsteele.com/blog/2023/12/19/an-aws-iam-identity-center-vulnerability.html",
+    "name": "An AWS IAM Identity Center vulnerability",
+    "description": "An AWS IAM Identity Center vulnerability | Aidan Steele's blog (usually about AWS)",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:37.079462771Z"
+  },
+  {
+    "id": "1af49f60-8b9d-4b4f-a96e-9146a3091341",
+    "url": "https://aws.amazon.com/blogs/security/how-to-implement-the-principle-of-least-privilege-with-cloudformation-stacksets/",
+    "name": "How to implement the principle of least privilege",
+    "description": "How to implement the principle of least privilege with CloudFormation StackSets | AWS Security Blog",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:39.152022955Z"
+  },
+  {
+    "id": "3f5482a2-9b13-4651-961e-6ad1b1709655",
+    "url": "https://saransh-rana.gitbook.io/aboutme/bypass-cloudtrail-detection-using-aws-appstream",
+    "name": "Bypass Cloudtrail Detection using AWS Appstream",
+    "description": "Bypass Cloudtrail Detection using AWS Appstream | Cloud Security!",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:39.564121209Z"
+  },
+  {
+    "id": "46ed393f-b346-4e39-900a-425a4caf0e2e",
+    "url": "https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/",
+    "name": "Android 14 blocks modification of system certificates",
+    "description": "Android 14 blocks modification of system certificates, even as root",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:39.369480775Z"
+  },
+  {
+    "id": "96c1207a-dda9-4f83-b491-05c296e73a74",
+    "url": "https://security.googleblog.com/2022/05/privileged-pod-escalations-in.html",
+    "name": "Privileged pod escalations in Kubernetes and GKE",
+    "description": "\nGoogle Online Security Blog:  Privileged pod escalations in Kubernetes and GKE\n",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:39.777069298Z"
+  },
+  {
+    "id": "3c6a956f-1553-49af-9869-e840e07256b6",
+    "url": "https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/",
+    "name": "Tutorial on privilege escalation in GCP",
+    "description": "Tutorial on privilege escalation and post exploitation tactics in Google Cloud Platform environments",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:39.947511829Z"
+  },
+  {
+    "id": "a3876364-e2f4-467d-ac47-955c38607ac0",
+    "url": "https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm",
+    "name": "Prompt injection with control characters in ChatGPT",
+    "description": "Dont you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "unhealthy",
+      "statusCode": 404
+    },
+    "lastChecked": "2025-02-13T17:53:40.252735661Z"
+  },
+  {
+    "id": "10748113-7058-4910-a115-d60acd143cc6",
+    "url": "https://www.blackhillsinfosec.com/embedding-meterpreter-in-android-apk/",
+    "name": "Embedding Meterpreter in Android APK",
+    "description": "Embedding Meterpreter in Android APK - Black Hills Information Security",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.03974611Z"
+  },
+  {
+    "id": "f9d7a63f-7e26-4434-8ca5-ccc00f9ac05f",
+    "url": "https://sec.okta.com/seven-fewer-super-admins",
+    "name": "Seven Ways to Reduce Super Admins in Okta",
+    "description": "Seven Ways to Reduce Super Admins in Okta | Okta Security",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.167166577Z"
+  },
+  {
+    "id": "cced8f59-3f2e-4ac3-887e-ba5733865cbe",
+    "url": "https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/",
+    "name": "No keys attached: Exploring GitHub-to-AWS keyless authentication flaws",
+    "description": "\n  No keys attached: Exploring GitHub-to-AWS keyless authentication flaws |  Datadog Security Labs\n",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.114980768Z"
+  },
+  {
+    "id": "f8b7dfa4-7ff3-4364-96bd-e35ca1f481b1",
+    "url": "https://divyanshu-mehta.gitbook.io/researchs/hijacking-cloud-ci-cd-systems-for-fun-and-profit",
+    "name": "Hijacking Cloud CI/CD Systems for Fun and Profit",
+    "description": "Hijacking Cloud CI/CD Systems for Fun and Profit | Researchs",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:46.737252329Z"
+  },
+  {
+    "id": "1e95847f-b39c-474a-bd29-e762e5fc1635",
+    "url": "https://www.cloudquery.io/blog/guide-aws-org-delegation",
+    "name": "A Guide to Delegated Administrator in AWS Organizations",
+    "description": "CloudQuery Blog | A Guide to Delegated Administrator in AWS Organizations and Multi-Account Management",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.869659899Z"
+  },
+  {
+    "id": "23d33f4f-a3ee-4153-8de7-540d5c81daef",
+    "url": "https://awsteele.com/blog/2024/01/11/deep-dive-into-aws-cloudshell.html",
+    "name": "Deep dive into AWS CloudShell",
+    "description": "Deep dive into AWS CloudShell | Aidan Steele's blog (usually about AWS)",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.768574085Z"
+  },
+  {
+    "id": "18713c59-a7a7-4f5c-8f6b-02bb50313b2d",
+    "url": "https://awsteele.com/blog/2021/11/06/no-need-for-aws-iam-users.html",
+    "name": "No need for AWS IAM users",
+    "description": "No need for AWS IAM users | Aidan Steele's blog (usually about AWS)",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.284947715Z"
+  },
+  {
+    "id": "d742f4e6-d47f-4599-9c2f-1fc3297794fb",
+    "url": "https://medium.com/google-cloud/list-organization-policies-with-gcloud-a-quick-and-easy-guide-edcedafe9806",
+    "name": "List Organization Policies with gcloud",
+    "description": "Just a moment...",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.631936796Z"
+  },
+  {
+    "id": "8cce9ea0-2d9e-481b-9cae-eda3a2047d97",
+    "url": "https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-2/",
+    "name": "Container security fundamentals part 2",
+    "description": "\n  Container security fundamentals part 2: Isolation & namespaces |  Datadog Security Labs\n",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.56264712Z"
+  },
+  {
+    "id": "b018b468-d696-4814-8286-7bdbb82d6971",
+    "url": "https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist",
+    "name": "CKSS Resources",
+    "description": "GitHub - walidshaari/Certified-Kubernetes-Security-Specialist: Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 &quot;Kubernetes Certified Security Specialist&quot; Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.",
+    "path": [
+      "Courses"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.937288443Z"
+  },
+  {
+    "id": "9597660e-0fc8-4ff3-ae8a-fb1b78a374c8",
+    "url": "https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study",
+    "name": "BurpSuite Certified Practitioner",
+    "description": "GitHub - botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study: Burp Suite Certified Practitioner Exam Study",
+    "path": [
+      "Courses"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.068323121Z"
+  },
+  {
+    "id": "4efd7e6a-68fa-4929-802b-57a35829756b",
+    "url": "https://github.com/rpisec/mbe",
+    "name": "Modern BinExp",
+    "description": "GitHub - RPISEC/MBE: Course materials for Modern Binary Exploitation by RPISEC",
+    "path": [
+      "Courses"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.169076785Z"
+  },
+  {
+    "id": "6f5eac70-6286-482e-b401-4ea197859316",
+    "url": "https://guyinatuxedo.github.io/index.html",
+    "name": "Nightmare BinExp",
+    "description": "Nightmare - Nightmare - binary exploitation course",
+    "path": [
+      "Courses"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.812056606Z"
+  },
+  {
+    "id": "0499ada4-3347-407f-bace-fe11fedcf1e3",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "name": "System Design Primer",
+    "description": "GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+    "path": [
+      "Courses"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.256790123Z"
+  },
+  {
+    "id": "f05b7c0c-cba7-4810-83e7-5601ac70a85d",
+    "url": "https://github.com/ageron/handson-ml3",
+    "name": "Hands-on ML",
+    "description": "GitHub - ageron/handson-ml3: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "path": [
+      "Courses"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.247782879Z"
+  },
+  {
+    "id": "4d808f0c-c45f-48cc-ac50-cbf9ce0606a0",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path",
+    "name": "Kubernetes Learning Path",
+    "description": "GitHub - techiescamp/kubernetes-learning-path: A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
+    "path": [
+      "Courses"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.661115533Z"
+  },
+  {
+    "id": "06d9accc-f311-4157-af77-f7d4d48ce9c8",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "name": "Practical Ethical Hacking Resources",
+    "description": "GitHub - TCM-Course-Resources/Practical-Ethical-Hacking-Resources: Compilation of Resources from TCM&#39;s Practical Ethical Hacking Udemy Course",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.331758626Z"
+  },
+  {
+    "id": "38342e0e-7e0d-4806-907b-12d82645a6bc",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
+    "name": "Awesome Prompt Engineering",
+    "description": "GitHub - promptslab/Awesome-Prompt-Engineering: This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc",
+    "path": [
+      "AI Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.529823138Z"
+  },
+  {
+    "id": "f52ca08c-a569-4c0e-a52d-ffdead157524",
+    "url": "https://github.com/Hannibal046/Awesome-LLM",
+    "name": "Awesome LLM",
+    "description": "GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model",
+    "path": [
+      "AI Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.584186295Z"
+  },
+  {
+    "id": "97431a4c-6a00-4b74-b2cf-7c9c104766f3",
+    "url": "https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook",
+    "name": "OffSecML",
+    "description": "Welcome to the Offensive ML Playbook - OffSecML Playbook",
+    "path": [
+      "AI Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.480479918Z"
+  },
+  {
+    "id": "32abf1a5-f8f7-42c0-8ab6-1b0386a10997",
+    "url": "https://www.zenrows.com/blog/bypass-cloudflare#cloudflare-solvers",
+    "name": "Bypassing Cloudflare",
+    "description": "How to Bypass Cloudflare in 2025: The 9 Best Methods",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "unhealthy",
+      "statusCode": 403
+    },
+    "lastChecked": "2025-02-13T17:54:13.500471703Z"
+  },
+  {
+    "id": "434469c1-6024-4d23-a497-8da57ed9e936",
+    "url": "https://github.com/tensorchord/Awesome-LLMOps",
+    "name": "Awesome LLMOps",
+    "description": "GitHub - tensorchord/Awesome-LLMOps: An awesome &amp; curated list of best LLMOps tools for developers",
+    "path": [
+      "AI Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.910669844Z"
+  },
+  {
+    "id": "8d9a42ef-cf88-4ec0-893c-0b66eb9d07d8",
+    "url": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/graphql",
+    "name": "HackTricks - GraphQL",
+    "description": "Pentesting GraphQL - HackTricks",
+    "path": [
+      "Web Security",
+      "GraphQL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.630935699Z"
+  },
+  {
+    "id": "f66263ed-0db0-4b1b-91d3-48de5ac60e16",
+    "url": "https://bishopfox.com/blog/json-interoperability-vulnerabilities",
+    "name": "JSON Interoperability Vulnerabilities",
+    "description": "An Exploration &amp; Remediation of JSON Interoperability… | Bishop Fox",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.769361318Z"
+  },
+  {
+    "id": "27c52e76-38d2-43ac-a71b-cecb0102ddad",
+    "url": "https://github.com/chentsulin/awesome-graphql",
+    "name": "Awesome GraphQL",
+    "description": "GitHub - chentsulin/awesome-graphql: Awesome list of GraphQL",
+    "path": [
+      "Web Security",
+      "GraphQL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:27.424657475Z"
+  },
+  {
+    "id": "2291a810-c2af-4385-9673-2f6049169c21",
+    "url": "https://github.com/tldrsec/prompt-injection-defenses",
+    "name": "Prompt Injection Defenses",
+    "description": "GitHub - tldrsec/prompt-injection-defenses: Every practical and proposed defense against prompt injection.",
+    "path": [
+      "AI Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:47.131801685Z"
+  },
+  {
+    "id": "6876e334-7b46-460f-b2c3-827f2742179c",
+    "url": "https://codeshare.frida.re/",
+    "name": "Frida Codeshare",
+    "description": "Frida CodeShare",
+    "path": [
+      "Mobile Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:53.623532216Z"
+  },
+  {
+    "id": "f0c881f4-fe50-4a95-829f-e902e68fd2b3",
+    "url": "https://cheatsheetseries.owasp.org/Glossary.html",
+    "name": "OWASP CheatSheets",
+    "description": "Index Alphabetical - OWASP Cheat Sheet Series",
+    "path": [
+      "Web Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:55.878411877Z"
+  },
+  {
+    "id": "8839a09b-9fb4-4950-a667-12e602114788",
+    "url": "https://mas.owasp.org/MASTG/",
+    "name": "MASTG",
+    "description": "OWASP MASTG - OWASP Mobile Application Security",
+    "path": [
+      "Mobile Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:56.180274174Z"
+  },
+  {
+    "id": "8e346468-3500-440c-99bd-f46165a2f755",
+    "url": "https://github.com/SecurityRunners/cloudcommotion",
+    "name": "CloudCommotion",
+    "description": "Causes commotion in the cloud using Terraform and AWS to simulate attacks and misconfigurations.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:52.688407807Z"
+  },
+  {
+    "id": "c7c5cf85-677a-4d19-abdf-01b1b80f48e1",
+    "url": "https://cmd.ms",
+    "name": "Microsoft Portals Reference",
+    "description": "🖥 Home | [cmd.ms] | List of Microsoft Portals, their links, and use cases.",
+    "path": [
+      "Cloud",
+      "Azure Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:56.984041356Z"
+  },
+  {
+    "id": "4c85c1db-9d36-4607-a49d-8016254f436f",
+    "url": "https://github.com/fwdcloudsec/known_aws_accounts",
+    "name": "FWD CloudSec - Known AWS Accounts",
+    "description": "GitHub - fwdcloudsec/known_aws_accounts: List of known AWS accounts",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:53.193069189Z"
+  },
+  {
+    "id": "3240c15b-4737-4869-99c9-2b98c3bb7590",
+    "url": "https://www.packetmischief.ca/2021/03/23/how-to-implement-the-principle-of-least-privilege-with-cloudformation-stacksets/",
+    "name": "PoLP with CFN StackSets",
+    "description": "How to Implement the Principle of Least Privilege With CloudFormation StackSets :: packetmischief.ca",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:57.381191162Z"
+  },
+  {
+    "id": "8058c80a-33bb-4d0f-bee7-c0c1f15d61d3",
+    "url": "https://kubernetes.io/docs/reference/kubectl/cheatsheet/",
+    "name": "KubeCTL Cheat Sheet",
+    "description": "kubectl Quick Reference | Kubernetes",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:53.654460581Z"
+  },
+  {
+    "id": "14dcb3d2-5463-47e1-a31d-5acd6df44968",
+    "url": "https://github.com/wiz-sec/cloud-middleware-dataset",
+    "name": "Cloud Middleware Dataset",
+    "description": "GitHub - wiz-sec-public/cloud-middleware-dataset; project contains cloud middleware (i.e. agents installed by Cloud providers) used across the major cloud service providers (Azure, AWS and GCP).",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:54.230507739Z"
+  },
+  {
+    "id": "a2a6623b-5c5a-49b4-be4e-e6cd2b6f0162",
+    "url": "https://gcp.permissions.cloud/",
+    "name": "GCP Permissions Reference",
+    "description": "Permissions Reference for Google Cloud IAM | gcp.permissions.cloud",
+    "path": [
+      "Cloud",
+      "GCP Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:57.906399858Z"
+  },
+  {
+    "id": "e6e57f2f-9a85-48f8-ae90-a6d7d99b22c2",
+    "url": "https://github.com/awslabs/aws-break-glass-role",
+    "name": "AWS Break Glass Role",
+    "description": "GitHub - awslabs/aws-break-glass-role: Create a break glass role for emergency use in order to limit AWS production account access. Configure automatic alerts and logging of activities in the role to secure its use in production environments.",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:46.840204566Z"
+  },
+  {
+    "id": "8951fb97-b556-4d6b-bd67-ba444cd073b7",
+    "url": "https://aws.amazon.com/blogs/security/managing-temporary-elevated-access-to-your-aws-environment/",
+    "name": "Managing Temporary Elevated Access",
+    "description": "Managing temporary elevated access to your AWS environment | AWS Security Blog",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:55.923168566Z"
+  },
+  {
+    "id": "a959bb8d-3d31-4cd5-bb61-aac8784fc1b8",
+    "url": "https://github.com/primeharbor/sensitive_iam_actions",
+    "name": "Sensitive IAM Actions List",
+    "description": "GitHub - primeharbor/sensitive_iam_actions: Crowdsourced list of sensitive IAM Actions",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:56.360530767Z"
+  },
+  {
+    "id": "a255d3c2-3ba3-4eab-88b4-31522b89b56c",
+    "url": "https://github.com/krol3/container-security-checklist",
+    "name": "Container Security Checklist",
+    "description": "GitHub - krol3/container-security-checklist: Checklist for container security - devsecops practices",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:56.274572332Z"
+  },
+  {
+    "id": "7a7116eb-f177-41bf-8a13-5046dff25523",
+    "url": "https://github.com/glassechidna/trackiam",
+    "name": "TrackIAM",
+    "description": "GitHub - glassechidna/trackiam: A project to collate IAM actions, AWS APIs and managed policies from various public sources.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:56.598913878Z"
+  },
+  {
+    "id": "72af877e-03cc-4d9b-a010-e211b2204969",
+    "url": "https://cloud.hacktricks.xyz/",
+    "name": "HackTricks Cloud",
+    "description": "HackTricks Cloud - HackTricks Cloud",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.544441934Z"
+  },
+  {
+    "id": "424b62f2-24d6-411c-aadc-399d6277ec2d",
+    "url": "https://www.secwiki.cloud/",
+    "name": "Security Wiki - Cloud",
+    "description": "Cloud Wiki | CloudWiki",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.37424471Z"
+  },
+  {
+    "id": "b0894bd5-e19b-4684-a878-7748e2689b40",
+    "url": "https://notsosecure.com/hacking-aws-cognito-misconfigurations",
+    "name": "NotSoSecure - Hacking AWS Cognito Misconfigurations",
+    "description": "Hacking AWS Cognito Misconfigurations | NotSoSecure",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.094471382Z"
+  },
+  {
+    "id": "31e90cc2-d2b5-44b0-8ed2-1cccd06de7d9",
+    "url": "https://cloudsecwiki.com/",
+    "name": "Cloud Wiki",
+    "description": "Cloud Wiki | Cloud Wiki",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.976652054Z"
+  },
+  {
+    "id": "c65cb1e2-b6cc-4947-a4c5-0fcb26ce008a",
+    "url": "https://medium.com/xm-cyber/10-ways-of-gaining-control-over-azure-function-apps-7e7b84367ce6",
+    "name": "Gaining Control over Azure Function Apps",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:57.827750609Z"
+  },
+  {
+    "id": "2155e2cd-1b14-43dd-853c-e5cccac14dc6",
+    "url": "https://github.com/aws-samples/aws-security-reference-architecture-examples",
+    "name": "Security Reference Architecture Examples",
+    "description": "GitHub - aws-samples/aws-security-reference-architecture-examples: Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terraform.",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:57.749891039Z"
+  },
+  {
+    "id": "b8e2e628-7836-4e34-81b8-160a98b17341",
+    "url": "https://github.com/rupertbg/aws-public-account-ids",
+    "name": "AWS Public Account IDs",
+    "description": "GitHub - rupertbg/aws-public-account-ids: Publicly-listed AWS account IDs for easy lookup. Great for cleaning up false positives from unknown Account IDs in Cloudtrail",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.134144899Z"
+  },
+  {
+    "id": "52bba15b-2703-4d7c-b06d-621ebd851388",
+    "url": "https://github.com/aws-samples/service-control-policy-examples",
+    "name": "AWS SCP Examples",
+    "description": "GitHub - aws-samples/service-control-policy-examples: Example AWS Service control policies to get started or mature your usage of AWS SCPs.",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:56.859593153Z"
+  },
+  {
+    "id": "a141097c-2f49-4dd7-9eb3-8ec0667474e5",
+    "url": "https://aws.github.io/aws-eks-best-practices/",
+    "name": "EKS Best Practices",
+    "description": "Introduction - EKS Best Practices Guides",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.626137826Z"
+  },
+  {
+    "id": "f1d59195-7318-4c3b-9231-2cd809796019",
+    "url": "https://github.com/zoph-io/aws-security-survival-kit",
+    "name": "AWS Security Survival Kit",
+    "description": "GitHub - zoph-io/aws-security-survival-kit: Bare minimum AWS Security Alerting and Configuration",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.207037102Z"
+  },
+  {
+    "id": "323c0dd6-e178-4a06-8fbe-13b05a17cfba",
+    "url": "https://github.com/03-Cyber/azure-security-survival-kit",
+    "name": "Azure Security Survival Kit",
+    "description": "GitHub - O3-Cyber/azure-security-survival-kit",
+    "path": [
+      "Cloud",
+      "Azure Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.157713108Z"
+  },
+  {
+    "id": "62f08d23-1ebe-4058-91b9-cb8efb8ec3de",
+    "url": "https://github.com/BishopFox/badPods",
+    "name": "Kubernetes Bad Pods",
+    "description": "GitHub - BishopFox/badPods: A collection of manifests that will create pods with elevated privileges.",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.374283567Z"
+  },
+  {
+    "id": "dcd4a5b9-28d8-4721-b847-e2f4d1c653bf",
+    "url": "https://github.com/pulumi/examples",
+    "name": "Pulumi Examples",
+    "description": "GitHub - pulumi/examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi",
+    "path": [
+      "Cloud",
+      "IaC"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.553480604Z"
+  },
+  {
+    "id": "d4125710-9d81-40c9-8763-5bfdde5b0380",
+    "url": "https://github.com/clutchsecurity/federator",
+    "name": "Federator",
+    "description": "Terraform templates for CI/CD to Cloud federation and Cloud2Cloud IAM federations",
+    "path": [
+      "Cloud",
+      "IaC"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.527621032Z"
+  },
+  {
+    "id": "1699bc9b-c0c7-464c-9510-18152367c6aa",
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "name": "Kubernetes the Hard Way",
+    "description": "GitHub - kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.570352288Z"
+  },
+  {
+    "id": "00eeb171-4436-4667-b49c-5c83e3d32edf",
+    "url": "https://aws.permissions.cloud/",
+    "name": "AWS Permissions Reference",
+    "description": "Permissions Reference for AWS IAM | aws.permissions.cloud",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.355547216Z"
+  },
+  {
+    "id": "aa4f4c97-2670-413f-a1d7-54db62e43593",
+    "url": "https://github.com/Kyuu-Ji/Awesome-Azure-Pentest",
+    "name": "Awesome Azure Pentest",
+    "description": "GitHub - Kyuu-Ji/Awesome-Azure-Pentest: A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.",
+    "path": [
+      "Cloud",
+      "Azure Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.550087543Z"
+  },
+  {
+    "id": "603eb85d-4aa9-4e51-806f-fa5beabed5d1",
+    "url": "https://github.com/siigil/entra-id-terraform",
+    "name": "Entra ID Terraform",
+    "description": "Examples of various Entra ID scenarios in Terraform",
+    "path": [
+      "Cloud",
+      "IaC"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.721971567Z"
+  },
+  {
+    "id": "ce0a9d29-8f77-4e66-b772-f4f6382ff013",
+    "url": "https://hackingthe.cloud/",
+    "name": "Hacking The Cloud",
+    "description": "Hacking The Cloud",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.61436605Z"
+  },
+  {
+    "id": "255a4f00-eaaf-47c7-a4c5-eaf9d20ca0d8",
+    "url": "https://github.com/lutzenfried/OffensiveCloud/tree/main",
+    "name": "Offensive Cloud TTPs",
+    "description": "GitHub - lutzenfried/OffensiveCloud: Offensive security and Penetration Testing TTP for Cloud based environment (AWS / Azure / GCP)",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.990463128Z"
+  },
+  {
+    "id": "e134b95c-f8e3-4e2e-b906-d147b8e72e89",
+    "url": "https://github.com/Littlehack3r/awesome-gcp-pentesting",
+    "name": "Awesome GCP Security",
+    "description": "GitHub - Littlehack3r/awesome-gcp-pentesting: Tools and blogs I use to perform GCP red teams",
+    "path": [
+      "Cloud",
+      "GCP Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:40.905574651Z"
+  },
+  {
+    "id": "8e33be6e-0783-434e-85a8-ea4cbf10661b",
+    "url": "https://cloudsecdocs.com/",
+    "name": "CloudSecDocs",
+    "description": "Welcome to CloudSecDocs - CloudSecDocs",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.661898367Z"
+  },
+  {
+    "id": "d6fff0d2-2080-4a14-9929-8dc53d175a8d",
+    "url": "https://github.com/houey/awesome-service-control-policies",
+    "name": "Awesome SCPs",
+    "description": "GitHub - houey/awesome-service-control-policies: Listing of resources for example AWS Service Control Policies (SCPs)",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.103492268Z"
+  },
+  {
+    "id": "0f02afed-387b-452d-904b-ed97ef6c4307",
+    "url": "https://github.com/aidansteele/centralized-logs",
+    "name": "AWS Centralized Logs",
+    "description": "GitHub - aidansteele/centralized-logs: Centralizing AWS CloudWatch log forwarding via EventBridge and Step Functions",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.136751302Z"
+  },
+  {
+    "id": "ae2442be-dc28-4472-8636-ae7d93774fdb",
+    "url": "https://github.com/invictus-ir/aws-cheatsheet",
+    "name": "AWS Cheat Sheet",
+    "description": "GitHub - invictus-ir/aws-cheatsheet: A cheatsheet containing AWS CloudTrail events that can be used for Incident Response purposes or Detection Engineering.",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.351410721Z"
+  },
+  {
+    "id": "3e185cce-2577-4afa-9ac5-a1ba7a2b708a",
+    "url": "https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation",
+    "name": "GCP IAM Privilege Escalation",
+    "description": "GitHub - RhinoSecurityLabs/GCP-IAM-Privilege-Escalation: A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.516506499Z"
+  },
+  {
+    "id": "01b4e1ef-7761-4583-a3d7-3f121c0fb2dc",
+    "url": "https://talks.container-security.site/",
+    "name": "Cloud Native Security Talks",
+    "description": "Cloud Native Security Talks",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:55.895648824Z"
+  },
+  {
+    "id": "c141fd7f-c277-4c76-980c-dad391a8c2d3",
+    "url": "https://github.com/blackberry/Falco-bypasses",
+    "name": "Falco Bypasses",
+    "description": "GitHub - blackberry/Falco-bypasses: Research on various techniques to bypass default falco ruleset (based on falco v0.28.1).",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:51.80186038Z"
+  },
+  {
+    "id": "bcdfc7e2-6bfa-41d0-a8bf-2e60bd982ace",
+    "url": "https://github.com/futurice/terraform-examples",
+    "name": "Terraform Examples",
+    "description": "GitHub - futurice/terraform-examples: Terraform samples for all the major clouds you can copy and paste. The future, co-created.",
+    "path": [
+      "Cloud",
+      "IaC"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:52.088537717Z"
+  },
+  {
+    "id": "dfb7eb42-08b2-4ae4-ac5b-bc441af91597",
+    "url": "https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-pentesting",
+    "name": "Kubernetes Pentesting",
+    "description": "Kubernetes Pentesting - HackTricks Cloud",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.74142236Z"
+  },
+  {
+    "id": "f25f9292-02d0-4cc4-afdb-89b5a77a55d1",
+    "url": "https://book.hacktricks.xyz/network-services-pentesting/2375-pentesting-docker",
+    "name": "Pentesting Docker",
+    "description": "2375, 2376 Pentesting Docker - HackTricks",
+    "path": [
+      "Cloud",
+      "Kubernetes Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:54.207891344Z"
+  },
+  {
+    "id": "eea6f233-3e0e-4b64-81c6-48455929a9a9",
+    "url": "https://github.com/yassinebenaid/bunster",
+    "name": "Bunster",
+    "description": "compile shell scripts to static binaries",
+    "path": [
+      "FOSS",
+      "CLI Magic"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:11.028420872Z"
+  },
+  {
+    "id": "7c8911e8-9a70-4186-93a4-f80420482f3d",
+    "url": "https://github.com/MattBlackOnly/TubeTube",
+    "name": "TubeTube",
+    "description": "youtube downloader wrapper around ytdlp",
+    "path": [
+      "FOSS",
+      "Media Downloads"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:39.756924887Z"
+  },
+  {
+    "id": "e445cc61-03e9-41cb-9b89-b14753387452",
+    "url": "https://github.com/zotify-dev/zotify",
+    "name": "Zotify",
+    "description": "Fast music and podcast downloader",
+    "path": [
+      "FOSS",
+      "Media Downloads"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:05.226266846Z"
+  },
+  {
+    "id": "3baf65c1-acff-4ede-8edf-b768a87d9665",
+    "url": "https://github.com/bodo-run/yek",
+    "name": "Yek",
+    "description": "fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption",
+    "path": [
+      "FOSS",
+      "CLI Magic"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:05.576289344Z"
+  },
+  {
+    "id": "5581f5a3-002f-4167-8938-f4d43b27607e",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "name": "Mobile Security Framework",
+    "description": "GitHub - MobSF/Mobile-Security-Framework-MobSF: Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "path": [
+      "Mobile Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:05.64395005Z"
+  },
+  {
+    "id": "3f631f3c-a7d4-4522-9b7f-b0a90d7ee010",
+    "url": "https://github.com/setu1421/SecretBench",
+    "name": "SecretBench",
+    "description": "GitHub - setu1421/SecretBench: SecretBench is a dataset consisting of different secret types collected from public open-source repositories.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.36970469Z"
+  },
+  {
+    "id": "db4a61ce-f437-4647-aaea-cb567aad5bcb",
+    "url": "https://github.com/analysis-tools-dev/static-analysis",
+    "name": "Static Analysis Tools",
+    "description": "GitHub - analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+    "path": [
+      "Infrastructure Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.922520057Z"
+  },
+  {
+    "id": "7da11625-9cbd-4e53-bdc7-f3efa91b3326",
+    "url": "https://github.com/projectdiscovery/httpx",
+    "name": "HTTPX",
+    "description": "GitHub - projectdiscovery/httpx: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.812042035Z"
+  },
+  {
+    "id": "4381d891-f9d6-4759-a4fc-1e38bb5e8313",
+    "url": "https://github.com/mschwager/route-detect",
+    "name": "Route Detect",
+    "description": "GitHub - mschwager/route-detect: Find authentication (authn) and authorization (authz) security bugs in web application routes.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.885646732Z"
+  },
+  {
+    "id": "c2daecde-b2e8-4a09-bc85-d510150d4a34",
+    "url": "https://github.com/RedSiege/EyeWitness",
+    "name": "EyeWitness",
+    "description": "GitHub - RedSiege/EyeWitness: EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.803134984Z"
+  },
+  {
+    "id": "49d0e50a-369e-4cb4-9bca-1c4c0a5cdf72",
+    "url": "https://github.com/BishopFox/h2csmuggler",
+    "name": "H2C Smuggler",
+    "description": "GitHub - BishopFox/h2csmuggler: HTTP Request Smuggling over HTTP/2 Cleartext (h2c)",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.991029147Z"
+  },
+  {
+    "id": "9fed0826-1517-4713-a083-1408613fc7b0",
+    "url": "https://github.com/doyensec/inql",
+    "name": "InQL",
+    "description": "GitHub - doyensec/inql: InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.523133958Z"
+  },
+  {
+    "id": "f0c6946d-c087-4fd4-881b-5681b0a7fdb1",
+    "url": "https://github.com/lc/gau",
+    "name": "LC - GetAllUrls",
+    "description": "GitHub - lc/gau: Fetch known URLs from AlienVault&#39;s Open Threat Exchange, the Wayback Machine, and Common Crawl.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.150401529Z"
+  },
+  {
+    "id": "466609b4-ee53-48b9-a58a-646eebe4ea50",
+    "url": "https://github.com/hakluke/hakrawler",
+    "name": "Hakrawler",
+    "description": "GitHub - hakluke/hakrawler: Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.742815136Z"
+  },
+  {
+    "id": "800bc1a4-3d27-4810-9923-ffd567524c27",
+    "url": "https://github.com/hakluke/haktldextract",
+    "name": "HakTLDExtract",
+    "description": "GitHub - hakluke/haktldextract: Extract domains/subdomains from URLs en masse",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.714543176Z"
+  },
+  {
+    "id": "e29678ab-9246-48e4-a487-8a12be19f78c",
+    "url": "https://github.com/chichou/grapefruit",
+    "name": "GrapeFruit",
+    "description": "GitHub - ChiChou/grapefruit: (WIP) Runtime Application Instruments for iOS. Previously Passionfruit",
+    "path": [
+      "Mobile Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.896325201Z"
+  },
+  {
+    "id": "2a44bf32-431d-4cf9-8728-2623a9c87da6",
+    "url": "https://github.com/portswigger/elastic-burp",
+    "name": "Elastic Burp",
+    "description": "GitHub - PortSwigger/elastic-burp: The Web Audit Search Engine - Index and Search HTTP Requests and Responses in Web Application Audits with ElasticSearch",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.874444532Z"
+  },
+  {
+    "id": "440060fe-820d-4296-a323-a8644fa77d3c",
+    "url": "https://hoppscotch.io/",
+    "name": "HoppScotch",
+    "description": "Hoppscotch • Open source API development ecosystem",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:14.434199225Z"
+  },
+  {
+    "id": "3274ca9d-f73d-48dd-9ff7-8f9a6e495d19",
+    "url": "https://github.com/IvanGoncharov/graphql-voyager",
+    "name": "GraphQL Voyager",
+    "description": "GitHub - graphql-kit/graphql-voyager: 🛰️ Represent any GraphQL API as an interactive graph",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:05.280045521Z"
+  },
+  {
+    "id": "7708b697-4a90-4e9a-8143-287d2270b66a",
+    "url": "https://github.com/Y2Z/monolith",
+    "name": "Monolith",
+    "description": "Create single HTML page snapshots of full sites",
+    "path": [
+      "FOSS",
+      "Media Downloads"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:06.257628614Z"
+  },
+  {
+    "id": "82fe6a37-9c5e-4d1f-a0c4-1e16ed93c826",
+    "url": "https://github.com/DataDog/hash",
+    "name": "DASH",
+    "description": "GitHub - DataDog/HASH: HASH (HTTP Agnostic Software Honeypot)",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:06.406003306Z"
+  },
+  {
+    "id": "419b525d-ee36-43c6-8bea-d4ef897dd494",
+    "url": "https://github.com/dolevf/graphql-cop",
+    "name": "GraphQL Cop",
+    "description": "small Python utility to run common security tests against GraphQL APIs",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:06.645467818Z"
+  },
+  {
+    "id": "23c3514f-58f8-4688-92c5-8192b10d3dbb",
+    "url": "https://github.com/sqlmapproject/sqlmap",
+    "name": "SQL Map",
+    "description": "GitHub - sqlmapproject/sqlmap: Automatic SQL injection and database takeover tool",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:06.747192919Z"
+  },
+  {
+    "id": "dce80ea4-16c9-41da-a11c-d67cf9bb9344",
+    "url": "https://github.com/sensepost/gowitness",
+    "name": "GoWitness",
+    "description": "GitHub - sensepost/gowitness: 🔍 gowitness - a golang, web screenshot utility using Chrome Headless",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:07.050750976Z"
+  },
+  {
+    "id": "f4359273-eaf5-4871-a36f-979fc2561b51",
+    "url": "https://github.com/nicholasaleks/graphql-threat-matrix",
+    "name": "GraphQL Threat Matrix",
+    "description": "built for bug bounty hunters, security researchers and hackers to assist with uncovering vulnerabilities across multiple GraphQL implementations.",
+    "path": [
+      "Web Security",
+      "GraphQL"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:07.173864304Z"
+  },
+  {
+    "id": "2934eaa4-7f64-45fe-a8f8-2afc59cf4187",
+    "url": "https://github.com/hakluke/hakoriginfinder",
+    "name": "HakOriginFinder",
+    "description": "GitHub - hakluke/hakoriginfinder: Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:07.422225338Z"
+  },
+  {
+    "id": "382e1e25-4683-4d11-9550-c089127ad2a4",
+    "url": "https://github.com/1N3/BlackWidow",
+    "name": "BlackWidow",
+    "description": "GitHub - 1N3/BlackWidow: A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.230897324Z"
+  },
+  {
+    "id": "7e068dcb-b871-4277-8d32-dd6cb17e6628",
+    "url": "https://github.com/tomnomnom/httprobe",
+    "name": "HTTProbe",
+    "description": "GitHub - tomnomnom/httprobe: Take a list of domains and probe for working HTTP and HTTPS servers",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:06.014249771Z"
+  },
+  {
+    "id": "730d74d2-9ea1-4a67-a06b-0993f5544dda",
+    "url": "https://github.com/hakluke/hakrevdns",
+    "name": "Hakrevdns",
+    "description": "GitHub - hakluke/hakrevdns: Small, fast tool for performing reverse DNS lookups en masse.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.313865314Z"
+  },
+  {
+    "id": "a4a5f19e-93f2-42bc-b90d-536327e6d7ff",
+    "url": "https://github.com/tomnomnom/assetfinder",
+    "name": "AssetFinder",
+    "description": "GitHub - tomnomnom/assetfinder: Find domains and subdomains related to a given domain",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.352895059Z"
+  },
+  {
+    "id": "029b9596-c185-44ef-9715-86bd7ca13cd8",
+    "url": "https://github.com/cytopia/pwncat",
+    "name": "PWN-cat",
+    "description": "GitHub - cytopia/pwncat: pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.531711649Z"
+  },
+  {
+    "id": "f207622a-87ee-4ccb-9125-af29d54dfaa1",
+    "url": "https://github.com/drwetter/testssl.sh",
+    "name": "TestSSL.sh",
+    "description": "GitHub - drwetter/testssl.sh: Testing TLS/SSL encryption anywhere on any port",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.321921906Z"
+  },
+  {
+    "id": "3567b794-5ddf-4f1b-b618-b91fa6b7a70f",
+    "url": "https://github.com/aploium/shootback",
+    "name": "Shootback",
+    "description": "GitHub - aploium/shootback: a reverse TCP tunnel let you access target behind NAT or firewall",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.314667913Z"
+  },
+  {
+    "id": "a3764a78-4864-4891-bd71-6a27e1e0a799",
+    "url": "https://github.com/projectdiscovery/naabu",
+    "name": "Naabu",
+    "description": "GitHub - projectdiscovery/naabu: A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.276536492Z"
+  },
+  {
+    "id": "74f2e741-a863-4d6f-9781-d4510a3e731d",
+    "url": "https://github.com/praetorian-inc/fingerprintx",
+    "name": "FingerprintX",
+    "description": "GitHub - praetorian-inc/fingerprintx: Standalone utility for service discovery on open ports!",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.278665637Z"
+  },
+  {
+    "id": "ed30e01f-24dd-4ac2-9afc-3cc128ce0fcd",
+    "url": "https://github.com/projectdiscovery/simplehttpserver",
+    "name": "SimpleHTTPServer",
+    "description": "GitHub - projectdiscovery/simplehttpserver: Go alternative of python SimpleHTTPServer",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.527311287Z"
+  },
+  {
+    "id": "385c73e3-f68c-4a3c-a05f-f1f7b6514ceb",
+    "url": "https://github.com/projectdiscovery/interactsh",
+    "name": "InteractSH",
+    "description": "GitHub - projectdiscovery/interactsh: An OOB interaction gathering server and client library",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.948061425Z"
+  },
+  {
+    "id": "1db6888c-343d-472f-b940-01115451760b",
+    "url": "https://github.com/opencoff/go-tunnel",
+    "name": "GoTunnel",
+    "description": "GitHub - opencoff/go-tunnel: TLS/SSL Tunnel - A modern STunnel replacement written in golang",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.789233539Z"
+  },
+  {
+    "id": "2f1039c8-44d9-447b-b4c5-7304d5cb03b4",
+    "url": "https://github.com/projectdiscovery/uncover",
+    "name": "Uncover",
+    "description": "GitHub - projectdiscovery/uncover: Quickly discover exposed hosts on the internet using multiple search engines.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.870941054Z"
+  },
+  {
+    "id": "0a6d1045-d0d1-44b5-9de3-ed9bf28e6ef7",
+    "url": "https://github.com/ginuerzh/gost",
+    "name": "GoST",
+    "description": "GitHub - ginuerzh/gost: GO Simple Tunnel - a simple tunnel written in golang",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.840139126Z"
+  },
+  {
+    "id": "7efad642-5d10-4acf-b3ba-b76a29e6600a",
+    "url": "https://github.com/s0md3v/Smap",
+    "name": "SMAP",
+    "description": "GitHub - s0md3v/Smap: a drop-in replacement for Nmap powered by shodan.io",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.820087998Z"
+  },
+  {
+    "id": "e8703cdf-3cb9-4a36-b8ef-f29ee9e25a14",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "name": "Nuclei",
+    "description": "GitHub - projectdiscovery/nuclei: Fast and customizable vulnerability scanner based on simple YAML based DSL.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.161485008Z"
+  },
+  {
+    "id": "e9b1fd2c-b608-4ed4-b579-b4ad420d9d33",
+    "url": "https://github.com/KasperskyLab/TinyCheck",
+    "name": "Tiny Check",
+    "description": "GitHub - KasperskyLab/TinyCheck: TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "unhealthy",
+      "statusCode": 404
+    },
+    "lastChecked": "2025-02-13T17:53:41.941256841Z"
+  },
+  {
+    "id": "bcb20556-7b6f-458b-98eb-0525b376800c",
+    "url": "https://github.com/erebe/wstunnel",
+    "name": "WSTunnel",
+    "description": "GitHub - erebe/wstunnel: Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.188680638Z"
+  },
+  {
+    "id": "3a8ed669-6c2b-4cb0-9c79-bc6a77008fd5",
+    "url": "https://github.com/projectdiscovery/subfinder",
+    "name": "SubFinder",
+    "description": "GitHub - projectdiscovery/subfinder: Fast passive subdomain enumeration tool.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.209388679Z"
+  },
+  {
+    "id": "6b3988a6-018a-4cad-a137-54a1f47f7bfd",
+    "url": "https://github.com/projectdiscovery/dnsx",
+    "name": "DNSX",
+    "description": "GitHub - projectdiscovery/dnsx: dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.307937825Z"
+  },
+  {
+    "id": "b4c808f2-acf3-4f06-9f2b-c50aa48e6706",
+    "url": "https://github.com/owasp-amass/amass",
+    "name": "Amass",
+    "description": "GitHub - owasp-amass/amass: In-depth attack surface mapping and asset discovery",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.54004913Z"
+  },
+  {
+    "id": "6cc88a30-3c9d-4a17-ae1b-0a7b46c130a7",
+    "url": "https://github.com/projectdiscovery/Proxify",
+    "name": "Proxify",
+    "description": "GitHub - projectdiscovery/proxify: A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.628401255Z"
+  },
+  {
+    "id": "ae123bc9-897a-41c3-9245-27dabe578434",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "name": "MiTMProxy",
+    "description": "GitHub - mitmproxy/mitmproxy: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.618906386Z"
+  },
+  {
+    "id": "208a0b80-cf53-4967-a34f-3cb144d57837",
+    "url": "https://github.com/haccer/subjack",
+    "name": "SubJack",
+    "description": "GitHub - haccer/subjack: Subdomain Takeover tool written in Go",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.71097271Z"
+  },
+  {
+    "id": "806009f9-83fb-47a7-b85b-f244c61552e4",
+    "url": "https://github.com/Ge0rg3/requests-ip-rotator",
+    "name": "AWS API Gateway IP Rotator",
+    "description": "GitHub - Ge0rg3/requests-ip-rotator: A Python library to utilize AWS API Gateway&#39;s large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.902696141Z"
+  },
+  {
+    "id": "28a9d2aa-6324-4939-a479-8eb2dcbb88bd",
+    "url": "https://github.com/nitefood/asn",
+    "name": "ASN",
+    "description": "GitHub - nitefood/asn: ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.942737029Z"
+  },
+  {
+    "id": "bd057d90-1f24-4020-81a5-9e931e3a7b02",
+    "url": "https://github.com/jpillora/chisel",
+    "name": "Chisel",
+    "description": "GitHub - jpillora/chisel: A fast TCP/UDP tunnel over HTTP",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:42.89595206Z"
+  },
+  {
+    "id": "514723fb-89d1-4b0e-9b62-18788691f85d",
+    "url": "https://github.com/seladb/PcapPlusPlus",
+    "name": "PcapPlusPlus",
+    "description": "GitHub - seladb/PcapPlusPlus: PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK and PF_RING.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.192193672Z"
+  },
+  {
+    "id": "2b24d49d-e594-443d-b5fe-68c01d5ac8df",
+    "url": "https://github.com/Ice3man543/SubOver",
+    "name": "SubOver",
+    "description": "GitHub - Ice3man543/SubOver: A Powerful Subdomain Takeover Tool",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.222894544Z"
+  },
+  {
+    "id": "af5e5015-5fe7-4b70-a435-f523cba3c761",
+    "url": "https://github.com/m8sec/CrossLinked",
+    "name": "CrossLinked",
+    "description": "GitHub - m8sec/CrossLinked: LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.183124886Z"
+  },
+  {
+    "id": "acac756e-b97f-4222-b79f-11539a527551",
+    "url": "https://github.com/g3han/PowerShell-For-Active-Directory",
+    "name": "PowerShell for AD",
+    "description": "GitHub - g3han/PowerShell-For-Active-Directory: PowerShell Script for AD Security Assessment",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.261531723Z"
+  },
+  {
+    "id": "6d886278-7f84-4423-9dea-4a94a5bbc1ed",
+    "url": "https://github.com/zeronetworks/BlueHound",
+    "name": "BlueHound",
+    "description": "GitHub - zeronetworks/BlueHound: BlueHound - pinpoint the security issues that actually matter",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.531668222Z"
+  },
+  {
+    "id": "06139aca-6f56-4acb-bf3e-5178b7d3ca7f",
+    "url": "https://gtfobins.github.io/",
+    "name": "GTFOBins",
+    "description": "GTFOBins",
+    "path": [
+      "Infrastructure Security",
+      "Linux"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:47.270858679Z"
+  },
+  {
+    "id": "ac8a0713-7b9f-49e9-9972-3b314da70535",
+    "url": "https://github.com/MattKeeley/Spoofy",
+    "name": "Spoofy",
+    "description": "GitHub - MattKeeley/Spoofy: Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.724038606Z"
+  },
+  {
+    "id": "46c3db1f-5e70-4921-8a2d-b3d5a52b85e0",
+    "url": "https://github.com/powershellmafia/powersploit",
+    "name": "PowerSploit",
+    "description": "GitHub - PowerShellMafia/PowerSploit: PowerSploit - A PowerShell Post-Exploitation Framework",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.6541499Z"
+  },
+  {
+    "id": "52a93300-71aa-4527-acba-326baa33c685",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "name": "PayloadsAllTheThings",
+    "description": "GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "path": [
+      "Infrastructure Security",
+      "Pentesting"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.840496789Z"
+  },
+  {
+    "id": "ab1d05fc-2ca7-40fb-8733-e2db7bcfffd5",
+    "url": "https://github.com/dirkjanm/BloodHound.py",
+    "name": "BloodHound Python",
+    "description": "GitHub - dirkjanm/BloodHound.py: A Python based ingestor for BloodHound",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:43.927805638Z"
+  },
+  {
+    "id": "78499ee5-334c-4c19-b130-7f413c6cad14",
+    "url": "https://github.com/cisagov/ScubaGear",
+    "name": "ScubaGear",
+    "description": "GitHub - cisagov/ScubaGear: Automation to assess the state of your M365 tenant against CISA&#39;s baselines",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.005802465Z"
+  },
+  {
+    "id": "dc95f982-e404-4941-9695-8770369edeaf",
+    "url": "https://github.com/SnaffCon/Snaffler",
+    "name": "Snaffler",
+    "description": "GitHub - SnaffCon/Snaffler: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.064047868Z"
+  },
+  {
+    "id": "3dbb1e1f-c060-43bc-b2b2-7156c678ff2d",
+    "url": "https://github.com/blacklanternsecurity/MANSPIDER",
+    "name": "ManSpider",
+    "description": "GitHub - blacklanternsecurity/MANSPIDER: Spider entire networks for juicy files sitting on SMB shares.  Search filenames or file content - regex supported!",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.379786448Z"
+  },
+  {
+    "id": "7a0db739-a7ef-4808-9aa5-e0a178556c63",
+    "url": "https://github.com/ropnop/kerbrute",
+    "name": "KerBrute",
+    "description": "GitHub - ropnop/kerbrute: A tool to perform Kerberos pre-auth bruteforcing",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.175044443Z"
+  },
+  {
+    "id": "3bf3ffe5-f04f-4d9f-a16d-8f5776e18a6b",
+    "url": "https://github.com/zyn3rgy/LdapRelayScan",
+    "name": "LDAPRelayScan",
+    "description": "GitHub - zyn3rgy/LdapRelayScan: Check for LDAP protections regarding the relay of NTLM authentication",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.30024168Z"
+  },
+  {
+    "id": "429ab12a-71d7-4be6-9a38-19062a76b50a",
+    "url": "https://github.com/ly4k/Certipy",
+    "name": "Certipy",
+    "description": "GitHub - ly4k/Certipy: Tool for Active Directory Certificate Services enumeration and abuse",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.372422327Z"
+  },
+  {
+    "id": "ec652315-02b4-4142-8ccb-246a6d218a45",
+    "url": "https://github.com/mpgn/CrackMapExec",
+    "name": "CrackMapExec",
+    "description": "Page not found · GitHub · GitHub",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "unhealthy",
+      "statusCode": 404
+    },
+    "lastChecked": "2025-02-13T17:53:44.205274836Z"
+  },
+  {
+    "id": "95073b94-8bff-4066-bef0-541e91f5caa2",
+    "url": "https://wadcoms.github.io/",
+    "name": "WADComs",
+    "description": "WADComs",
+    "path": [
+      "Infrastructure Security",
+      "Active Directory"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:48.233746473Z"
+  },
+  {
+    "id": "c81f08d0-a8a9-47ab-8b82-ca033d0d7a8f",
+    "url": "https://github.com/gophish/gophish",
+    "name": "GoPhish",
+    "description": "GitHub - gophish/gophish: Open-Source Phishing Toolkit",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:44.631086138Z"
+  },
+  {
+    "id": "0c0561db-9ae8-481b-9cb6-5155a10f9cd4",
+    "url": "https://github.com/j3ssie/osmedeus",
+    "name": "Osmedeus",
+    "description": "GitHub - j3ssie/osmedeus: A Workflow Engine for Offensive Security",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:41.469493595Z"
+  },
+  {
+    "id": "e6a78ff1-9b3d-452a-a9b1-32a630fe2497",
+    "url": "https://github.com/1N3/Sn1per",
+    "name": "Sn1per",
+    "description": "GitHub - 1N3/Sn1per: Attack Surface Management Platform",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.947733458Z"
+  },
+  {
+    "id": "0929b4b2-730b-4105-bb0a-3ad9dde7849b",
+    "url": "https://github.com/frohoff/ysoserial",
+    "name": "YSoSerial",
+    "description": "GitHub - frohoff/ysoserial: A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.994768706Z"
+  },
+  {
+    "id": "7aaa5903-a273-444f-a40f-2809aa70f531",
+    "url": "https://github.com/j3ssie/metabigor",
+    "name": "MetaBigOr",
+    "description": "GitHub - j3ssie/metabigor: OSINT tools and more but without API key",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.600502301Z"
+  },
+  {
+    "id": "dacd7173-2ed2-44b8-82ee-5aa4e1db8504",
+    "url": "https://aadinternals.com/aadinternals/",
+    "name": "AAD Internals",
+    "description": "Documentation",
+    "path": [
+      "Infrastructure Security",
+      "Active Directory"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.468184667Z"
+  },
+  {
+    "id": "ca66a07c-d1f4-4756-bf73-13c44906e3b1",
+    "url": "https://github.com/mariocandela/beelzebub",
+    "name": "Beelzebub",
+    "description": "GitHub - mariocandela/beelzebub: A secure low code honeypot framework, leveraging AI for System Virtualization.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.788757543Z"
+  },
+  {
+    "id": "ee4a6d31-5ddb-4ed9-a513-d882c4232523",
+    "url": "https://lolbas-project.github.io/",
+    "name": "LOLBAS",
+    "description": "LOLBAS",
+    "path": [
+      "Infrastructure Security",
+      "Active Directory"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.568918303Z"
+  },
+  {
+    "id": "3acf4319-173f-44f9-b490-9526e3863eac",
+    "url": "https://github.com/sensity-ai/dot",
+    "name": "Deepfake Offensive Toolkit",
+    "description": "GitHub - sensity-ai/dot: The Deepfake Offensive Toolkit",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:11.08779224Z"
+  },
+  {
+    "id": "fa5013b2-2a9e-4939-88a9-ebcce2ac7325",
+    "url": "https://github.com/projectdiscovery/cvemap",
+    "name": "CVEMap",
+    "description": "GitHub - projectdiscovery/cvemap: Navigate the CVE jungle with ease.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.204892871Z"
+  },
+  {
+    "id": "52968784-142f-4735-8b1a-4bf27a4f2b6e",
+    "url": "https://github.com/kgretzky/evilginx2",
+    "name": "EvilGinx2",
+    "description": "GitHub - kgretzky/evilginx2: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.145631538Z"
+  },
+  {
+    "id": "bcedb558-98ab-40be-8bf2-a25b6439ad69",
+    "url": "https://blog.doyensec.com/2023/01/24/tampering-unrestricted-user-attributes-aws-cognito.html",
+    "name": "AWS Cognito Tampering",
+    "description": "Tampering User Attributes In AWS Cognito User Pools",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:12.994465444Z"
+  },
+  {
+    "id": "07b5726c-8d12-4915-ba73-96d683d3bbd7",
+    "url": "https://blog.calif.io/p/privilege-escalation-in-eks",
+    "name": "EKS Privilege Escalation Pod to Node",
+    "description": "EKS Privilege Escalation Pod to Node",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:13.776921087Z"
+  },
+  {
+    "id": "83bf2258-c185-4805-b6ad-e3896a124e0b",
+    "url": "https://github.com/woodruffw/gha-hazmat",
+    "name": "GHA-Hazmat",
+    "description": "A menagerie of insecure and exploitable GitHub Actions workflows and action definitions",
+    "path": [
+      "Cloud",
+      "CICD Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.73832196Z"
+  },
+  {
+    "id": "08e1bcec-131c-4463-90b1-d61258862145",
+    "url": "https://jimmysong.io/en/blog/sidecar-injection-iptables-and-traffic-routing/",
+    "name": "Intro to Istio & Sidecars",
+    "description": "Understanding sidecar injection",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.697172334Z"
+  },
+  {
+    "id": "ca7bebf0-36c5-498a-9f48-0450c7729dd4",
+    "url": "https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/privileged-roles-permissions",
+    "name": "Permissions of Privileged Roles in Entra ID",
+    "description": "contains stuff related to who can reset passwords for which role",
+    "path": [
+      "Reading List"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.786376089Z"
+  },
+  {
+    "id": "fa6ecc15-c048-4cf2-8be2-dbe1ed1838f4",
+    "url": "https://github.com/aquasecurity/cloudsploit",
+    "name": "CloudSploit",
+    "description": "GitHub - aquasecurity/cloudsploit: Cloud Security Posture Management (CSPM)",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:05.22110858Z"
+  },
+  {
+    "id": "e53be3dc-5b11-4584-a772-a47748169457",
+    "url": "https://github.com/dafthack/GraphRunner",
+    "name": "GraphRunner",
+    "description": "GitHub - dafthack/GraphRunner: A Post-exploitation Toolset for Interacting with the Microsoft Graph API",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.617549689Z"
+  },
+  {
+    "id": "8b12763e-fd5d-41da-972e-0567b1c2bc50",
+    "url": "https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/pocs/gcp_enum",
+    "name": "GCP Enum Script",
+    "description": "GitLab.com / GitLab Security Department / Security Operations Department / Red Team / Red Team Public / Scripts and PoCs / gcp_enum · GitLab",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.97632659Z"
+  },
+  {
+    "id": "d9db8b33-9094-4625-9b89-247680e3604c",
+    "url": "https://github.com/google/gcp_scanner",
+    "name": "GCP Scanner",
+    "description": "GitHub - google/gcp_scanner: A comprehensive scanner for Google Cloud",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.24179153Z"
+  },
+  {
+    "id": "fda152af-86dd-4f7f-9de3-6a968074bfc8",
+    "url": "https://github.com/containers/skopeo",
+    "name": "Skopeo",
+    "description": "GitHub - containers/skopeo: Work with remote images registries - retrieving information, images, signing content",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:09.442821886Z"
+  },
+  {
+    "id": "5a9bbeb8-797d-4a67-ac72-7e6136e0e23d",
+    "url": "https://github.com/aquia-inc/scpkit",
+    "name": "SCP Kit",
+    "description": "GitHub - aquia-inc/scpkit: SCP management tool",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.696094566Z"
+  },
+  {
+    "id": "e1b6ff48-5d37-48ef-b1ad-82346dd4a121",
+    "url": "https://github.com/aws-samples/iam-access-key-report",
+    "name": "IAM Access Key Report",
+    "description": "GitHub - aws-samples/iam-access-key-report",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:10.782884361Z"
+  },
+  {
+    "id": "b8ae5c6d-635d-4012-a8ba-87a9c52400dc",
+    "url": "https://github.com/welldone-cloud/aws-list-resources",
+    "name": "AWS List Resources",
+    "description": "GitHub - welldone-cloud/aws-list-resources",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.184965152Z"
+  },
+  {
+    "id": "7b0f2990-43bf-40db-940c-5c1d28231bcf",
+    "url": "https://github.com/offensive-actions/azure-storage-reverse-shell",
+    "name": "Azure Storage Reverse Shell",
+    "description": "GitHub - offensive-actions/azure-storage-reverse-shell: This GitHub Action sends a reverse shell from a runner via Azure Storage Account blobs",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.540032431Z"
+  },
+  {
+    "id": "1b995161-c4a0-4d61-bcd4-df1a68bbfa94",
+    "url": "https://github.com/aws-samples/aws-iamctl",
+    "name": "AWS IAM CTL",
+    "description": "GitHub - aws-samples/aws-iamctl",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.629054443Z"
+  },
+  {
+    "id": "3a4521ce-650b-4dbc-94c2-022d32114925",
+    "url": "https://github.com/NetSPI/aws_consoler",
+    "name": "AWS Consoler",
+    "description": "GitHub - NetSPI/aws_consoler: A utility to convert your AWS CLI credentials into AWS console access.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.578508175Z"
+  },
+  {
+    "id": "2b7c2334-7ac4-4ef3-a098-3fdaf1376637",
+    "url": "https://github.com/Shopify/kubeaudit",
+    "name": "KubeAudit",
+    "description": "GitHub - Shopify/kubeaudit: kubeaudit helps you audit your Kubernetes clusters against common security controls",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.879158359Z"
+  },
+  {
+    "id": "e44da221-eec8-491e-9c79-5460f8157bbc",
+    "url": "https://github.com/aws/amazon-ec2-metadata-mock",
+    "name": "EC2 Metadata Mock",
+    "description": "GitHub - aws/amazon-ec2-metadata-mock: A tool to simulate Amazon EC2 instance metadata",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.903991959Z"
+  },
+  {
+    "id": "51a24dd3-5a3a-49f2-9881-98c31d57d051",
+    "url": "https://github.com/aws-cloudformation/cloudformation-guard",
+    "name": "Cloudformation Guard",
+    "description": "GitHub - aws-cloudformation/cloudformation-guard: Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules. Take this survey to provide feedback about cfn-guard: https://amazonmr.au1.qualtrics.com/jfe/form/SV_bpyzpfoYGGuuUl0",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.067340176Z"
+  },
+  {
+    "id": "03eab70d-9081-427c-9b2a-836dbc95bec1",
+    "url": "https://github.com/awslabs/amazon-guardduty-tester",
+    "name": "GuardDuty Tester",
+    "description": "GitHub - awslabs/amazon-guardduty-tester: This script is used to generate some basic detections of the GuardDuty service",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.744422319Z"
+  },
+  {
+    "id": "be0f40a0-583c-4d56-b09c-6fbf2dc04a66",
+    "url": "https://github.com/scribe-public/gitgat",
+    "name": "GitGat",
+    "description": "GitHub - scribe-public/gitgat: Evaluate source control (GitHub) security posture",
+    "path": [
+      "Cloud",
+      "CICD Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.908263184Z"
+  },
+  {
+    "id": "581030df-6b69-4235-8eab-673cbbd4e5ee",
+    "url": "https://github.com/bridgecrewio/AirIAM",
+    "name": "AirIAM",
+    "description": "GitHub - bridgecrewio/AirIAM: Least privilege AWS IAM Terraformer",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.48828717Z"
+  },
+  {
+    "id": "5dffe146-3435-4421-9a7d-b0fd6ea5cb05",
+    "url": "https://github.com/inguardians/peirates",
+    "name": "Peirates",
+    "description": "GitHub - inguardians/peirates: Peirates - Kubernetes Penetration Testing tool",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.016952105Z"
+  },
+  {
+    "id": "2e33b3e6-8fe5-4006-84a0-5aa95473acb6",
+    "url": "https://github.com/RyanJarv/awesome-cloud-sec",
+    "name": "Awesome Cloud Sec",
+    "description": "GitHub - RyanJarv/awesome-cloud-sec: Awesome list for cloud security related projects",
+    "path": [
+      "Cloud"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.451724654Z"
+  },
+  {
+    "id": "2cf107ec-41af-4087-a94c-31809b320d9b",
+    "url": "https://github.com/cloudquery/cloudquery",
+    "name": "CloudQuery",
+    "description": "GitHub - cloudquery/cloudquery: The open source high performance data integration platform built for developers.",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.493988546Z"
+  },
+  {
+    "id": "8f716116-72ea-4475-9889-70bc84573bad",
+    "url": "https://github.com/cyberark/KubiScan",
+    "name": "KubiScan",
+    "description": "GitHub - cyberark/KubiScan: A tool to scan Kubernetes cluster for risky permissions",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.36473733Z"
+  },
+  {
+    "id": "5ee8109b-c06b-412c-b36a-6c65819202e8",
+    "url": "https://github.com/mondoohq/cnquery",
+    "name": "CNQuery",
+    "description": "GitHub - mondoohq/cnquery: open source, cloud-native, graph-based asset inventory",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.515959562Z"
+  },
+  {
+    "id": "5e7b24ee-87ca-44dd-a37a-3781f9ad78b0",
+    "url": "https://github.com/invictus-ir/Invictus-AWS",
+    "name": "Invictus AWS",
+    "description": "GitHub - invictus-ir/Invictus-AWS",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.430326994Z"
+  },
+  {
+    "id": "5f1d156a-9013-4be7-ae30-174ec3ef93b7",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "name": "Arsenal of AWS Security Tools",
+    "description": "GitHub - toniblyx/my-arsenal-of-aws-security-tools: List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:04.347906495Z"
+  },
+  {
+    "id": "9a1af45c-63ec-42ca-aea9-1103673c24ef",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "name": "Checkov",
+    "description": "GitHub - bridgecrewio/checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+    "path": [
+      "Cloud",
+      "IaC",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.497392164Z"
+  },
+  {
+    "id": "5c0d205e-e957-4e14-bcb0-34a8e831f0c4",
+    "url": "https://github.com/turnerlabs/antiope",
+    "name": "Antiope",
+    "description": "GitHub - turnerlabs/antiope: AWS Inventory and Compliance Framework",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:07.560829226Z"
+  },
+  {
+    "id": "7187908c-4be0-4187-9d27-956c1ef95bfc",
+    "url": "https://github.com/iknowjason/edge",
+    "name": "Edge",
+    "description": "GitHub - iknowjason/edge: Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:07.803039376Z"
+  },
+  {
+    "id": "74142565-ddf5-42a0-8121-d8af2317d331",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "name": "Prowler",
+    "description": "GitHub - prowler-cloud/prowler: Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.016360708Z"
+  },
+  {
+    "id": "3e4d99f1-77ed-45a0-8eb8-f62256446150",
+    "url": "https://github.com/praetorian-inc/gato",
+    "name": "GATO",
+    "description": "GitHub - praetorian-inc/gato: GitHub Actions Pipeline Enumeration and Attack Tool",
+    "path": [
+      "Cloud",
+      "CICD Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:08.898479173Z"
+  },
+  {
+    "id": "3b9cf362-acc0-4463-8b08-fdf05c949e98",
+    "url": "https://github.com/RhinoSecurityLabs/pacu",
+    "name": "PACU",
+    "description": "GitHub - RhinoSecurityLabs/pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:05.951866433Z"
+  },
+  {
+    "id": "d1a47486-9f49-4d87-b2d5-e722a54bd5e8",
+    "url": "https://github.com/noqdev/iambic",
+    "name": "IAMbic",
+    "description": "GitHub - noqdev/iambic: IAMbic is Version-Control for IAM. It centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in Git.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:58.761594755Z"
+  },
+  {
+    "id": "109d74a2-fc70-415a-9e44-4abe2504e7b6",
+    "url": "https://github.com/iann0036/iamlive",
+    "name": "IAM Live",
+    "description": "GitHub - iann0036/iamlive: Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.556188132Z"
+  },
+  {
+    "id": "27a48494-aef7-4138-807d-238147be2e53",
+    "url": "https://github.com/WithSecureLabs/IAMSpy",
+    "name": "IAMSpy",
+    "description": "This is the repository containing IAMSpy, a library that utilises the Z3 prover to attempt to answer questions about AWS IAM. It can load a variety of IAM policies and convert them to generate Z3 constraints and a model, from which queries can be made on identifying whether actions are allowed or not.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:53:59.776263339Z"
+  },
+  {
+    "id": "6717ff0e-3db6-4bf3-8414-ad15e0950cdb",
+    "url": "https://github.com/iknowjason/azrecon",
+    "name": "Az Recon",
+    "description": "GitHub - iknowjason/azrecon: Az Enum &amp; Recon Cheat Sheet",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.041485996Z"
+  },
+  {
+    "id": "d28031b8-1223-4b54-a80b-22704897f268",
+    "url": "https://github.com/NetSPI/gcpwn",
+    "name": "GCPwn",
+    "description": "Enumeration/exploit/analysis/download/etc pentesting framework for GCP; modeled like Pacu for AWS; a product of numerous hours via @WebbinRoot",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.070232903Z"
+  },
+  {
+    "id": "55de4e8a-84cd-4287-9e58-f79fc7ea2b6d",
+    "url": "https://github.com/DataDog/undocumented-aws-api-hunter",
+    "name": "Undocumented AWS API Hunter",
+    "description": "A tool to uncover undocumented APIs from the AWS Console.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.383865901Z"
+  },
+  {
+    "id": "f674c344-d6d1-4eae-830f-fef57486637a",
+    "url": "https://github.com/projectdiscovery/cloudlist",
+    "name": "Cloudlist",
+    "description": "GitHub - projectdiscovery/cloudlist: Cloudlist is a tool for listing Assets from multiple Cloud Providers.",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.476379847Z"
+  },
+  {
+    "id": "e0b77665-47b6-48e2-baa9-c7040bd122f0",
+    "url": "https://github.com/salesforce/cloudsplaining",
+    "name": "CloudSplaining",
+    "description": "GitHub - salesforce/cloudsplaining: Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.723083337Z"
+  },
+  {
+    "id": "09544027-57bc-4cb6-93d7-3fa729aee6b3",
+    "url": "https://github.com/vectra-ai-research/Halberd",
+    "name": "Halbred",
+    "description": "GitHub - vectra-ai-research/Halberd: Security testing tool to proactively assess cloud security by executing a comprehensive array of attack techniques across multiple surfaces via a simple web interface.",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.698811783Z"
+  },
+  {
+    "id": "3af42993-c2f9-4de8-8163-7eb1eed5110a",
+    "url": "https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/pocs/gcp_misc/-/tree/master?ref_type=heads",
+    "name": "GCP Open Resource Enum",
+    "description": "Files · master · GitLab.com / GitLab Security Department / Security Operations Department / Red Team / Red Team Public / Scripts and PoCs / gcp_misc · GitLab",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.969957228Z"
+  },
+  {
+    "id": "1215fb3a-1272-4f06-8b9c-04d6062e042c",
+    "url": "https://github.com/DataDog/KubeHound",
+    "name": "KubeHound",
+    "description": "GitHub - DataDog/KubeHound: Kubernetes Attack Graph",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.048387321Z"
+  },
+  {
+    "id": "1055533b-7d9c-4354-9d8a-0450ea4a02ce",
+    "url": "https://github.com/stealthcopter/deepce",
+    "name": "DEEPCE",
+    "description": "GitHub - stealthcopter/deepce: Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.084604202Z"
+  },
+  {
+    "id": "d93ba431-9962-4a35-95ba-977570f75d7c",
+    "url": "https://github.com/goodwithtech/dockle",
+    "name": "Dockle",
+    "description": "GitHub - goodwithtech/dockle: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.294089891Z"
+  },
+  {
+    "id": "0bdd5271-d8c2-4b48-8412-41ee22ff077e",
+    "url": "https://github.com/orcasecurity/orca-toolbox/tree/main/iam-ape",
+    "name": "AWS Policy Evaluator (APE)",
+    "description": "APE takes all of your AWS IAM policies attached to a User, Group, or Role object, and presents you with a single policy, summarizing all of their actual permissions. Taking into account permissions, denials, inherited permissions and permission boundaries!",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.040734223Z"
+  },
+  {
+    "id": "bfbb4b98-0d94-4611-b545-dc06790b7d70",
+    "url": "https://github.com/DataDog/managed-kubernetes-auditing-toolkit/",
+    "name": "Managed Kubernetes Audit Toolkit",
+    "description": "GitHub - DataDog/managed-kubernetes-auditing-toolkit: All-in-one auditing toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS.",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.12523949Z"
+  },
+  {
+    "id": "9ba20ccd-cce0-46c4-88d5-a60745dd064d",
+    "url": "https://github.com/sleeptok3n/RoleCrawl",
+    "name": "RoleCrawl",
+    "description": "GitHub - sleeptok3n/RoleCrawl",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.330824948Z"
+  },
+  {
+    "id": "4df18f3b-4e51-4c7a-85c0-80c015d0eedb",
+    "url": "https://github.com/hausec/PowerZure",
+    "name": "PowerZure",
+    "description": "GitHub - hausec/PowerZure: PowerShell framework to assess Azure security",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.439330491Z"
+  },
+  {
+    "id": "3adccc25-696f-4607-b75a-86dc852403e2",
+    "url": "https://github.com/initstring/cloud_enum",
+    "name": "Cloud Enum",
+    "description": "GitHub - initstring/cloud_enum: Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.478104838Z"
+  },
+  {
+    "id": "139a72c4-15cf-4a80-93b1-79d6b2c070f4",
+    "url": "https://github.com/vchinnipilli/kubestriker",
+    "name": "KubeStriker",
+    "description": "GitHub - vchinnipilli/kubestriker: A Blazing fast Security Auditing tool for Kubernetes",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.052252155Z"
+  },
+  {
+    "id": "29c410f0-b30a-410c-8e23-60f5c2b0b437",
+    "url": "https://github.com/BishopFox/cloudfox",
+    "name": "CloudFox",
+    "description": "GitHub - BishopFox/cloudfox: Automating situational awareness for cloud penetration tests.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.864134333Z"
+  },
+  {
+    "id": "275c5c59-a6e2-427a-9a85-78e25e95defe",
+    "url": "https://github.com/opentofu/opentofu",
+    "name": "OpenTofu",
+    "description": "Open source fork of Terraform",
+    "path": [
+      "Cloud",
+      "IaC"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.179649533Z"
+  },
+  {
+    "id": "a2de89d0-5ba9-4606-a049-ad27683ebe6a",
+    "url": "https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public",
+    "name": "Red Team Public Group",
+    "description": "Red Team Public · GitLab",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.10997623Z"
+  },
+  {
+    "id": "dea8e129-2cb0-48f3-a315-fd194b039a4e",
+    "url": "https://github.com/Netflix/repokid",
+    "name": "RepoKid",
+    "description": "GitHub - Netflix/repokid: AWS Least Privilege for Distributed, High-Velocity Deployment",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.1393647Z"
+  },
+  {
+    "id": "a0bf7fe4-ae33-4870-8d27-8f1c0b581e2f",
+    "url": "https://github.com/redhuntlabs/BucketLoot",
+    "name": "Bucket Loot",
+    "description": "GitHub - redhuntlabs/BucketLoot: BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.119547688Z"
+  },
+  {
+    "id": "9323d4d2-9e35-4110-8c76-7a18007b5074",
+    "url": "https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md",
+    "name": "AWS Security Resource Dump",
+    "description": "AWS security resources",
+    "path": [
+      "Cloud",
+      "AWS Security"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.14143009Z"
+  },
+  {
+    "id": "e18c6981-ffc3-4a5c-910f-91b2f85b338b",
+    "url": "https://github.com/Netflix-Skunkworks/policyuniverse",
+    "name": "Policy Universe",
+    "description": "GitHub - Netflix-Skunkworks/policyuniverse: Parse and Process AWS IAM Policies, Statements, ARNs, and wildcards.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:00.443730173Z"
+  },
+  {
+    "id": "6809402d-e1d1-4780-b9b0-f5ff149662a3",
+    "url": "https://github.com/iximiuz/kexp",
+    "name": "Kubernetes Explorer",
+    "description": "GitHub - iximiuz/kexp: k&#39;exp - Kubernetes Explorer",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.099517389Z"
+  },
+  {
+    "id": "57dd595a-bdfc-46e5-8d7e-6a5dc39a724d",
+    "url": "https://github.com/alestic/aws-cli-multi-account-sessions",
+    "name": "AWS CLI Multi Account Sessions",
+    "description": "GitHub - alestic/aws-cli-multi-account-sessions: bash functions to help run aws-cli commands across roles in multiple accounts with MFA",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.120071468Z"
+  },
+  {
+    "id": "09e350b1-7bf2-468d-a25d-cba8931bc397",
+    "url": "https://github.com/silverhack/monkey365",
+    "name": "Monkey 365",
+    "description": "GitHub - silverhack/monkey365: Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Microsoft Entra ID security configuration reviews.",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.292640849Z"
+  },
+  {
+    "id": "58ec6223-c14a-48f0-8499-27298c515d94",
+    "url": "https://github.com/cr0hn/dockerscan",
+    "name": "DockerScan",
+    "description": "GitHub - cr0hn/dockerscan: Docker security analysis &amp; hacking tools",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.325032389Z"
+  },
+  {
+    "id": "aead4763-c049-4e97-9481-8ef5810a8023",
+    "url": "https://github.com/controlplaneio/simulator",
+    "name": "Simulator",
+    "description": "GitHub - controlplaneio/simulator: Kubernetes Security Training Platform - focusing on security mitigation",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Labs"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.447447065Z"
+  },
+  {
+    "id": "1a0bb8e2-52f6-4a00-8282-39862769ac08",
+    "url": "https://github.com/onemorepereira/aws-sso-reporter",
+    "name": "AWS SSO Reported",
+    "description": "GitHub - onemorepereira/aws-sso-reporter: AWS SSO Reporter. It reports what users have access to what accounts as long as they are setup in AWS SSO.",
+    "path": [
+      "Cloud",
+      "AWS Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.498411419Z"
+  },
+  {
+    "id": "3ee02ffb-5615-4bca-ac83-95b51fae087f",
+    "url": "https://github.com/HackmichNet/AzTokenFinder",
+    "name": "Az Token Finder",
+    "description": "GitHub - HackmichNet/AzTokenFinder. It simply opens the processes you provide and searches through the memory for JWT like looking data and extracts them.",
+    "path": [
+      "Web Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.781920011Z"
+  },
+  {
+    "id": "bebc2cfa-3398-45c8-8f46-c3aaae8c24ef",
+    "url": "https://github.com/RhinoSecurityLabs/ccat",
+    "name": "Cloud Container Attack Tool",
+    "description": "GitHub - RhinoSecurityLabs/ccat: Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.583631582Z"
+  },
+  {
+    "id": "6d3af1e9-3084-45bf-867f-a3a37b2b26fd",
+    "url": "https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation",
+    "name": "GCP IAM Privescs",
+    "description": "GitHub - RhinoSecurityLabs/GCP-IAM-Privilege-Escalation: A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.",
+    "path": [
+      "Cloud",
+      "GCP Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.325987392Z"
+  },
+  {
+    "id": "a9f87226-6dc1-4b53-a8f3-8e3e80ea569e",
+    "url": "https://github.com/trufflesecurity/driftwood",
+    "name": "Driftwood",
+    "description": "GitHub - trufflesecurity/driftwood: Private key usage verification. Driftwood is a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user.",
+    "path": [
+      "Cloud",
+      "CICD Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.716217777Z"
+  },
+  {
+    "id": "ac0c0526-9ff1-4568-bfac-70e294207149",
+    "url": "https://github.com/BloodHoundAD/AzureHound",
+    "name": "AzureHound",
+    "description": "GitHub - BloodHoundAD/AzureHound: Azure Data Exporter for BloodHound",
+    "path": [
+      "Cloud",
+      "Azure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.752004342Z"
+  },
+  {
+    "id": "fe9a2924-fd74-4f7d-a2d0-ab08f6f42b90",
+    "url": "https://github.com/avolens/kubefuzz",
+    "name": "Kubefuzz",
+    "description": "GitHub - avolens/kubefuzz: Generative and mutative fuzzer for Kubernetes admission controller chains by automatically parsing the cluster api specification.",
+    "path": [
+      "Cloud",
+      "Kubernetes Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.768351743Z"
+  },
+  {
+    "id": "b7550dd4-9d59-444d-b7a6-c969cb0f9d09",
+    "url": "https://github.com/nccgroup/ScoutSuite",
+    "name": "ScoutSuite",
+    "description": "GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool",
+    "path": [
+      "Cloud",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.36297647Z"
+  },
+  {
+    "id": "e7c32121-463e-4766-b931-1e7a99000d2c",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "name": "Tsunami Scanner",
+    "description": "GitHub - google/tsunami-security-scanner: Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:01.953598572Z"
+  },
+  {
+    "id": "6847b600-7ff3-401c-bd02-fca883fabcfe",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "name": "Ciphey",
+    "description": "GitHub - Ciphey/Ciphey: ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.527613431Z"
+  },
+  {
+    "id": "d9248292-3e38-4419-94c6-2cc3dd10665b",
+    "url": "https://github.com/neilotoole/sq",
+    "name": "SQ",
+    "description": "sq is a command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.",
+    "path": [
+      "FOSS",
+      "CLI Magic"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.760921419Z"
+  },
+  {
+    "id": "27a84ab1-c506-4231-9c15-95f571c84878",
+    "url": "https://github.com/projectdiscovery/aix",
+    "name": "AIX",
+    "description": "GitHub - projectdiscovery/aix: AIx is a cli tool to interact with Large Language Models (LLM) APIs.",
+    "path": [
+      "FOSS",
+      "CLI Magic"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.760919295Z"
+  },
+  {
+    "id": "1e4680e7-098f-4ee8-9c9f-e018b69d7314",
+    "url": "https://github.com/AbdulRhmanAlfaifi/Fennec",
+    "name": "Fennec",
+    "description": "GitHub - AbdulRhmanAlfaifi/Fennec: Artifact collection tool for *nix systems",
+    "path": [
+      "Infrastructure Security",
+      "Tools"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.786458703Z"
+  },
+  {
+    "id": "569388c0-3d61-4eb6-b423-00ec56300bd8",
+    "url": "https://github.com/s0md3v/dump",
+    "name": "S0md3v - Dump",
+    "description": "GitHub - s0md3v/dump: Stuff that doesn&#39;t deserves its own repository.",
+    "path": [
+      "FOSS",
+      "Miscellaneous"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:03.069341904Z"
+  },
+  {
+    "id": "b69db2cb-50b6-463c-aaf4-d317894a29a9",
+    "url": "https://jless.io/",
+    "name": "JLess",
+    "description": "jless - A Command-Line JSON Viewer",
+    "path": [
+      "FOSS",
+      "CLI Magic"
+    ],
+    "health": {
+      "status": "healthy",
+      "statusCode": 200
+    },
+    "lastChecked": "2025-02-13T17:54:02.433382233Z"
+  }
+]
