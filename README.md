@@ -7,48 +7,48 @@
 Table of Contents &rarr;
 
 - [AI Security](#ai-security)
-    - [Labs](#labs)
+    - [Labs](#ai-security-labs)
 - [Cloud](#cloud)
-    - [AWS Security](#aws-security)
-        - [Labs](#labs)
-        - [Tools](#tools)
-    - [Azure Security](#azure-security)
-        - [Labs](#labs)
-        - [Tools](#tools)
-    - [CICD Security](#cicd-security)
-        - [Labs](#labs)
-        - [Tools](#tools)
-    - [GCP Security](#gcp-security)
-        - [Labs](#labs)
-        - [Tools](#tools)
-    - [IaC](#iac)
-        - [Tools](#tools)
-    - [Kubernetes Security](#kubernetes-security)
-        - [Labs](#labs)
-        - [Tools](#tools)
-    - [Labs](#labs)
-    - [Tools](#tools)
+    - [AWS Security](#cloud-aws-security)
+        - [Labs](#cloud-aws-security-labs)
+        - [Tools](#cloud-aws-security-tools)
+    - [Azure Security](#cloud-azure-security)
+        - [Labs](#cloud-azure-security-labs)
+        - [Tools](#cloud-azure-security-tools)
+    - [CICD Security](#cloud-cicd-security)
+        - [Labs](#cloud-cicd-security-labs)
+        - [Tools](#cloud-cicd-security-tools)
+    - [GCP Security](#cloud-gcp-security)
+        - [Labs](#cloud-gcp-security-labs)
+        - [Tools](#cloud-gcp-security-tools)
+    - [IaC](#cloud-iac)
+        - [Tools](#cloud-iac-tools)
+    - [Kubernetes Security](#cloud-kubernetes-security)
+        - [Labs](#cloud-kubernetes-security-labs)
+        - [Tools](#cloud-kubernetes-security-tools)
+    - [Labs](#cloud-labs)
+    - [Tools](#cloud-tools)
 - [Courses](#courses)
 - [Cybersecurity](#cybersecurity)
-    - [Labs](#labs)
-    - [Resources](#resources)
+    - [Labs](#cybersecurity-labs)
+    - [Resources](#cybersecurity-resources)
 - [Infrastructure Security](#infrastructure-security)
-    - [Active Directory](#active-directory)
-    - [Labs](#labs)
-    - [Linux](#linux)
-    - [Pentesting](#pentesting)
-    - [Tools](#tools)
+    - [Active Directory](#infrastructure-security-active-directory)
+    - [Labs](#infrastructure-security-labs)
+    - [Linux](#infrastructure-security-linux)
+    - [Pentesting](#infrastructure-security-pentesting)
+    - [Tools](#infrastructure-security-tools)
 - [Mobile Security](#mobile-security)
-    - [Labs](#labs)
-    - [Tools](#tools)
+    - [Labs](#mobile-security-labs)
+    - [Tools](#mobile-security-tools)
 - [Productivity & QoL](#productivity--qol)
 - [Web Security](#web-security)
-    - [Fuzzing](#fuzzing)
-    - [GraphQL](#graphql)
-    - [Labs](#labs)
-    - [Tools](#tools)
+    - [Fuzzing](#web-security-fuzzing)
+    - [GraphQL](#web-security-graphql)
+    - [Labs](#web-security-labs)
+    - [Tools](#web-security-tools)
 
-# AI Security
+# AI Security <a id="ai-security"></a>
 
 | Name | Description |
 |------|-------------|
@@ -57,15 +57,17 @@ Table of Contents &rarr;
 | [OffSecML](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook) | Welcome to the Offensive ML Playbook - OffSecML Playbook |
 | [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | GitHub - tensorchord/Awesome-LLMOps: An awesome &amp; curated list of best LLMOps tools for developers |
 | [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) | GitHub - tldrsec/prompt-injection-defenses: Every practical and proposed defense against prompt injection. |
+| [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
+ |
 
-## Labs
+## Labs <a id="ai-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
 | [AI Goat](https://github.com/dhammon/ai-goat) | vulnerable LLM CTF challenges setup locally |
 | [AI Goat](https://github.com/orcasecurity-research/AIGoat) | GitHub - orcasecurity-research/AIGoat: AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges. |
 
-# Cloud
+# Cloud <a id="cloud"></a>
 
 | Name | Description |
 |------|-------------|
@@ -79,7 +81,7 @@ Table of Contents &rarr;
 | [CloudSecDocs](https://cloudsecdocs.com/) | Welcome to CloudSecDocs - CloudSecDocs |
 | [Awesome Cloud Sec](https://github.com/RyanJarv/awesome-cloud-sec) | GitHub - RyanJarv/awesome-cloud-sec: Awesome list for cloud security related projects |
 
-## AWS Security
+## AWS Security <a id="cloud-aws-security"></a>
 
 | Name | Description |
 |------|-------------|
@@ -96,8 +98,11 @@ Table of Contents &rarr;
 | [AWS Cheat Sheet](https://github.com/invictus-ir/aws-cheatsheet) | GitHub - invictus-ir/aws-cheatsheet: A cheatsheet containing AWS CloudTrail events that can be used for Incident Response purposes or Detection Engineering. |
 | [Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) | GitHub - toniblyx/my-arsenal-of-aws-security-tools: List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. |
 | [AWS Security Resource Dump](https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md) | AWS security resources |
+| [AWS Sample Data Perimeter Policies](https://github.com/aws-samples/data-perimeter-policy-examples) | Examples of SCPs and RCPs to setup data perimeter policies to protect attack surfaces. |
+| [AWS RCP Examples](https://github.com/aws-samples/resource-control-policy-examples) | Example AWS Resource control policies to get started or mature your usage of AWS RCPs. |
+| [Awesome AWS](https://github.com/donnemartin/awesome-aws) | A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome. |
 
-### Labs
+### Labs <a id="cloud-aws-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
@@ -109,7 +114,7 @@ Table of Contents &rarr;
 | [AWS Goat](https://github.com/ine-labs/AWSGoat) | GitHub - ine-labs/AWSGoat: AWSGoat : A Damn Vulnerable AWS Infrastructure |
 | [CloudCommotion](https://github.com/SecurityRunners/cloudcommotion) | Causes commotion in the cloud using Terraform and AWS to simulate attacks and misconfigurations. |
 
-### Tools
+### Tools <a id="cloud-aws-security-tools"></a>
 
 | Name | Description |
 |------|-------------|
@@ -130,17 +135,19 @@ Table of Contents &rarr;
 | [IAMbic](https://github.com/noqdev/iambic) | GitHub - noqdev/iambic: IAMbic is Version-Control for IAM. It centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in Git. |
 | [IAM Live](https://github.com/iann0036/iamlive) | GitHub - iann0036/iamlive: Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy |
 | [IAMSpy](https://github.com/WithSecureLabs/IAMSpy) | This is the repository containing IAMSpy, a library that utilises the Z3 prover to attempt to answer questions about AWS IAM. It can load a variety of IAM policies and convert them to generate Z3 constraints and a model, from which queries can be made on identifying whether actions are allowed or not. |
-| [Undocumented AWS API Hunter](https://github.com/DataDog/undocumented-aws-api-hunter) | A tool to uncover undocumented APIs from the AWS Console. |
+| [Undocumented API Hunter](https://github.com/DataDog/undocumented-aws-api-hunter) | A tool to uncover undocumented APIs from the AWS Console. |
 | [CloudSplaining](https://github.com/salesforce/cloudsplaining) | GitHub - salesforce/cloudsplaining: Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. |
 | [AWS Policy Evaluator (APE)](https://github.com/orcasecurity/orca-toolbox/tree/main/iam-ape) | APE takes all of your AWS IAM policies attached to a User, Group, or Role object, and presents you with a single policy, summarizing all of their actual permissions. Taking into account permissions, denials, inherited permissions and permission boundaries! |
 | [CloudFox](https://github.com/BishopFox/cloudfox) | GitHub - BishopFox/cloudfox: Automating situational awareness for cloud penetration tests. |
 | [RepoKid](https://github.com/Netflix/repokid) | GitHub - Netflix/repokid: AWS Least Privilege for Distributed, High-Velocity Deployment |
 | [Bucket Loot](https://github.com/redhuntlabs/BucketLoot) | GitHub - redhuntlabs/BucketLoot: BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text. |
 | [Policy Universe](https://github.com/Netflix-Skunkworks/policyuniverse) | GitHub - Netflix-Skunkworks/policyuniverse: Parse and Process AWS IAM Policies, Statements, ARNs, and wildcards. |
-| [AWS CLI Multi Account Sessions](https://github.com/alestic/aws-cli-multi-account-sessions) | GitHub - alestic/aws-cli-multi-account-sessions: bash functions to help run aws-cli commands across roles in multiple accounts with MFA |
+| [AWS CLI Multi Sessions](https://github.com/alestic/aws-cli-multi-account-sessions) | GitHub - alestic/aws-cli-multi-account-sessions: bash functions to help run aws-cli commands across roles in multiple accounts with MFA |
 | [AWS SSO Reported](https://github.com/onemorepereira/aws-sso-reporter) | GitHub - onemorepereira/aws-sso-reporter: AWS SSO Reporter. It reports what users have access to what accounts as long as they are setup in AWS SSO. |
+| [AWSCurl](https://github.com/okigan/awscurl) | curl-like access to AWS resources with AWS Signature Version 4 request signing. |
+| [RansomWhen](https://github.com/Permiso-io-tools/RansomWhen) | RansomWhen is a tool to enumerate identities that can lock S3 Buckets using KMS, resulting in ransomwares, as well as detect occurances of S3 Ransomwares using KMS |
 
-## Azure Security
+## Azure Security <a id="cloud-azure-security"></a>
 
 | Name | Description |
 |------|-------------|
@@ -148,14 +155,14 @@ Table of Contents &rarr;
 | [Azure Security Survival Kit](https://github.com/03-Cyber/azure-security-survival-kit) | GitHub - O3-Cyber/azure-security-survival-kit |
 | [Awesome Azure Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) | GitHub - Kyuu-Ji/Awesome-Azure-Pentest: A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure. |
 
-### Labs
+### Labs <a id="cloud-azure-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
 | [PurpleCloud Azure](https://github.com/iknowjason/PurpleCloud) | GitHub - iknowjason/PurpleCloud: A little tool to play with Azure Identity - Azure Active Directory lab creation tool |
 | [Azure Goat](https://github.com/XMCyber/XMGoat) | a vulnerable environment, with some significant misconfigurations |
 
-### Tools
+### Tools <a id="cloud-azure-security-tools"></a>
 
 | Name | Description |
 |------|-------------|
@@ -167,10 +174,13 @@ Table of Contents &rarr;
 | [PowerZure](https://github.com/hausec/PowerZure) | GitHub - hausec/PowerZure: PowerShell framework to assess Azure security |
 | [Monkey 365](https://github.com/silverhack/monkey365) | GitHub - silverhack/monkey365: Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Microsoft Entra ID security configuration reviews. |
 | [AzureHound](https://github.com/BloodHoundAD/AzureHound) | GitHub - BloodHoundAD/AzureHound: Azure Data Exporter for BloodHound |
+| [TokenSmith](https://github.com/JumpsecLabs/TokenSmith) | TokenSmith generates Entra ID access & refresh tokens on offensive engagements. It is suitable for both covert adversary simulations and penetration tests with the tokens generated working out of the box with many popular Azure post exploitation tools. |
+| [Blackcat](https://github.com/azurekid/blackcat) | BlackCat is a PowerShell module designed to validate the security of Microsoft Azure. It provides a set of functions to identify potential security holes. |
+| [NoCAP](https://github.com/securesloth/noCAP) | Lightweight security tool for auditing your organization's Conditional Access Policies (CAPs) in Microsoft Entra ID for potential misconfigurations. |
 
-## CICD Security
+## CICD Security <a id="cloud-cicd-security"></a>
 
-### Labs
+### Labs <a id="cloud-cicd-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
@@ -178,7 +188,7 @@ Table of Contents &rarr;
 | [GHA Goat](https://github.com/step-security/github-actions-goat) | GitHub - step-security/github-actions-goat: GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment |
 | [GHA-Hazmat](https://github.com/woodruffw/gha-hazmat) | A menagerie of insecure and exploitable GitHub Actions workflows and action definitions |
 
-### Tools
+### Tools <a id="cloud-cicd-security-tools"></a>
 
 | Name | Description |
 |------|-------------|
@@ -188,14 +198,14 @@ Table of Contents &rarr;
 | [GATO](https://github.com/praetorian-inc/gato) | GitHub - praetorian-inc/gato: GitHub Actions Pipeline Enumeration and Attack Tool |
 | [Driftwood](https://github.com/trufflesecurity/driftwood) | GitHub - trufflesecurity/driftwood: Private key usage verification. Driftwood is a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user. |
 
-## GCP Security
+## GCP Security <a id="cloud-gcp-security"></a>
 
 | Name | Description |
 |------|-------------|
 | [GCP Permissions Reference](https://gcp.permissions.cloud/) | Permissions Reference for Google Cloud IAM \| gcp.permissions.cloud |
 | [Awesome GCP Security](https://github.com/Littlehack3r/awesome-gcp-pentesting) | GitHub - Littlehack3r/awesome-gcp-pentesting: Tools and blogs I use to perform GCP red teams |
 
-### Labs
+### Labs <a id="cloud-gcp-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
@@ -203,7 +213,7 @@ Table of Contents &rarr;
 | [GCP Goat](https://github.com/JOSHUAJEBARAJ/GCP-GOAT) | GitHub - JOSHUAJEBARAJ/GCP-GOAT: GCP GOAT is the vulnerable application for learn the GCP Security |
 | [Thunder CTF Cloud](https://thunder-ctf.cloud/) | Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP). |
 
-### Tools
+### Tools <a id="cloud-gcp-security-tools"></a>
 
 | Name | Description |
 |------|-------------|
@@ -214,7 +224,7 @@ Table of Contents &rarr;
 | [GCP Open Resource Enum](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/pocs/gcp_misc/-/tree/master?ref_type=heads) | Files · master · GitLab.com / GitLab Security Department / Security Operations Department / Red Team / Red Team Public / Scripts and PoCs / gcp_misc · GitLab |
 | [GCP IAM Privescs](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) | GitHub - RhinoSecurityLabs/GCP-IAM-Privilege-Escalation: A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team. |
 
-## IaC
+## IaC <a id="cloud-iac"></a>
 
 | Name | Description |
 |------|-------------|
@@ -224,13 +234,13 @@ Table of Contents &rarr;
 | [Terraform Examples](https://github.com/futurice/terraform-examples) | GitHub - futurice/terraform-examples: Terraform samples for all the major clouds you can copy and paste. The future, co-created. |
 | [OpenTofu](https://github.com/opentofu/opentofu) | Open source fork of Terraform |
 
-### Tools
+### Tools <a id="cloud-iac-tools"></a>
 
 | Name | Description |
 |------|-------------|
 | [Checkov](https://github.com/bridgecrewio/checkov) | GitHub - bridgecrewio/checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. |
 
-## Kubernetes Security
+## Kubernetes Security <a id="cloud-kubernetes-security"></a>
 
 | Name | Description |
 |------|-------------|
@@ -244,7 +254,7 @@ Table of Contents &rarr;
 | [Kubernetes Pentesting](https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-pentesting) | Kubernetes Pentesting - HackTricks Cloud |
 | [Pentesting Docker](https://book.hacktricks.xyz/network-services-pentesting/2375-pentesting-docker) | 2375, 2376 Pentesting Docker - HackTricks |
 
-### Labs
+### Labs <a id="cloud-kubernetes-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
@@ -253,7 +263,7 @@ Table of Contents &rarr;
 | [EKS Cluster Games](https://eksclustergames.com/) | challenges are based on real EKS misconfigurations and security issues |
 | [Simulator](https://github.com/controlplaneio/simulator) | GitHub - controlplaneio/simulator: Kubernetes Security Training Platform - focusing on security mitigation |
 
-### Tools
+### Tools <a id="cloud-kubernetes-security-tools"></a>
 
 | Name | Description |
 |------|-------------|
@@ -270,15 +280,18 @@ Table of Contents &rarr;
 | [DockerScan](https://github.com/cr0hn/dockerscan) | GitHub - cr0hn/dockerscan: Docker security analysis &amp; hacking tools |
 | [Cloud Container Attack Tool](https://github.com/RhinoSecurityLabs/ccat) | GitHub - RhinoSecurityLabs/ccat: Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments. |
 | [Kubefuzz](https://github.com/avolens/kubefuzz) | GitHub - avolens/kubefuzz: Generative and mutative fuzzer for Kubernetes admission controller chains by automatically parsing the cluster api specification. |
+| [Karpor](https://github.com/KusionStack/karpor) | Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams. |
+| [Grype](https://github.com/anchore/grype) | A vulnerability scanner for container images and filesystems. |
+| [Dive](https://github.com/wagoodman/dive) | A tool for exploring a Docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image. |
 
-## Labs
+## Labs <a id="cloud-labs"></a>
 
 | Name | Description |
 |------|-------------|
 | [Terragoat](https://github.com/bridgecrewio/terragoat) | GitHub - bridgecrewio/terragoat: TerraGoat is Bridgecrew&#39;s &quot;Vulnerable by Design&quot; Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments. |
 | [CNAPP-Goat](https://github.com/ermetic-research/cnappgoat) | GitHub - ermetic-research/cnappgoat: CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments. |
 
-## Tools
+## Tools <a id="cloud-tools"></a>
 
 | Name | Description |
 |------|-------------|
@@ -292,7 +305,7 @@ Table of Contents &rarr;
 | [Cloud Enum](https://github.com/initstring/cloud_enum) | GitHub - initstring/cloud_enum: Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. |
 | [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool |
 
-# Courses
+# Courses <a id="courses"></a>
 
 | Name | Description |
 |------|-------------|
@@ -304,15 +317,16 @@ Table of Contents &rarr;
 | [Hands-on ML](https://github.com/ageron/handson-ml3) | GitHub - ageron/handson-ml3: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
 | [Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path) | GitHub - techiescamp/kubernetes-learning-path: A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
 
-# Cybersecurity
+# Cybersecurity <a id="cybersecurity"></a>
 
-## Labs
+## Labs <a id="cybersecurity-labs"></a>
 
 | Name | Description |
 |------|-------------|
 | [Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab) | GitHub - frankwxu/digital-forensics-lab: Free hands-on digital forensics labs for students and faculty |
+| [Vulnerable Codes](https://vulnerable.codes/) | Learn to research vulnerabilities by reviewing the source code of real-world cases. Join our community of security researchers and level up your research skills. |
 
-## Resources
+## Resources <a id="cybersecurity-resources"></a>
 
 | Name | Description |
 |------|-------------|
@@ -324,14 +338,15 @@ Table of Contents &rarr;
  |
 | [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Technical Interview Guide for Busy Engineers \| Tech Interview Handbook |
 
-# Infrastructure Security
+# Infrastructure Security <a id="infrastructure-security"></a>
 
 | Name | Description |
 |------|-------------|
 | [Dorks Collection](https://github.com/cipher387/Dorks-collections-list) | GitHub - cipher387/Dorks-collections-list: List of Github repositories and articles with list of dorks for different search engines |
 | [Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis) | GitHub - analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. |
+| [OPKSSH](https://github.com/openpubkey/opkssh) | opkssh is a tool which enables ssh to be used with OpenID Connect allowing SSH access to be managed via identities like alice@example.com instead of long-lived SSH keys. It does not replace SSH, but instead generates SSH public keys containing PK Tokens and configures sshd to verify them. These PK Tokens contain standard OpenID Connect ID Tokens. |
 
-## Active Directory
+## Active Directory <a id="infrastructure-security-active-directory"></a>
 
 | Name | Description |
 |------|-------------|
@@ -341,13 +356,13 @@ Table of Contents &rarr;
 | [AAD Internals](https://aadinternals.com/aadinternals/) | Documentation |
 | [LOLBAS](https://lolbas-project.github.io/) | LOLBAS |
 
-## Labs
+## Labs <a id="infrastructure-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
 | [Under the Wire](https://underthewire.tech/) | UTW &#8211; Under the Wire&#8230; PowerShell Training for the People |
 
-## Linux
+## Linux <a id="infrastructure-security-linux"></a>
 
 | Name | Description |
 |------|-------------|
@@ -355,7 +370,7 @@ Table of Contents &rarr;
 | [Linux Syscalls 32-bit](https://syscalls32.paolostivanin.com/) | Linux Syscall Reference |
 | [GTFOBins](https://gtfobins.github.io/) | GTFOBins |
 
-## Pentesting
+## Pentesting <a id="infrastructure-security-pentesting"></a>
 
 | Name | Description |
 |------|-------------|
@@ -372,11 +387,11 @@ Table of Contents &rarr;
 | [Practical Ethical Hacking Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) | GitHub - TCM-Course-Resources/Practical-Ethical-Hacking-Resources: Compilation of Resources from TCM&#39;s Practical Ethical Hacking Udemy Course |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-## Tools
+## Tools <a id="infrastructure-security-tools"></a>
 
 | Name | Description |
 |------|-------------|
-| [Shodan Guide](https://community.turgensec.com/shodan-pentesting-guide/) | Shodan Pentesting Guide &#8211; TurgenSec Community |
+| [Misconfig Mapper](https://github.com/intigriti/misconfig-mapper) | Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets! |
 | [Guardicore - Infection Monkey](https://github.com/guardicore/monkey) | GitHub - guardicore/monkey: Infection Monkey - An open-source adversary emulation platform |
 | [HTTP Screenshot](https://github.com/breenmachine/httpscreenshot) | GitHub - breenmachine/httpscreenshot |
 | [NoseyParker](https://github.com/praetorian-inc/noseyparker) | GitHub - praetorian-inc/noseyparker: Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history. |
@@ -441,15 +456,33 @@ Table of Contents &rarr;
 | [Tsunami Scanner](https://github.com/google/tsunami-security-scanner) | GitHub - google/tsunami-security-scanner: Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. |
 | [Ciphey](https://github.com/Ciphey/Ciphey) | GitHub - Ciphey/Ciphey: ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡ |
 | [Fennec](https://github.com/AbdulRhmanAlfaifi/Fennec) | GitHub - AbdulRhmanAlfaifi/Fennec: Artifact collection tool for *nix systems |
+| [Doggo](https://github.com/mr-karan/doggo) | DNS client written in golang with better output formats |
+| [GoST](https://github.com/go-gost/gost) | GO Simple Tunnel - a simple tunnel written in golang |
+| [Web Check](https://github.com/Lissy93/web-check) | All-in-one OSINT tool for analysing any website. Also available at https://web-check.xyz |
+| [Age](https://github.com/FiloSottile/age) | A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
+| [HTTP Tap](https://github.com/monasticacademy/httptap) | View the HTTP and HTTPS requests made by any linux program by running httptap -- <command> |
+| [Venom](https://github.com/Dliv3/Venom) | Venom - A Multi-hop Proxy for Penetration Testers |
+| [Stowaway](https://github.com/ph4ntonn/Stowaway) | Stowaway -- Multi-hop Proxy Tool for pentesters |
+| [ICMPtunnel](https://github.com/DhavalKapil/icmptunnel) | Transparently tunnel your IP traffic through ICMP echo and reply packets. |
+| [PingTunnel](https://github.com/esrrhs/pingtunnel) | Pingtunnel is a tool that send TCP/UDP traffic over ICMP |
+| [GoHTTPTunnel](https://github.com/mmatczuk/go-http-tunnel) | Fast and secure tunnels over HTTP/2 |
+| [Bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost |
+| [FRP](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
+| [OpenGrep](https://github.com/opengrep/opengrep) | 🔎 Static code analysis engine to find security issues in code. |
+| [TCPing](https://github.com/pouriyajamshidi/tcping) | Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go |
+| [Sish](https://github.com/antoniomika/sish) | HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH. Ngrok alternative. |
+| [Endlessh](https://github.com/skeeto/endlessh) | Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner. It keeps SSH clients locked up for hours or even days at a time. |
+| [TruffleHog](https://github.com/trufflesecurity/trufflehog/) | TruffleHog is the most powerful secrets Discovery, Classification, Validation, and Analysis tool. In this context secret refers to a credential a machine uses to authenticate itself to another machine. This includes API keys, database passwords, private encryption keys, and more... |
+| [GitLeaks](https://github.com/gitleaks/gitleaks) | Gitleaks is a tool for detecting secrets like passwords, API keys, and tokens in git repos, files, and whatever else you wanna throw at it via stdin. |
 
-# Mobile Security
+# Mobile Security <a id="mobile-security"></a>
 
 | Name | Description |
 |------|-------------|
 | [Frida Codeshare](https://codeshare.frida.re/) | Frida CodeShare |
 | [MASTG](https://mas.owasp.org/MASTG/) | OWASP MASTG - OWASP Mobile Application Security |
 
-## Labs
+## Labs <a id="mobile-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
@@ -458,7 +491,7 @@ Table of Contents &rarr;
 | [DIVA Android](https://github.com/payatu/diva-android) | GitHub - payatu/diva-android: DIVA Android - Damn Insecure and vulnerable App for Android |
 | [Frida Labs](https://github.com/DERE-ad2001/Frida-Labs) | GitHub - DERE-ad2001/Frida-Labs: The repo contains a series of challenges for learning Frida for Android Exploitation. |
 
-## Tools
+## Tools <a id="mobile-security-tools"></a>
 
 | Name | Description |
 |------|-------------|
@@ -469,7 +502,7 @@ Table of Contents &rarr;
 | [Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | GitHub - MobSF/Mobile-Security-Framework-MobSF: Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
 | [GrapeFruit](https://github.com/chichou/grapefruit) | GitHub - ChiChou/grapefruit: (WIP) Runtime Application Instruments for iOS. Previously Passionfruit |
 
-# Productivity & QoL
+# Productivity & QoL <a id="productivity--qol"></a>
 
 | Name | Description |
 |------|-------------|
@@ -485,22 +518,23 @@ Table of Contents &rarr;
 | [Grep App](https://grep.app/) | grep.app \| code search |
 | [CodeGrepper](https://www.codegrepper.com/) | Grepper \| The Query & Answer System for the Coder Community |
 
-# Web Security
+# Web Security <a id="web-security"></a>
 
 | Name | Description |
 |------|-------------|
 | [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) | GitHub - ngalongc/bug-bounty-reference: Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature |
 | [Bug Bounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) | GitHub - devanshbatham/Awesome-Bugbounty-Writeups: A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference |
 | [OWASP CheatSheets](https://cheatsheetseries.owasp.org/Glossary.html) | Index Alphabetical - OWASP Cheat Sheet Series |
+| [Rogue Apps](https://github.com/huntresslabs/rogueapps) | This repository documents observed the TTPs associated with OIDC/OAuth 2.0 application attacks. |
 
-## Fuzzing
+## Fuzzing <a id="web-security-fuzzing"></a>
 
 | Name | Description |
 |------|-------------|
 | [Fuzzing Blog](https://bishopfox.com/blog/fuzzing-aka-fuzz-testing) | Fuzz Testing for blackbox security analysis \| Bishop Fox |
 | [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101) | GitHub - antonio-morales/Fuzzing101: An step by step fuzzing tutorial. A GitHub Security Lab initiative |
 
-## GraphQL
+## GraphQL <a id="web-security-graphql"></a>
 
 | Name | Description |
 |------|-------------|
@@ -508,7 +542,7 @@ Table of Contents &rarr;
 | [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) | GitHub - chentsulin/awesome-graphql: Awesome list of GraphQL |
 | [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) | built for bug bounty hunters, security researchers and hackers to assist with uncovering vulnerabilities across multiple GraphQL implementations. |
 
-## Labs
+## Labs <a id="web-security-labs"></a>
 
 | Name | Description |
 |------|-------------|
@@ -517,7 +551,7 @@ Table of Contents &rarr;
 | [Damn Vulnerable GraphQL App](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) | GitHub - dolevf/Damn-Vulnerable-GraphQL-Application: Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook&#39;s GraphQL technology, to learn and practice GraphQL Security. |
 | [JSON Interop Lab](https://github.com/BishopFox/json-interop-vuln-labs) | GitHub - BishopFox/json-interop-vuln-labs: Companion labs to &quot;An Exploration of JSON Interoperability Vulnerabilities&quot; |
 
-## Tools
+## Tools <a id="web-security-tools"></a>
 
 | Name | Description |
 |------|-------------|
@@ -551,4 +585,6 @@ Table of Contents &rarr;
 | [SubOver](https://github.com/Ice3man543/SubOver) | GitHub - Ice3man543/SubOver: A Powerful Subdomain Takeover Tool |
 | [YSoSerial](https://github.com/frohoff/ysoserial) | GitHub - frohoff/ysoserial: A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. |
 | [Az Token Finder](https://github.com/HackmichNet/AzTokenFinder) | GitHub - HackmichNet/AzTokenFinder. It simply opens the processes you provide and searches through the memory for JWT like looking data and extracts them. |
+| [Yaak](https://github.com/mountain-loop/yaak) | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
+| [Posting](https://github.com/darrenburns/posting) | A powerful HTTP client that lives in your terminal. |
 

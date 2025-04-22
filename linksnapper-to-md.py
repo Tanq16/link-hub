@@ -10,10 +10,12 @@ class CategoryNode:
         self.level = level
         self.links: List[Dict[str, Any]] = []
         self.subcategories: Dict[str, 'CategoryNode'] = {}
+        self.full_path: List[str] = []  # Store the full path to this category
 
-def create_anchor(text: str) -> str:
-    """Create GitHub-style anchor links."""
-    return text.lower().replace(' & ', '--').replace(' ', '-')
+def create_anchor(path: List[str]) -> str:
+    """Create GitHub-style anchor links that include the full path to ensure uniqueness."""
+    # Join all path components with hyphens to create a unique anchor
+    return '-'.join([component.lower().replace(' & ', '--').replace(' ', '-') for component in path])
 
 def build_category_tree(links: List[Dict[str, Any]]) -> Dict[str, CategoryNode]:
     root_categories: Dict[str, CategoryNode] = {}
@@ -24,9 +26,12 @@ def build_category_tree(links: List[Dict[str, Any]]) -> Dict[str, CategoryNode]:
         current_level = root_categories
         current_node = None
         heading_level = 1
+        current_path = []
         for category in path:
+            current_path.append(category)
             if category not in current_level:
                 current_level[category] = CategoryNode(category, heading_level)
+                current_level[category].full_path = current_path.copy()  # Store the full path
             current_node = current_level[category]
             current_level = current_node.subcategories
             heading_level += 1
@@ -35,11 +40,11 @@ def build_category_tree(links: List[Dict[str, Any]]) -> Dict[str, CategoryNode]:
     return root_categories
 
 def generate_toc(categories: Dict[str, CategoryNode], indent_level: int = 0) -> str:
-    """Generate table of contents with proper indentation and anchor links."""
+    """Generate table of contents with proper indentation and unique anchor links."""
     toc = []
     indent = "    " * indent_level
     for category in sorted(categories.values(), key=lambda x: x.name):
-        anchor = create_anchor(category.name)
+        anchor = create_anchor(category.full_path)
         toc.append(f"{indent}- [{category.name}](#{anchor})")
         if category.subcategories:
             toc.append(generate_toc(category.subcategories, indent_level + 1))
@@ -47,8 +52,12 @@ def generate_toc(categories: Dict[str, CategoryNode], indent_level: int = 0) -> 
 
 def generate_markdown(categories: Dict[str, CategoryNode], output_file: str):
     def write_category(f, category: CategoryNode):
-        # Write category heading
-        f.write(f"{'#' * category.level} {category.name}\n\n")
+        # Create a unique anchor ID based on the full path
+        anchor = create_anchor(category.full_path)
+        
+        # Write category heading with the anchor
+        f.write(f"{'#' * category.level} {category.name} <a id=\"{anchor}\"></a>\n\n")
+        
         # Write links table if there are any links
         if category.links:
             f.write("| Name | Description |\n")
