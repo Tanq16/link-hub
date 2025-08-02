@@ -1053,16 +1053,15 @@
     "id": "90e2fb9a-3896-4a6a-b66a-8c19f3ecaaed",
     "url": "https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/",
     "name": "AppSec Interview Questions",
-    "description": "\n  Application Security Engineer Interview Questions · AppSec Enthusiast\n",
+    "description": "Application Security Engineer Interview Questions - AppSec Enthusiast.",
     "path": [
       "Cybersecurity",
       "Resources"
     ],
     "health": {
-      "status": "healthy",
-      "statusCode": 200
+      "status": ""
     },
-    "lastChecked": "2025-08-02T01:08:51.866864326Z"
+    "lastChecked": "0001-01-01T00:00:00Z"
   },
   {
     "id": "9e555708-2904-4b8e-ab45-e8ba74b50149",
@@ -1112,16 +1111,15 @@
     "id": "4f0e376a-b8c2-42f4-b35d-646eba8e8a75",
     "url": "https://www.techinterviewhandbook.org/",
     "name": "Tech Interview Handbook",
-    "description": "Technical Interview Guide for Busy Engineers | Tech Interview Handbook",
+    "description": "Technical Interview Guide for Busy Engineers - Tech Interview Handbook",
     "path": [
       "Cybersecurity",
       "Resources"
     ],
     "health": {
-      "status": "healthy",
-      "statusCode": 200
+      "status": ""
     },
-    "lastChecked": "2025-08-02T01:08:48.993582839Z"
+    "lastChecked": "0001-01-01T00:00:00Z"
   },
   {
     "id": "e383ddfa-4058-44e1-a108-fe6789668920",
@@ -7084,15 +7082,14 @@
     "id": "de4037ee-78f3-45d7-8384-11367dd118ed",
     "url": "https://github.com/jivoi/awesome-ml-for-cybersecurity",
     "name": "Awesome ML for Cybersecurity",
-    "description": "A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.\n",
+    "description": "A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.",
     "path": [
       "AI Security"
     ],
     "health": {
-      "status": "healthy",
-      "statusCode": 200
+      "status": ""
     },
-    "lastChecked": "2025-08-02T01:08:54.852714938Z"
+    "lastChecked": "0001-01-01T00:00:00Z"
   },
   {
     "id": "382cb85c-879e-4a34-8f38-a0e346c55802",
@@ -7193,10 +7190,9 @@
       "AI Security"
     ],
     "health": {
-      "status": "healthy",
-      "statusCode": 200
+      "status": ""
     },
-    "lastChecked": "2025-08-02T01:08:55.278097929Z"
+    "lastChecked": "0001-01-01T00:00:00Z"
   },
   {
     "id": "25a8d771-3987-4713-a342-49a8f592a0b6",
@@ -7233,16 +7229,15 @@
     "id": "ea330ee3-ec5d-47fd-975b-ed5cf1d2678b",
     "url": "https://github.com/CyberRoute/graphspecter",
     "name": "Graph Specter",
-    "description": "Check if GraphQL introspection is enabled\nExport introspection data to JSON file\nExports queries and mutations ready to test\nExecutes queries and mutations in bulk or stand-alone",
+    "description": "Check if GraphQL introspection is enabled. Export introspection data to JSON file. Exports queries and mutations ready to test. Executes queries and mutations in bulk or stand-alone.",
     "path": [
       "Web Security",
       "Tools"
     ],
     "health": {
-      "status": "healthy",
-      "statusCode": 200
+      "status": ""
     },
-    "lastChecked": "2025-08-02T01:08:55.650388929Z"
+    "lastChecked": "0001-01-01T00:00:00Z"
   },
   {
     "id": "8ee2ef85-810d-4a0a-a0d9-8df73a12fdb0",
