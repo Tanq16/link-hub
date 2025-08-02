@@ -41,7 +41,9 @@ Table of Contents &rarr;
 - [Mobile Security](#mobile-security)
     - [Labs](#mobile-security-labs)
     - [Tools](#mobile-security-tools)
+- [Piracy](#piracy)
 - [Productivity & QoL](#productivity--qol)
+- [Uncategorized](#uncategorized)
 - [Web Security](#web-security)
     - [Fuzzing](#web-security-fuzzing)
     - [GraphQL](#web-security-graphql)
@@ -59,6 +61,8 @@ Table of Contents &rarr;
 | [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) | GitHub - tldrsec/prompt-injection-defenses: Every practical and proposed defense against prompt injection. |
 | [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
  |
+| [Deep Learning AI](https://www.deeplearning.ai/) | AI Courses and Specializations |
+| [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) | This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems. |
 
 ## Labs <a id="ai-security-labs"></a>
 
@@ -66,6 +70,7 @@ Table of Contents &rarr;
 |------|-------------|
 | [AI Goat](https://github.com/dhammon/ai-goat) | vulnerable LLM CTF challenges setup locally |
 | [AI Goat](https://github.com/orcasecurity-research/AIGoat) | GitHub - orcasecurity-research/AIGoat: AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges. |
+| [Damn Vulnerable MCP](https://github.com/harishsg993010/damn-vulnerable-MCP-server) | The Damn Vulnerable Model Context Protocol (DVMCP) is an educational project designed to demonstrate security vulnerabilities in MCP implementations. It contains 10 challenges of increasing difficulty that showcase different types of vulnerabilities and attack vectors. |
 
 # Cloud <a id="cloud"></a>
 
@@ -222,7 +227,6 @@ Table of Contents &rarr;
 | [GCP Scanner](https://github.com/google/gcp_scanner) | GitHub - google/gcp_scanner: A comprehensive scanner for Google Cloud |
 | [GCPwn](https://github.com/NetSPI/gcpwn) | Enumeration/exploit/analysis/download/etc pentesting framework for GCP; modeled like Pacu for AWS; a product of numerous hours via @WebbinRoot |
 | [GCP Open Resource Enum](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/pocs/gcp_misc/-/tree/master?ref_type=heads) | Files · master · GitLab.com / GitLab Security Department / Security Operations Department / Red Team / Red Team Public / Scripts and PoCs / gcp_misc · GitLab |
-| [GCP IAM Privescs](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) | GitHub - RhinoSecurityLabs/GCP-IAM-Privilege-Escalation: A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team. |
 
 ## IaC <a id="cloud-iac"></a>
 
@@ -283,6 +287,7 @@ Table of Contents &rarr;
 | [Karpor](https://github.com/KusionStack/karpor) | Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams. |
 | [Grype](https://github.com/anchore/grype) | A vulnerability scanner for container images and filesystems. |
 | [Dive](https://github.com/wagoodman/dive) | A tool for exploring a Docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image. |
+| [Cyphernetes](https://github.com/AvitalTamir/cyphernetes) | Cyphernetes is a Cypher-inspired query language for Kubernetes. A mixture of ASCII-art, SQL and JSONPath, it lets the user express Kubernetes graph operations in a fun and creative way. Cyphernetes works out-of-the-box with your CRDs, supports multi-cluster queries, and more. |
 
 ## Labs <a id="cloud-labs"></a>
 
@@ -318,6 +323,10 @@ Table of Contents &rarr;
 | [Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path) | GitHub - techiescamp/kubernetes-learning-path: A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
 
 # Cybersecurity <a id="cybersecurity"></a>
+
+| Name | Description |
+|------|-------------|
+| [Awesome Vulnerable Labs](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. |
 
 ## Labs <a id="cybersecurity-labs"></a>
 
@@ -502,6 +511,13 @@ Table of Contents &rarr;
 | [Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | GitHub - MobSF/Mobile-Security-Framework-MobSF: Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
 | [GrapeFruit](https://github.com/chichou/grapefruit) | GitHub - ChiChou/grapefruit: (WIP) Runtime Application Instruments for iOS. Previously Passionfruit |
 
+# Piracy <a id="piracy"></a>
+
+| Name | Description |
+|------|-------------|
+| [Stremio Guide](https://guides.viren070.me/stremio) | This guide contains all the information you need to setup Stremio, your on-demand streaming experience. |
+| [Everything Moe](https://everythingmoe.com/) | Curated toplist of everything Otaku culture |
+
 # Productivity & QoL <a id="productivity--qol"></a>
 
 | Name | Description |
@@ -517,6 +533,13 @@ Table of Contents &rarr;
 | [Untools](https://untools.co/) | Tools for better thinking \| Untools |
 | [Grep App](https://grep.app/) | grep.app \| code search |
 | [CodeGrepper](https://www.codegrepper.com/) | Grepper \| The Query & Answer System for the Coder Community |
+
+# Uncategorized <a id="uncategorized"></a>
+
+| Name | Description |
+|------|-------------|
+| [FMHY](https://fmhy.net/) | 4
+Free Media Heck Yeah. The largest collection of free stuff on the internet! |
 
 # Web Security <a id="web-security"></a>
 
@@ -587,4 +610,9 @@ Table of Contents &rarr;
 | [Az Token Finder](https://github.com/HackmichNet/AzTokenFinder) | GitHub - HackmichNet/AzTokenFinder. It simply opens the processes you provide and searches through the memory for JWT like looking data and extracts them. |
 | [Yaak](https://github.com/mountain-loop/yaak) | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 | [Posting](https://github.com/darrenburns/posting) | A powerful HTTP client that lives in your terminal. |
+| [CDN Check](https://github.com/projectdiscovery/cdncheck) | A utility to detect various technology for a given IP address. |
+| [Graph Specter](https://github.com/CyberRoute/graphspecter) | Check if GraphQL introspection is enabled
+Export introspection data to JSON file
+Exports queries and mutations ready to test
+Executes queries and mutations in bulk or stand-alone |
 
