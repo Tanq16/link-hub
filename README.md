@@ -59,8 +59,7 @@ Table of Contents &rarr;
 | [OffSecML](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook) | Welcome to the Offensive ML Playbook - OffSecML Playbook |
 | [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | GitHub - tensorchord/Awesome-LLMOps: An awesome &amp; curated list of best LLMOps tools for developers |
 | [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) | GitHub - tldrsec/prompt-injection-defenses: Every practical and proposed defense against prompt injection. |
-| [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
- |
+| [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security. |
 | [Deep Learning AI](https://www.deeplearning.ai/) | AI Courses and Specializations |
 | [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) | This repository serves as a comprehensive resource for learning, building, and sharing GenAI agents, ranging from simple conversational bots to complex, multi-agent systems. |
 
@@ -342,10 +341,8 @@ Table of Contents &rarr;
 | [Hacking EBooks](https://github.com/yeahhub/Hacking-Security-Ebooks) | GitHub - yeahhub/Hacking-Security-Ebooks: Top 100 Hacking &amp; Security E-Books (Free Download) |
 | [Hacker Roadmap](https://github.com/msrkp/hacker-roadmap) | GitHub - msrkp/hacker-roadmap: Roadmap to get started in Infosec for absolute begineer |
 | [Roadmaps for Study](https://roadmap.sh/roadmaps) | Roadmaps for a variety of different studies and fields |
-| [AppSec Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/) | 
-  Application Security Engineer Interview Questions · AppSec Enthusiast
- |
-| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Technical Interview Guide for Busy Engineers \| Tech Interview Handbook |
+| [AppSec Interview Questions](https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/) | Application Security Engineer Interview Questions - AppSec Enthusiast. |
+| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Technical Interview Guide for Busy Engineers - Tech Interview Handbook |
 
 # Infrastructure Security <a id="infrastructure-security"></a>
 
@@ -611,8 +608,5 @@ Free Media Heck Yeah. The largest collection of free stuff on the internet! |
 | [Yaak](https://github.com/mountain-loop/yaak) | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 | [Posting](https://github.com/darrenburns/posting) | A powerful HTTP client that lives in your terminal. |
 | [CDN Check](https://github.com/projectdiscovery/cdncheck) | A utility to detect various technology for a given IP address. |
-| [Graph Specter](https://github.com/CyberRoute/graphspecter) | Check if GraphQL introspection is enabled
-Export introspection data to JSON file
-Exports queries and mutations ready to test
-Executes queries and mutations in bulk or stand-alone |
+| [Graph Specter](https://github.com/CyberRoute/graphspecter) | Check if GraphQL introspection is enabled. Export introspection data to JSON file. Exports queries and mutations ready to test. Executes queries and mutations in bulk or stand-alone. |
 
