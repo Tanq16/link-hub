@@ -6,9 +6,6 @@ on:
     types: [opened, edited, deleted, closed]
   issue_comment:
     types: [created]
-  workflow_run:
-    workflows: ["Update README"]
-    types: [completed]
   pull_request:
     types: [opened, closed, edited, review_requested]
   pull_request_review_comment:
@@ -26,15 +23,6 @@ jobs:
         run: |
           curl -H "Content-Type: application/json" -X POST \
           -d "{\"content\": \"*New issue/comment from **${{ github.actor }}***\n${{ github.event.issue.html_url }}\"}" ${{ secrets.DISCORD_WEBHOOK }}
-
-  build-status-notification:
-    if: github.event_name == 'workflow_run'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Notify on Build Status
-        run: |
-          curl -H "Content-Type: application/json" -X POST \
-          -d "{\"content\": \"*Workflow run for **${{ github.repository }}***\n${{ github.event.workflow_run.name }} - ${{ github.event.workflow_run.conclusion }}\"}" ${{ secrets.DISCORD_WEBHOOK }}
 
   pull-request-notification:
     if: github.event_name == 'pull_request' || github.event_name == 'pull_request_review_comment' || github.event_name == 'pull_request_review'
