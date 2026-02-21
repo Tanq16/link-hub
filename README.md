@@ -42,7 +42,6 @@
     - [Tools](#mobile-security-tools)
 - [Piracy](#piracy)
 - [Productivity & QoL](#productivity-qol)
-- [Uncategorized](#uncategorized)
 - [Web Security](#web-security)
     - [Fuzzing](#web-security-fuzzing)
     - [GraphQL](#web-security-graphql)
@@ -160,6 +159,7 @@
 |------|-------------|
 | [Awesome Azure Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) | GitHub - Kyuu-Ji/Awesome-Azure-Pentest: A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure. |
 | [Azure Security Survival Kit](https://github.com/03-Cyber/azure-security-survival-kit) | GitHub - O3-Cyber/azure-security-survival-kit |
+| [Entra ID RBAC Permission Reference](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference) | Entra ID RBAC Permission Reference - Entra ID Built in |
 | [Microsoft Portals Reference](https://cmd.ms) | 🖥 Home \| [cmd.ms] \| List of Microsoft Portals, their links, and use cases. |
 
 ### <a id="cloud-azure-security-labs"></a> Labs
@@ -541,12 +541,6 @@
 | [TinyWow](https://tinywow.com/) | Free AI Writing, PDF, Image, and other Online Tools - TinyWow |
 | [ToS;DR](https://tosdr.org) | Frontpage -- Terms of Service; Didn&#039;t Read |
 | [Untools](https://untools.co/) | Tools for better thinking \| Untools |
-
-# <a id="uncategorized"></a> Uncategorized
-
-| Name | Description |
-|------|-------------|
-| [Entra ID RBAC Permission Reference](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference) | Entra ID RBAC Permission Reference - Entra ID Built in |
 
 # <a id="web-security"></a> Web Security
 
