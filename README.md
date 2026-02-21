@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".github/assets/logo.svg" alt="LinkHub Logo" width="250" height="250" />
+<img src=".github/assets/logo.png" alt="LinkHub Logo" width="250" height="250" />
 </p>
 <h1 align="center">Cybersecurity Links Dump</h1>
 
@@ -55,6 +55,7 @@
 
 | Name | Description |
 |------|-------------|
+| [ARC PI Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy/) | Prompt injection taxonomy |
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model |
 | [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) | GitHub - tensorchord/Awesome-LLMOps: An awesome &amp; curated list of best LLMOps tools for developers |
 | [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security. |
@@ -104,6 +105,7 @@
 | [AWS Security Resource Dump](https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md) | AWS security resources |
 | [AWS Security Survival Kit](https://github.com/zoph-io/aws-security-survival-kit) | GitHub - zoph-io/aws-security-survival-kit: Bare minimum AWS Security Alerting and Configuration |
 | [FWD CloudSec - Known AWS Accounts](https://github.com/fwdcloudsec/known_aws_accounts) | GitHub - fwdcloudsec/known_aws_accounts: List of known AWS accounts |
+| [Pathfinding.Cloud](https://github.com/DataDog/pathfinding.cloud) | pathfinding.cloud is a comprehensive, community-maintained library documenting AWS IAM privilege escalation paths. This project builds upon foundational research by Spencer Gietzen at Rhino Security Labs and subsequent contributions from many other security researchers. |
 | [Security Reference Architecture Examples](https://github.com/aws-samples/aws-security-reference-architecture-examples) | GitHub - aws-samples/aws-security-reference-architecture-examples: Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation (including Customizations for AWS Control Tower) and Terraform. |
 | [Sensitive IAM Actions List](https://github.com/primeharbor/sensitive_iam_actions) | GitHub - primeharbor/sensitive_iam_actions: Crowdsourced list of sensitive IAM Actions |
 
@@ -197,6 +199,7 @@
 
 | Name | Description |
 |------|-------------|
+| [ADOKit](https://github.com/xforcered/ADOKit) | ADOKit is a toolkit that can be used to attack Azure DevOps Services by taking advantage of the available REST API to perform attacks and enumeration. |
 | [Driftwood](https://github.com/trufflesecurity/driftwood) | GitHub - trufflesecurity/driftwood: Private key usage verification. Driftwood is a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user. |
 | [GATO](https://github.com/praetorian-inc/gato) | GitHub - praetorian-inc/gato: GitHub Actions Pipeline Enumeration and Attack Tool |
 | [GitGat](https://github.com/scribe-public/gitgat) | GitHub - scribe-public/gitgat: Evaluate source control (GitHub) security posture |
@@ -316,6 +319,7 @@
 |------|-------------|
 | [BurpSuite Certified Practitioner](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study) | GitHub - botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study: Burp Suite Certified Practitioner Exam Study |
 | [CKSS Resources](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) | GitHub - walidshaari/Certified-Kubernetes-Security-Specialist: Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 &quot;Kubernetes Certified Security Specialist&quot; Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you. |
+| [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft Cloud Advocates. |
 | [Hands-on ML](https://github.com/ageron/handson-ml3) | GitHub - ageron/handson-ml3: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
 | [Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path) | GitHub - techiescamp/kubernetes-learning-path: A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
 | [Modern BinExp](https://github.com/rpisec/mbe) | GitHub - RPISEC/MBE: Course materials for Modern Binary Exploitation by RPISEC |
@@ -326,7 +330,9 @@
 
 | Name | Description |
 |------|-------------|
+| [Awesome Go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software |
 | [Awesome Vulnerable Labs](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. |
+| [cuddlephish](https://github.com/fkasler/cuddlephish) | Weaponized Browser-in-the-Middle (BitM) for Penetration Testers |
 
 ## <a id="cybersecurity-labs"></a> Labs
 
@@ -461,6 +467,7 @@
 | [PWN-cat](https://github.com/cytopia/pwncat) | GitHub - cytopia/pwncat: pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE) |
 | [Red Team Public Group](https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public) | Red Team Public · GitLab |
 | [SecretBench](https://github.com/setu1421/SecretBench) | GitHub - setu1421/SecretBench: SecretBench is a dataset consisting of different secret types collected from public open-source repositories. |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
 | [ShiftLeft SAST](https://github.com/ShiftLeftSecurity/sast-scan) | GitHub - ShiftLeftSecurity/sast-scan: Scan is a free &amp; Open Source DevSecOps tool for performing static analysis based security testing of your applications and its dependencies. CI and Git friendly. |
 | [Shootback](https://github.com/aploium/shootback) | GitHub - aploium/shootback: a reverse TCP tunnel let you access target behind NAT or firewall |
 | [SimpleHTTPServer](https://github.com/projectdiscovery/simplehttpserver) | GitHub - projectdiscovery/simplehttpserver: Go alternative of python SimpleHTTPServer |
@@ -468,6 +475,7 @@
 | [SMAP](https://github.com/s0md3v/Smap) | GitHub - s0md3v/Smap: a drop-in replacement for Nmap powered by shodan.io |
 | [Sn1per](https://github.com/1N3/Sn1per) | GitHub - 1N3/Sn1per: Attack Surface Management Platform |
 | [Snaffler](https://github.com/SnaffCon/Snaffler) | GitHub - SnaffCon/Snaffler: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax ) |
+| [Snitch](https://github.com/karol-broda/snitch) | a friendlier ss / netstat for humans. inspect network connections with a clean tui or styled tables. |
 | [Spoofy](https://github.com/MattKeeley/Spoofy) | GitHub - MattKeeley/Spoofy: Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records. |
 | [Stowaway](https://github.com/ph4ntonn/Stowaway) | Stowaway -- Multi-hop Proxy Tool for pentesters |
 | [SubFinder](https://github.com/projectdiscovery/subfinder) | GitHub - projectdiscovery/subfinder: Fast passive subdomain enumeration tool. |
@@ -480,6 +488,7 @@
 | [Venom](https://github.com/Dliv3/Venom) | Venom - A Multi-hop Proxy for Penetration Testers |
 | [VulnHuntr](https://github.com/protectai/vulnhuntr) | A tool to identify remotely exploitable vulnerabilities using LLMs and static code analysis. |
 | [Web Check](https://github.com/Lissy93/web-check) | All-in-one OSINT tool for analysing any website. Also available at https://web-check.xyz |
+| [WhosThere](https://github.com/ramonvermeulen/whosthere) | Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? |
 | [WSTunnel](https://github.com/erebe/wstunnel) | GitHub - erebe/wstunnel: Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available |
 
 # <a id="mobile-security"></a> Mobile Security
@@ -514,6 +523,7 @@
 | Name | Description |
 |------|-------------|
 | [Everything Moe](https://everythingmoe.com/) | Curated toplist of everything Otaku culture |
+| [FMHY](https://fmhy.net/) | Free Media Heck Yeah. The largest collection of free stuff on the internet! |
 | [Stremio Guide](https://guides.viren070.me/stremio) | This guide contains all the information you need to setup Stremio, your on-demand streaming experience. |
 
 # <a id="productivity-qol"></a> Productivity & QoL
@@ -536,8 +546,7 @@
 
 | Name | Description |
 |------|-------------|
-| [FMHY](https://fmhy.net/) | 4
-Free Media Heck Yeah. The largest collection of free stuff on the internet! |
+| [Entra ID RBAC Permission Reference](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference) | Entra ID RBAC Permission Reference - Entra ID Built in |
 
 # <a id="web-security"></a> Web Security
 
