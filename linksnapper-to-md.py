@@ -127,7 +127,7 @@ def main():
 
     header = """\
 <p align="center">
-<img src=".github/assets/logo.png" alt="LinkHub Logo" width="250" height="250" />
+<img src=".github/assets/logo.svg" alt="LinkHub Logo" width="250" height="250" />
 </p>
 <h1 align="center">Cybersecurity Links Dump</h1>
 
